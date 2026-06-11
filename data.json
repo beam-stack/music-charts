@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11 11:15",
+  "updated": "2026-06-11 11:20",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -346,68 +346,7 @@
       "badge": "badge-wangyiyun",
       "name": "飆升榜",
       "freq": "每天",
-      "songs": [
-        {
-          "rank": 1,
-          "name": "玻璃",
-          "artist": "Gareth.T",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "12.31",
-          "artist": "郑润泽",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "迷人的危险(Live)",
-          "artist": "Ghost (王琳凯)/姚晓棠",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "Alive",
-          "artist": "王嘉尔/五月天 阿信",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "Baby Now That I Found You",
-          "artist": "Ella Bright",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "台北一夜",
-          "artist": "Vansdaddy/华云龙KLE",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "AOE Pt.2",
-          "artist": "DD Ma Shawty/BOBBYNOPEACE/LusciousBB",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "借过一下 (live)",
-          "artist": "胡彦斌/Jony J",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "感官过载",
-          "artist": "残像音阶/M3mo",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "香烟与吻痕",
-          "artist": "Hogee",
-          "trend": "flat"
-        }
-      ]
+      "songs": []
     },
     {
       "platform": "網易雲",
@@ -903,16 +842,16 @@
       "count": 2
     },
     {
-      "name": "台北一夜",
-      "artist": "Vansdaddy/华云龙KLE",
+      "name": "金志文 - 为爱痴狂 (想要问问你敢不敢)",
+      "artist": "",
       "tags": [
         {
-          "label": "網易雲#1",
-          "c": "tag-green"
+          "label": "酷狗#3",
+          "c": "tag-orange"
         },
         {
-          "label": "網易雲#6",
-          "c": "tag-green"
+          "label": "酷狗#4",
+          "c": "tag-orange"
         }
       ],
       "count": 2
