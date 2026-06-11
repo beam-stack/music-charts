@@ -1,0 +1,52 @@
+{
+  "updated": "首次部署—請執行 Actions 取得即時資料",
+  "charts": [
+    {
+      "platform": "QQ音樂", "badge": "badge-qq", "name": "熱歌榜", "freq": "每日更新",
+      "songs": [
+        {"rank":1,"name":"半壺紗","artist":"劉珂矣","trend":"flat"},
+        {"rank":2,"name":"戀人","artist":"李榮浩","trend":"flat"},
+        {"rank":3,"name":"陰愛","artist":"楊芝琳","trend":"flat"},
+        {"rank":4,"name":"陰天","artist":"莫文蔚","trend":"flat"},
+        {"rank":5,"name":"雨過後的風景","artist":"Dizzy Dizzo","trend":"flat"}
+      ]
+    },
+    {
+      "platform": "網易雲", "badge": "badge-wangyiyun", "name": "熱歌榜", "freq": "每天",
+      "songs": [
+        {"rank":1,"name":"歲月如筆寫春秋","artist":"河南三妹5233","trend":"flat"},
+        {"rank":2,"name":"主角","artist":"王菲","trend":"flat"},
+        {"rank":3,"name":"有福的日落","artist":"薑海棠","trend":"flat"},
+        {"rank":4,"name":"山野開花又落","artist":"薑海棠","trend":"up21"},
+        {"rank":5,"name":"戀人","artist":"李榮浩","trend":"flat"}
+      ]
+    },
+    {
+      "platform": "酷狗", "badge": "badge-kugou", "name": "TOP500", "freq": "每天",
+      "songs": [
+        {"rank":1,"name":"歲月如筆寫春秋","artist":"河南三妹5233","trend":"flat"},
+        {"rank":2,"name":"燧火","artist":"黛古Gem","trend":"flat"},
+        {"rank":3,"name":"有福的日落","artist":"薑海棠","trend":"flat"},
+        {"rank":4,"name":"半壺紗","artist":"劉珂矣","trend":"up1"},
+        {"rank":5,"name":"人生路漫漫","artist":"白小白","trend":"flat"}
+      ]
+    }
+  ],
+  "cross": [
+    {
+      "name":"戀人","artist":"李榮浩","count":3,
+      "tags":[
+        {"label":"QQ#2","c":"tag-blue"},
+        {"label":"網易雲#5","c":"tag-green"},
+        {"label":"酷狗#22","c":"tag-orange"}
+      ]
+    },
+    {
+      "name":"半壺紗","artist":"劉珂矣","count":2,
+      "tags":[
+        {"label":"QQ#1","c":"tag-blue"},
+        {"label":"酷狗#4","c":"tag-orange"}
+      ]
+    }
+  ]
+}
