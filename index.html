@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>各平台音樂榜單監控</title>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0f0f13;
+    --bg2: #17171e;
+    --bg3: #1e1e28;
+    --border: rgba(255,255,255,0.08);
+    --border2: rgba(255,255,255,0.14);
+    --text: #e8e8f0;
+    --text2: #9090a8;
+    --text3: #5a5a72;
+    --accent: #7c6af7;
+    --accent2: #a08cf8;
+    --up: #ff4d6d;
+    --down: #4db8ff;
+    --new: #4ecca3;
+    --radius: 10px;
+    --radius-sm: 6px;
+  }
+
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang TC", "Noto Sans TC", sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+  /* ── Top bar ── */
+  .topbar { display: flex; align-items: center; justify-content: space-between; padding: 14px 20px; background: var(--bg2); border-bottom: 0.5px solid var(--border); position: sticky; top: 0; z-index: 100; flex-wrap: wrap; gap: 8px; }
+  .topbar-left { display: flex; align-items: center; gap: 10px; }
+  .logo { font-size: 18px; font-weight: 600; color: var(--text); letter-spacing: -0.3px; }
+  .logo span { color: var(--accent2); }
+  .update-badge { font-size: 11px; color: var(--text3); background: var(--bg3); border: 0.5px solid var(--border); padding: 3px 10px; border-radius: 20px; }
+  .refresh-btn { display: flex; align-items: center; gap: 6px; font-size: 13px; padding: 6px 14px; border-radius: var(--radius-sm); border: 0.5px solid var(--border2); background: var(--bg3); color: var(--text2); cursor: pointer; transition: all 0.15s; }
+  .refresh-btn:hover { border-color: var(--accent); color: var(--accent2); }
+  .refresh-btn svg { width: 14px; height: 14px; }
+
+  /* ── Tabs ── */
+  .tabs { display: flex; gap: 0; padding: 0 20px; background: var(--bg2); border-bottom: 0.5px solid var(--border); overflow-x: auto; }
+  .tab { padding: 11px 18px; font-size: 13px; cursor: pointer; border-bottom: 2px solid transparent; color: var(--text2); white-space: nowrap; transition: all 0.15s; }
+  .tab:hover { color: var(--text); }
+  .tab.active { color: var(--text); border-bottom-color: var(--accent2); font-weight: 500; }
+
+  /* ── Platform filter ── */
+  .filter-bar { display: flex; gap: 6px; padding: 14px 20px; flex-wrap: wrap; }
+  .filter-btn { font-size: 12px; padding: 4px 12px; border-radius: 20px; border: 0.5px solid var(--border2); background: transparent; color: var(--text2); cursor: pointer; transition: all 0.15s; }
+  .filter-btn:hover, .filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+  /* ── Charts grid ── */
+  .charts-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; padding: 0 20px 24px; }
+
+  .chart-card { background: var(--bg2); border: 0.5px solid var(--border); border-radius: var(--radius); overflow: hidden; transition: border-color 0.15s; }
+  .chart-card:hover { border-color: var(--border2); }
+
+  .card-header { display: flex; align-items: center; justify-content: space-between; padding: 10px 14px 9px; border-bottom: 0.5px solid var(--border); }
+  .card-header-left { display: flex; align-items: center; gap: 7px; }
+  .plat-badge { font-size: 10px; font-weight: 600; padding: 2px 8px; border-radius: 20px; letter-spacing: 0.3px; }
+  .badge-qq     { background: #0f3460; color: #7eb8f7; }
+  .badge-netease{ background: #3d0c0c; color: #ff9090; }
+  .badge-kugou  { background: #0a2d5e; color: #6ab4ff; }
+  .card-name { font-size: 13px; font-weight: 500; color: var(--text); }
+  .card-freq { font-size: 11px; color: var(--text3); }
+
+  .song-row { display: flex; align-items: center; gap: 9px; padding: 7px 14px; transition: background 0.1s; cursor: default; }
+  .song-row:hover { background: var(--bg3); }
+  .rk { font-size: 13px; font-weight: 500; color: var(--text3); min-width: 18px; text-align: center; }
+  .rk.top1 { color: #ffd700; }
+  .rk.top2 { color: #c0c0c0; }
+  .rk.top3 { color: #cd7f32; }
+  .song-info { flex: 1; min-width: 0; }
+  .song-name { font-size: 13px; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .song-artist { font-size: 11px; color: var(--text2); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin-top: 1px; }
+  .trend { font-size: 11px; min-width: 28px; text-align: right; font-weight: 500; }
+  .t-up   { color: var(--up); }
+  .t-down { color: var(--down); }
+  .t-new  { color: var(--new); }
+  .t-flat { color: var(--text3); }
+  .empty-card { grid-column: 1/-1; text-align: center; padding: 40px; color: var(--text3); font-size: 14px; }
+
+  /* ── Cross chart / hot ── */
+  .section-wrap { padding: 4px 20px 24px; }
+  .section-title { display: flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 500; color: var(--text2); margin-bottom: 14px; padding-top: 4px; }
+  .section-title svg { color: var(--up); }
+  .hot-list { display: flex; flex-direction: column; gap: 10px; }
+  .hot-item { background: var(--bg2); border: 0.5px solid var(--border); border-radius: var(--radius); padding: 12px 16px; }
+  .hot-item-top { display: flex; align-items: center; gap: 12px; margin-bottom: 9px; }
+  .count-badge { font-size: 12px; font-weight: 600; padding: 3px 12px; border-radius: 20px; background: rgba(255,77,109,0.15); color: var(--up); border: 0.5px solid rgba(255,77,109,0.3); white-space: nowrap; }
+  .hot-song-name { font-size: 15px; font-weight: 500; color: var(--text); }
+  .hot-song-artist { font-size: 12px; color: var(--text2); margin-top: 1px; }
+  .tags-row { display: flex; flex-wrap: wrap; gap: 5px; }
+  .tag { font-size: 11px; padding: 2px 9px; border-radius: 20px; font-weight: 500; }
+  .tag-green  { background: rgba(0,160,80,0.18);  color: #4ecca3; border: 0.5px solid rgba(0,160,80,0.3); }
+  .tag-blue   { background: rgba(0,100,220,0.18); color: #7eb8f7; border: 0.5px solid rgba(0,100,220,0.3); }
+  .tag-orange { background: rgba(255,140,0,0.15); color: #ffb84d; border: 0.5px solid rgba(255,140,0,0.3); }
+  .tag-red    { background: rgba(220,30,30,0.15);  color: #ff9090; border: 0.5px solid rgba(220,30,30,0.3); }
+
+  /* ── Loading / error ── */
+  .status-msg { text-align: center; padding: 60px 20px; color: var(--text3); font-size: 14px; }
+  .spinner { display: inline-block; width: 20px; height: 20px; border: 2px solid var(--border2); border-top-color: var(--accent); border-radius: 50%; animation: spin 0.7s linear infinite; margin-bottom: 12px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  @media (max-width: 500px) {
+    .charts-grid { grid-template-columns: 1fr; padding: 0 12px 24px; }
+    .topbar, .tabs, .filter-bar, .section-wrap { padding-left: 12px; padding-right: 12px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-left">
+    <div class="logo">🎵 <span>榜單</span>監控</div>
+    <div class="update-badge" id="update-time">載入中…</div>
+  </div>
+  <button class="refresh-btn" onclick="loadData()">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/><path d="M8 16H3v5"/></svg>
+    重新整理
+  </button>
+</div>
+
+<div class="tabs">
+  <div class="tab active" onclick="switchTab(this,'charts')">榜單總覽</div>
+  <div class="tab" onclick="switchTab(this,'cross')">跨榜熱門</div>
+</div>
+
+<!-- Charts tab -->
+<div id="tab-charts">
+  <div class="filter-bar" id="filter-bar">
+    <button class="filter-btn active" onclick="filterPlatform(this,'all')">全部</button>
+    <button class="filter-btn" onclick="filterPlatform(this,'QQ音樂')">QQ音樂</button>
+    <button class="filter-btn" onclick="filterPlatform(this,'網易雲')">網易雲</button>
+    <button class="filter-btn" onclick="filterPlatform(this,'酷狗')">酷狗</button>
+  </div>
+  <div class="charts-grid" id="charts-grid">
+    <div class="empty-card"><div class="spinner"></div><br>載入榜單資料中…</div>
+  </div>
+</div>
+
+<!-- Cross tab -->
+<div id="tab-cross" style="display:none">
+  <div class="section-wrap">
+    <div class="section-title">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8 8 0 0 1-8 8zm-1-5h2v2h-2zm0-8h2v6h-2z"/></svg>
+      跨榜熱門 — 同日多平台上榜
+    </div>
+    <div class="hot-list" id="hot-list">
+      <div style="color:var(--text3);font-size:14px">載入中…</div>
+    </div>
+  </div>
+</div>
+
+<script>
+let allCharts = [];
+let currentPlatform = 'all';
+
+function switchTab(el, tab) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  el.classList.add('active');
+  document.getElementById('tab-charts').style.display = tab === 'charts' ? '' : 'none';
+  document.getElementById('tab-cross').style.display  = tab === 'cross'  ? '' : 'none';
+}
+
+function filterPlatform(el, platform) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+  currentPlatform = platform;
+  renderCharts();
+}
+
+function trendHtml(t) {
+  if (!t || t === 'flat') return '<span class="trend t-flat">—</span>';
+  if (t === 'new') return '<span class="trend t-new">NEW</span>';
+  if (t.startsWith('up'))   return `<span class="trend t-up">▲${t.slice(2)||''}</span>`;
+  if (t.startsWith('down')) return `<span class="trend t-down">▼${t.slice(4)||''}</span>`;
+  return '';
+}
+
+function renderCharts() {
+  const grid = document.getElementById('charts-grid');
+  const filtered = currentPlatform === 'all'
+    ? allCharts
+    : allCharts.filter(c => c.platform === currentPlatform);
+
+  if (!filtered.length) {
+    grid.innerHTML = '<div class="empty-card">暫無資料</div>';
+    return;
+  }
+
+  grid.innerHTML = filtered.map(c => {
+    const badgeClass = c.platform === 'QQ音樂' ? 'badge-qq' :
+                       c.platform === '網易雲'  ? 'badge-netease' : 'badge-kugou';
+    const rows = (c.songs || []).map(s => {
+      const rkClass = s.rank === 1 ? 'top1' : s.rank === 2 ? 'top2' : s.rank === 3 ? 'top3' : '';
+      return `<div class="song-row">
+        <span class="rk ${rkClass}">${s.rank}</span>
+        <div class="song-info">
+          <div class="song-name">${s.name || '—'}</div>
+          ${s.artist ? `<div class="song-artist">${s.artist}</div>` : ''}
+        </div>
+        ${trendHtml(s.trend)}
+      </div>`;
+    }).join('');
+
+    return `<div class="chart-card">
+      <div class="card-header">
+        <div class="card-header-left">
+          <span class="plat-badge ${badgeClass}">${c.platform}</span>
+          <span class="card-name">${c.name}</span>
+        </div>
+        <span class="card-freq">${c.freq || ''}</span>
+      </div>
+      ${rows || '<div style="padding:14px;color:var(--text3);font-size:13px">暫無資料</div>'}
+    </div>`;
+  }).join('');
+}
+
+function renderCross(cross) {
+  const el = document.getElementById('hot-list');
+  if (!cross || !cross.length) {
+    el.innerHTML = '<div style="color:var(--text3);font-size:13px">暫無跨榜資料</div>';
+    return;
+  }
+  el.innerHTML = cross.map(s => `
+    <div class="hot-item">
+      <div class="hot-item-top">
+        <span class="count-badge">${s.count} 榜</span>
+        <div>
+          <div class="hot-song-name">${s.name}</div>
+          ${s.artist ? `<div class="hot-song-artist">${s.artist}</div>` : ''}
+        </div>
+      </div>
+      <div class="tags-row">
+        ${(s.tags || []).map(t => `<span class="tag ${t.c}">${t.label}</span>`).join('')}
+      </div>
+    </div>
+  `).join('');
+}
+
+async function loadData() {
+  const grid = document.getElementById('charts-grid');
+  const timeEl = document.getElementById('update-time');
+  grid.innerHTML = '<div class="empty-card"><div class="spinner"></div><br>載入中…</div>';
+  timeEl.textContent = '載入中…';
+
+  try {
+    const res = await fetch('data.json?t=' + Date.now());
+    if (!res.ok) throw new Error('fetch failed');
+    const data = await res.json();
+    allCharts = data.charts || [];
+    timeEl.textContent = '更新：' + (data.updated || '—');
+    renderCharts();
+    renderCross(data.cross || []);
+  } catch (e) {
+    grid.innerHTML = '<div class="empty-card" style="color:var(--up)">⚠️ 無法載入 data.json — 請先執行 GitHub Actions 或確認檔案存在</div>';
+    timeEl.textContent = '載入失敗';
+  }
+}
+
+loadData();
+</script>
+</body>
+</html>
