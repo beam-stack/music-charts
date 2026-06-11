@@ -1,52 +1,921 @@
 {
-  "updated": "首次部署—請執行 Actions 取得即時資料",
+  "updated": "2026-06-11 11:08",
   "charts": [
     {
-      "platform": "QQ音樂", "badge": "badge-qq", "name": "熱歌榜", "freq": "每日更新",
+      "platform": "QQ音樂",
+      "badge": "badge-qq",
+      "name": "熱歌榜",
+      "freq": "每日更新",
       "songs": [
-        {"rank":1,"name":"半壺紗","artist":"劉珂矣","trend":"flat"},
-        {"rank":2,"name":"戀人","artist":"李榮浩","trend":"flat"},
-        {"rank":3,"name":"陰愛","artist":"楊芝琳","trend":"flat"},
-        {"rank":4,"name":"陰天","artist":"莫文蔚","trend":"flat"},
-        {"rank":5,"name":"雨過後的風景","artist":"Dizzy Dizzo","trend":"flat"}
+        {
+          "rank": 1,
+          "name": "NIGHT DANCER",
+          "artist": "imase",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
+          "name": "迷人的危险 (Live)",
+          "artist": "Ghost (王琳凯)/姚晓棠",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "我不哭",
+          "artist": "王栎鑫",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "渡",
+          "artist": "周深",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "为爱痴狂 (想要问问你敢不敢)",
+          "artist": "金志文",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "一吻天荒",
+          "artist": "刘宇",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "问劫 (对唱版)",
+          "artist": "木尘/仓央措",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "SUGAR HONEY ICE TEA",
+          "artist": "BABYMONSTER (베이비몬스터)",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "梦底 (Live)",
+          "artist": "张碧晨/海来阿木",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "My Bed (Explicit)",
+          "artist": "Leah Kate",
+          "trend": "flat"
+        }
       ]
     },
     {
-      "platform": "網易雲", "badge": "badge-wangyiyun", "name": "熱歌榜", "freq": "每天",
+      "platform": "QQ音樂",
+      "badge": "badge-qq",
+      "name": "飆升榜",
+      "freq": "每日更新",
       "songs": [
-        {"rank":1,"name":"歲月如筆寫春秋","artist":"河南三妹5233","trend":"flat"},
-        {"rank":2,"name":"主角","artist":"王菲","trend":"flat"},
-        {"rank":3,"name":"有福的日落","artist":"薑海棠","trend":"flat"},
-        {"rank":4,"name":"山野開花又落","artist":"薑海棠","trend":"up21"},
-        {"rank":5,"name":"戀人","artist":"李榮浩","trend":"flat"}
+        {
+          "rank": 1,
+          "name": "NIGHT DANCER",
+          "artist": "imase",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
+          "name": "阴天",
+          "artist": "莫文蔚",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "我想",
+          "artist": "刘宇宁",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "恋人",
+          "artist": "李荣浩",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "为爱痴狂 (想要问问你敢不敢)",
+          "artist": "金志文",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "雨过后的风景",
+          "artist": "Dizzy Dizzo (蔡诗芸)",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "雨爱",
+          "artist": "杨丞琳",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "主角",
+          "artist": "王菲",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "琵琶行",
+          "artist": "奇然/沈谧仁",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "我怀念的",
+          "artist": "孙燕姿",
+          "trend": "flat"
+        }
       ]
     },
     {
-      "platform": "酷狗", "badge": "badge-kugou", "name": "TOP500", "freq": "每天",
+      "platform": "QQ音樂",
+      "badge": "badge-qq",
+      "name": "流行指數榜",
+      "freq": "每日更新",
       "songs": [
-        {"rank":1,"name":"歲月如筆寫春秋","artist":"河南三妹5233","trend":"flat"},
-        {"rank":2,"name":"燧火","artist":"黛古Gem","trend":"flat"},
-        {"rank":3,"name":"有福的日落","artist":"薑海棠","trend":"flat"},
-        {"rank":4,"name":"半壺紗","artist":"劉珂矣","trend":"up1"},
-        {"rank":5,"name":"人生路漫漫","artist":"白小白","trend":"flat"}
+        {
+          "rank": 1,
+          "name": "阴天",
+          "artist": "莫文蔚",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
+          "name": "半壶纱",
+          "artist": "刘珂矣",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "晴天",
+          "artist": "周杰伦",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "恋人",
+          "artist": "李荣浩",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "你要的全拿走",
+          "artist": "胡彦斌",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "出现又离开 (Live)",
+          "artist": "梁博",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "春娇与志明",
+          "artist": "街道办GDC/欧阳耀莹",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "雨爱",
+          "artist": "杨丞琳",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "后来的我们",
+          "artist": "五月天",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "我怀念的",
+          "artist": "孙燕姿",
+          "trend": "flat"
+        }
+      ]
+    },
+    {
+      "platform": "QQ音樂",
+      "badge": "badge-qq",
+      "name": "新歌榜",
+      "freq": "每日更新",
+      "songs": [
+        {
+          "rank": 1,
+          "name": "为爱痴狂 (想要问问你敢不敢)",
+          "artist": "金志文",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
+          "name": "我不哭",
+          "artist": "王栎鑫",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "我想",
+          "artist": "刘宇宁",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "좋은 날 (好日子)",
+          "artist": "IU (아이유)",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "香烟与吻痕 (微醺女声版)",
+          "artist": "半夜微醺",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "雨悸",
+          "artist": "陈卓璇",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "为爱痴狂2026 (想要问问你敢不敢)",
+          "artist": "金志文",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "废品",
+          "artist": "费宇涛",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "干杯",
+          "artist": "五月天",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "TICKING AWAY (VCT ANTHEM 2023)(流光似箭)",
+          "artist": "Grabbitz/无畏契约/bbno$",
+          "trend": "flat"
+        }
+      ]
+    },
+    {
+      "platform": "網易雲",
+      "badge": "badge-wangyiyun",
+      "name": "熱歌榜",
+      "freq": "每天",
+      "songs": [
+        {
+          "rank": 1,
+          "name": "台北一夜",
+          "artist": "Vansdaddy/华云龙KLE",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
+          "name": "NIGHT DANCER",
+          "artist": "imase",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "反乌托邦",
+          "artist": "Ciyo/见过夏天P/乌托邦P",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "花束",
+          "artist": "Vansdaddy",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "환절기 (換節期)",
+          "artist": "N.Flying",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "Pretty Much（半夏心动）",
+          "artist": "清野/金色火种GoldenFire/大头针",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "几句是非",
+          "artist": "Vansdaddy/COOZI",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "孤独Person",
+          "artist": "Herme4/WhyAce/Zy",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "散半个三台",
+          "artist": "Vansdaddy",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "IM OFFICIALLY GOOD",
+          "artist": "REXK!LL 高维宝",
+          "trend": "flat"
+        }
+      ]
+    },
+    {
+      "platform": "網易雲",
+      "badge": "badge-wangyiyun",
+      "name": "飆升榜",
+      "freq": "每天",
+      "songs": [
+        {
+          "rank": 1,
+          "name": "玻璃",
+          "artist": "Gareth.T",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
+          "name": "12.31",
+          "artist": "郑润泽",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "迷人的危险(Live)",
+          "artist": "Ghost (王琳凯)/姚晓棠",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "Alive",
+          "artist": "王嘉尔/五月天 阿信",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "Baby Now That I Found You",
+          "artist": "Ella Bright",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "台北一夜",
+          "artist": "Vansdaddy/华云龙KLE",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "AOE Pt.2",
+          "artist": "DD Ma Shawty/BOBBYNOPEACE/LusciousBB",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "借过一下 (live)",
+          "artist": "胡彦斌/Jony J",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "感官过载",
+          "artist": "残像音阶/M3mo",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "香烟与吻痕",
+          "artist": "Hogee",
+          "trend": "flat"
+        }
+      ]
+    },
+    {
+      "platform": "網易雲",
+      "badge": "badge-wangyiyun",
+      "name": "新歌榜",
+      "freq": "每天",
+      "songs": [
+        {
+          "rank": 1,
+          "name": "海屿你",
+          "artist": "马也_Crabbit",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
+          "name": "玻璃",
+          "artist": "Gareth.T",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "罗生门（Follow）",
+          "artist": "梨冻紧/Wiz_H张子豪",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "12.31",
+          "artist": "郑润泽",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "NIGHT DANCER",
+          "artist": "imase",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "嗜好",
+          "artist": "颜人中",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "恋人",
+          "artist": "李荣浩",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "如果呢",
+          "artist": "郑润泽",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "雨过后的风景",
+          "artist": "Dizzy Dizzo (蔡诗芸)",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "Fever Pitch",
+          "artist": "Richz",
+          "trend": "flat"
+        }
+      ]
+    },
+    {
+      "platform": "酷狗",
+      "badge": "badge-kugou",
+      "name": "酷狗TOP500",
+      "freq": "每天",
+      "songs": [
+        {
+          "rank": 1,
+          "name": "刘宇宁 - 我想",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
+          "name": "涂一乐 - 醒来折花 (微醺版)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "金志文 - 为爱痴狂 (想要问问你敢不敢)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "河南三妹5233 - 也许再等一分钟",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "云朵 - 钗头凤",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "周林枫 - 删了又加",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "云朵 - 云絮低语",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "TATZ2 - For The Night (魔性BGM)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "云朵 - 山河为证",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "云朵 - 月亮新娘",
+          "artist": "",
+          "trend": "flat"
+        }
+      ]
+    },
+    {
+      "platform": "酷狗",
+      "badge": "badge-kugou",
+      "name": "飆升榜",
+      "freq": "每天",
+      "songs": [
+        {
+          "rank": 1,
+          "name": "河南三妹5233 - 岁月如笔写春秋",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
+          "name": "阿图表妹 - 你有没有真的爱过我",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "imase - NIGHT DANCER",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "金志文 - 为爱痴狂 (想要问问你敢不敢)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "莫文蔚 - 阴天",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "宝石Gem - 枪火 (相对那就针锋相对)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "陈默默 - 风说",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "万海东 - 有风的日落",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "郭少杰 - 岁月如笔写春秋",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "白小白 - 人生路漫漫",
+          "artist": "",
+          "trend": "flat"
+        }
+      ]
+    },
+    {
+      "platform": "酷狗",
+      "badge": "badge-kugou",
+      "name": "新歌榜",
+      "freq": "每天",
+      "songs": [
+        {
+          "rank": 1,
+          "name": "白小白 - 人生路漫漫",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
+          "name": "Dizzy Dizzo (蔡诗芸) - 雨过后的风景",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "李荣浩 - 恋人",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "宝石Gem - 枪火 (相对那就针锋相对)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "莫文蔚 - 阴天",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "TINY7 - 零距离的思念",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "许嵩 - 幻听",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "任然、小来 - 雀跃",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "礼越 - 静音恋人 (两颗缠绕的心)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "徐明浩、GALI - Star Crossing Night (feat. GALI)",
+          "artist": "",
+          "trend": "flat"
+        }
+      ]
+    },
+    {
+      "platform": "酷狗",
+      "badge": "badge-kugou",
+      "name": "熱歌榜",
+      "freq": "每天",
+      "songs": [
+        {
+          "rank": 1,
+          "name": "水禹 - 心动超纲",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
+          "name": "张小花、王亮 - 红楼故事",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "刘转亮 - 错爱",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "汪苏泷 - 心跳",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "痛苦王子艾克斯、炮炮马特 - 我不再怪你了",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "DJ阿楠 - 酷二狗进行曲dj",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "楚宝宽 - 妮蔻进行曲 (游京DJ)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "黄晞然 - 伪善面相",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "花心李 - 典狱长进行曲 (哈基米曼波)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "一只白羊、Big Cole - 我会等 (说唱版)",
+          "artist": "",
+          "trend": "flat"
+        }
       ]
     }
   ],
   "cross": [
     {
-      "name":"戀人","artist":"李榮浩","count":3,
-      "tags":[
-        {"label":"QQ#2","c":"tag-blue"},
-        {"label":"網易雲#5","c":"tag-green"},
-        {"label":"酷狗#22","c":"tag-orange"}
-      ]
+      "name": "NIGHT DANCER",
+      "artist": "imase",
+      "tags": [
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#2",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#5",
+          "c": "tag-green"
+        }
+      ],
+      "count": 4
     },
     {
-      "name":"半壺紗","artist":"劉珂矣","count":2,
-      "tags":[
-        {"label":"QQ#1","c":"tag-blue"},
-        {"label":"酷狗#4","c":"tag-orange"}
-      ]
+      "name": "为爱痴狂 (想要问问你敢不敢)",
+      "artist": "金志文",
+      "tags": [
+        {
+          "label": "QQ音樂#5",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#5",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "恋人",
+      "artist": "李荣浩",
+      "tags": [
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#7",
+          "c": "tag-green"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "我不哭",
+      "artist": "王栎鑫",
+      "tags": [
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "阴天",
+      "artist": "莫文蔚",
+      "tags": [
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "我想",
+      "artist": "刘宇宁",
+      "tags": [
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "雨过后的风景",
+      "artist": "Dizzy Dizzo (蔡诗芸)",
+      "tags": [
+        {
+          "label": "QQ音樂#6",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#9",
+          "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "雨爱",
+      "artist": "杨丞琳",
+      "tags": [
+        {
+          "label": "QQ音樂#7",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#8",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "我怀念的",
+      "artist": "孙燕姿",
+      "tags": [
+        {
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "台北一夜",
+      "artist": "Vansdaddy/华云龙KLE",
+      "tags": [
+        {
+          "label": "網易雲#1",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#6",
+          "c": "tag-green"
+        }
+      ],
+      "count": 2
     }
   ]
 }
