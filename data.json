@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16 07:23",
+  "updated": "2026-06-17 06:59",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -9,8 +9,8 @@
       "songs": [
         {
           "rank": 1,
-          "name": "NIGHT DANCER",
-          "artist": "imase",
+          "name": "巴拉莱卡 (The Rod) (Live)",
+          "artist": "张靓颖/陈楚生",
           "trend": "flat"
         },
         {
@@ -21,14 +21,14 @@
         },
         {
           "rank": 3,
-          "name": "巴拉莱卡 (The Rod) (Live)",
-          "artist": "张靓颖/陈楚生",
+          "name": "NIGHT DANCER",
+          "artist": "imase",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "我不哭",
-          "artist": "王栎鑫",
+          "name": "迷人的危险",
+          "artist": "姚晓棠",
           "trend": "flat"
         },
         {
@@ -45,26 +45,26 @@
         },
         {
           "rank": 7,
-          "name": "Баллада",
-          "artist": "Xcho/Мот",
+          "name": "人生路漫漫 (Live)",
+          "artist": "孙楠/白小白/加木",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "Crazy Love",
-          "artist": "王以太/艾热AIR",
+          "name": "等你的季节",
+          "artist": "赵乃吉",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "我想",
-          "artist": "刘宇宁",
+          "name": "迟迟 (Live)",
+          "artist": "薛之谦",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "如烟 (Live)",
-          "artist": "周深/五月天",
+          "name": "就这样",
+          "artist": "何浩楠/王一珩OneSD",
           "trend": "flat"
         }
       ]
@@ -89,14 +89,14 @@
         },
         {
           "rank": 3,
-          "name": "恋人",
-          "artist": "李荣浩",
+          "name": "ANGEL (天使)",
+          "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "ANGEL (天使)",
-          "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
+          "name": "恋人",
+          "artist": "李荣浩",
           "trend": "flat"
         },
         {
@@ -113,26 +113,26 @@
         },
         {
           "rank": 7,
+          "name": "野心家",
+          "artist": "张靓颖",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "Do your dance",
+          "artist": "RIIZE (라이즈)",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
           "name": "ICONIC BY MISTAKE",
           "artist": "LE SSERAFIM (르세라핌)/ILLIT (아일릿)/KATSEYE",
           "trend": "flat"
         },
         {
-          "rank": 8,
+          "rank": 10,
           "name": "我怀念的",
           "artist": "孙燕姿",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "爱错",
-          "artist": "王力宏",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "唯一",
-          "artist": "G.E.M. 邓紫棋",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "我好想你•一 一 (Live)",
-          "artist": "王菀之",
+          "name": "Do your dance",
+          "artist": "RIIZE (라이즈)",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "你把我灌醉",
-          "artist": "黄大炜",
+          "name": "D-D-Done",
+          "artist": "RIIZE (라이즈)",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "第三人称",
-          "artist": "蔡依林",
+          "name": "SOAR",
+          "artist": "RIIZE (라이즈)",
           "trend": "flat"
         },
         {
           "rank": 4,
+          "name": "Overdrive",
+          "artist": "RIIZE (라이즈)",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "Like a Bomb",
+          "artist": "RIIZE (라이즈)",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "In a Loop",
+          "artist": "RIIZE (라이즈)",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "我在意的",
+          "artist": "单依纯",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
           "name": "ANGEL (天使)",
           "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
           "trend": "flat"
         },
         {
-          "rank": 5,
-          "name": "还你茉莉 (Live)",
-          "artist": "单依纯",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "讨厌",
-          "artist": "芮恩",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "我 (Live)",
-          "artist": "宋亚轩",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "一生所爱 (Live)",
-          "artist": "张杰",
-          "trend": "flat"
-        },
-        {
           "rank": 9,
-          "name": "ICONIC BY MISTAKE",
-          "artist": "LE SSERAFIM (르세라핌)/ILLIT (아일릿)/KATSEYE",
+          "name": "我好想你•一 一 (Live)",
+          "artist": "王菀之",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "让每个人都心碎",
-          "artist": "黄大炜",
+          "name": "就这样",
+          "artist": "何浩楠/王一珩OneSD",
           "trend": "flat"
         }
       ]
@@ -278,68 +278,7 @@
       "badge": "badge-wangyiyun",
       "name": "熱歌榜",
       "freq": "每天",
-      "songs": [
-        {
-          "rank": 1,
-          "name": "我不愿让你一个人",
-          "artist": "五月天",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "Баллада",
-          "artist": "Xcho/МОТ",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "HOW MANY DISTRICTS ARE THERE IN HONG KONG",
-          "artist": "漂移的人（Drifting Man）",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "Angel",
-          "artist": "尹美莱/Tiger JK/비지 (Bizzy)",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "我好想你·一 一 (Live)",
-          "artist": "王菀之",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "反乌托邦",
-          "artist": "Ciyo/见过夏天P/乌托邦P",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "INDUSTRY BABY",
-          "artist": "漂移的人（Drifting Man）",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "安全岛",
-          "artist": "王一菲",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "数羊",
-          "artist": "小潮院长",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "The Other Side Of Paradise",
-          "artist": "Reverse",
-          "trend": "flat"
-        }
-      ]
+      "songs": []
     },
     {
       "platform": "網易雲",
@@ -361,32 +300,32 @@
         },
         {
           "rank": 3,
+          "name": "瓦解",
+          "artist": "h3R3",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "潜到海底说爱你",
+          "artist": "万妮达Vinida Weng",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
           "name": "迷人的危险(Live)",
           "artist": "Ghost (王琳凯)/姚晓棠",
           "trend": "flat"
         },
         {
-          "rank": 4,
+          "rank": 6,
           "name": "台北一夜",
           "artist": "Vansdaddy/华云龙KLE",
           "trend": "flat"
         },
         {
-          "rank": 5,
+          "rank": 7,
           "name": "AOE Pt.2",
           "artist": "DD Ma Shawty/BOBBYNOPEACE/LusciousBB",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "Authority（权威）",
-          "artist": "YPD",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "Approve Please, Genie!",
-          "artist": "TRAP CHICK/重音テト/音街ウナ",
           "trend": "flat"
         },
         {
@@ -397,14 +336,14 @@
         },
         {
           "rank": 9,
-          "name": "潜到海底说爱你",
-          "artist": "万妮达Vinida Weng",
+          "name": "我好想你·一 一 (Live)",
+          "artist": "王菀之",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "numb numb (feat. Hatsune Miku, Kasane Teto)",
-          "artist": "TAK/初音ミク/重音テト",
+          "name": "Authority（权威）",
+          "artist": "YPD",
           "trend": "flat"
         }
       ]
@@ -417,14 +356,14 @@
       "songs": [
         {
           "rank": 1,
-          "name": "海屿你",
-          "artist": "马也_Crabbit",
+          "name": "玻璃",
+          "artist": "Gareth.T",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "玻璃",
-          "artist": "Gareth.T",
+          "name": "海屿你",
+          "artist": "马也_Crabbit",
           "trend": "flat"
         },
         {
@@ -447,7 +386,7 @@
         },
         {
           "rank": 6,
-          "name": "于是",
+          "name": "遐想",
           "artist": "郑润泽",
           "trend": "flat"
         },
@@ -459,8 +398,8 @@
         },
         {
           "rank": 8,
-          "name": "Angel",
-          "artist": "尹美莱/Tiger JK/비지 (Bizzy)",
+          "name": "雨过后的风景",
+          "artist": "Dizzy Dizzo (蔡诗芸)",
           "trend": "flat"
         },
         {
@@ -471,8 +410,8 @@
         },
         {
           "rank": 10,
-          "name": "雨过后的风景",
-          "artist": "Dizzy Dizzo (蔡诗芸)",
+          "name": "一半一半",
+          "artist": "Top Barry/INDEcompany",
           "trend": "flat"
         }
       ]
@@ -485,61 +424,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "张杰 - 一生所爱 (Live)",
+          "name": "林雪儿 - 我在月光下许过情真 (女版R&amp;B)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "马健涛 - 岁月如笔写春秋",
+          "name": "金志文 - 为爱痴狂2026",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "阿YueYue - 云翳之上",
+          "name": "艾小奈 - 明天会更好 (架子鼓)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "杜凌云 - 跌宕",
+          "name": "单依纯 - 我在意的",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "赵鑫 - 岁月如笔写春秋",
+          "name": "颜轻瑶 - 也许是",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "影子、林志刚 - 今生来世两不负 (对唱版)",
+          "name": "阿三东东 - 岁月如笔写春秋",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "半根萝卜 - 只因你伤心 (港风女声版)",
+          "name": "涂一乐 - 醒来折花 (微醺版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "孙艺琪 - 等你",
+          "name": "朵儿 - 这一生多感慨",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "周笔畅 - 月亮代表谁的心 (Live)",
+          "name": "wilson生 (徐伟生) - 如果你不经意想起",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "王一佳 - 别让昨天的风把今天吹乱 (洒脱版)",
+          "name": "落日微醺 - 往事如烟 (R&amp;B版)",
           "artist": "",
           "trend": "flat"
         }
@@ -595,19 +534,19 @@
         },
         {
           "rank": 8,
-          "name": "落日微醺 - Amani (女声版)",
+          "name": "落日微醺 - 黄昏 (纵然青丝如霜)(R&amp;B版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "白小白 - 人生路漫漫",
+          "name": "落日微醺 - Amani (女声版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "央金拉姆 - 山歌追上云朵",
+          "name": "白小白 - 人生路漫漫",
           "artist": "",
           "trend": "flat"
         }
@@ -695,7 +634,7 @@
         },
         {
           "rank": 2,
-          "name": "胡子哥 - 谢谢你来过",
+          "name": "庞晓宇 - 妈妈的恩情还不完",
           "artist": "",
           "trend": "flat"
         },
@@ -707,43 +646,43 @@
         },
         {
           "rank": 4,
-          "name": "Deister Orchestra - Waltz in 17edo",
+          "name": "胡子哥 - 谢谢你来过",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "吉克隽逸 - 凤鸣凌霄",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
           "name": "陈子夜、王娜 - 故事停在花开那天",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 6,
+          "name": "桥鹊 - Dance",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
-          "name": "周林枫 - Abyss Soul",
+          "name": "ivE77 - Velvet Shadows (幸福很简单)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "LOL、苦解幸成、重音テト - レビテト (feat. 重音テト)",
+          "name": "慕容晓晓 - 千山雪",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "Alesso、Tove Lo - Heroes",
+          "name": "白日梦画家 - 我会在暴雨中拉紧你的手",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "戴玉强 - 父亲的草原母亲的河",
+          "name": "金钰双双 - 空心的人",
           "artist": "",
           "trend": "flat"
         }
@@ -756,7 +695,7 @@
       "artist": "imase",
       "tags": [
         {
-          "label": "QQ音樂#1",
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         },
         {
@@ -775,49 +714,11 @@
       "count": 4
     },
     {
-      "name": "ICONIC BY MISTAKE",
-      "artist": "LE SSERAFIM (르세라핌)/ILLIT (아일릿)/KATSEYE",
-      "tags": [
-        {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#7",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "Баллада",
-      "artist": "Xcho/Мот",
-      "tags": [
-        {
-          "label": "QQ音樂#7",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#2",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#4",
-          "c": "tag-green"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "恋人",
       "artist": "李荣浩",
       "tags": [
         {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#4",
           "c": "tag-blue"
         },
         {
@@ -830,6 +731,36 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "ICONIC BY MISTAKE",
+      "artist": "LE SSERAFIM (르세라핌)/ILLIT (아일릿)/KATSEYE",
+      "tags": [
+        {
+          "label": "QQ音樂#5",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#9",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "就这样",
+      "artist": "何浩楠/王一珩OneSD",
+      "tags": [
+        {
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
     },
     {
       "name": "阴天",
@@ -851,11 +782,11 @@
       "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
       "tags": [
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#8",
           "c": "tag-blue"
         }
       ],
@@ -885,8 +816,23 @@
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#10",
+          "label": "網易雲#8",
           "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Do your dance",
+      "artist": "RIIZE (라이즈)",
+      "tags": [
+        {
+          "label": "QQ音樂#8",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
         }
       ],
       "count": 2
@@ -896,26 +842,11 @@
       "artist": "孙燕姿",
       "tags": [
         {
-          "label": "QQ音樂#8",
+          "label": "QQ音樂#10",
           "c": "tag-blue"
         },
         {
           "label": "QQ音樂#9",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "唯一",
-      "artist": "G.E.M. 邓紫棋",
-      "tags": [
-        {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#10",
           "c": "tag-blue"
         }
       ],
