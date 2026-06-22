@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22 05:00",
+  "updated": "2026-06-23 06:57",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -9,8 +9,8 @@
       "songs": [
         {
           "rank": 1,
-          "name": "略略略略略",
-          "artist": "TOP登陆少年组合",
+          "name": "抽离",
+          "artist": "徐良/刘丹萌",
           "trend": "flat"
         },
         {
@@ -21,14 +21,14 @@
         },
         {
           "rank": 3,
-          "name": "抽离",
-          "artist": "徐良/刘丹萌",
+          "name": "长大",
+          "artist": "卓沅",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "锁 (Live)",
-          "artist": "张靓颖/曾舜晞",
+          "name": "略略略略略",
+          "artist": "TOP登陆少年组合",
           "trend": "flat"
         },
         {
@@ -45,26 +45,26 @@
         },
         {
           "rank": 7,
-          "name": "蚱蜢跃入星空",
-          "artist": "王源",
+          "name": "锁 (Live)",
+          "artist": "张靓颖/曾舜晞",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "洛阳纸",
-          "artist": "许嵩",
+          "name": "同花顺 (Live)",
+          "artist": "宋亚轩",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "我扭转了命运-女声版",
-          "artist": "李无名",
+          "name": "盛夏的果实",
+          "artist": "莫文蔚",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "一个人想着一个人 (Live)",
-          "artist": "姚晓棠/王栎鑫",
+          "name": "街角的晚风1997",
+          "artist": "曾舜晞",
           "trend": "flat"
         }
       ]
@@ -77,32 +77,32 @@
       "songs": [
         {
           "rank": 1,
-          "name": "略略略略略",
-          "artist": "TOP登陆少年组合",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "ANGEL (天使)",
           "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
           "trend": "flat"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "name": "阴天",
           "artist": "莫文蔚",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "恋人",
+          "artist": "李荣浩",
+          "trend": "flat"
+        },
+        {
           "rank": 4,
-          "name": "NIGHT DANCER",
-          "artist": "imase",
+          "name": "抽离",
+          "artist": "徐良/刘丹萌",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "恋人",
-          "artist": "李荣浩",
+          "name": "NIGHT DANCER",
+          "artist": "imase",
           "trend": "flat"
         },
         {
@@ -113,20 +113,20 @@
         },
         {
           "rank": 7,
-          "name": "同花顺 (Live)",
-          "artist": "宋亚轩",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "雨过后的风景",
           "artist": "Dizzy Dizzo (蔡诗芸)",
           "trend": "flat"
         },
         {
+          "rank": 8,
+          "name": "失眠",
+          "artist": "Suki刘舒妤",
+          "trend": "flat"
+        },
+        {
           "rank": 9,
-          "name": "抽离",
-          "artist": "徐良/刘丹萌",
+          "name": "我怀念的",
+          "artist": "孙燕姿",
           "trend": "flat"
         },
         {
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "略略略略略",
-          "artist": "TOP登陆少年组合",
+          "name": "长大",
+          "artist": "卓沅",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "锁 (Live)",
-          "artist": "张靓颖/曾舜晞",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "Simon (Live)",
-          "artist": "侯明昊",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
           "name": "同花顺 (Live)",
           "artist": "宋亚轩",
           "trend": "flat"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "name": "父亲",
+          "artist": "筷子兄弟",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
           "name": "小半 (Live)",
           "artist": "王铮亮/谭松韵",
           "trend": "flat"
         },
         {
+          "rank": 5,
+          "name": "怎么说我不爱你 (Live)",
+          "artist": "曾沛慈/Trang Pháp",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
-          "name": "浮生若梦",
-          "artist": "周深",
+          "name": "借过一下 (Live)",
+          "artist": "陈小春",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "匿名的好友 (Live)",
-          "artist": "杨丞琳/黄子弘凡",
+          "name": "好想谈恋爱 (Live)",
+          "artist": "单依纯",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "一个人想着一个人 (Live)",
-          "artist": "姚晓棠/王栎鑫",
+          "name": "父亲写的散文诗",
+          "artist": "许飞",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "壁上观 (Live)",
-          "artist": "张远",
+          "name": "夏一般",
+          "artist": "Desire4/黄星/邱鼎杰/李沛恩",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "心太软 (Live)",
-          "artist": "胡彦斌",
+          "name": "怎么说我不爱你",
+          "artist": "萧敬腾",
           "trend": "flat"
         }
       ]
@@ -278,7 +278,68 @@
       "badge": "badge-wangyiyun",
       "name": "熱歌榜",
       "freq": "每天",
-      "songs": []
+      "songs": [
+        {
+          "rank": 1,
+          "name": "哪怕",
+          "artist": "山药大王/Kis/造梦师DreamMaker",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
+          "name": "试运行",
+          "artist": "陈粒",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "琳",
+          "artist": "BOBBYNOPEACE/LSGCsikoriot/CashMoon",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "臭显摆:Bloody Show Off",
+          "artist": "Capper/周震南",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "天下谁人不识君",
+          "artist": "华云龙KLE/mok",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "地头蛇:Flexing Lokal",
+          "artist": "Capper/周震南",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "枣庄一夜",
+          "artist": "华云龙KLE",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "Near You",
+          "artist": "小表哥/暗号",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "阿普挫仑:Pain killer",
+          "artist": "Capper/周震南",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "冰糖爪:Diamond Ungues",
+          "artist": "Capper/周震南",
+          "trend": "flat"
+        }
+      ]
     },
     {
       "platform": "網易雲",
@@ -294,38 +355,38 @@
         },
         {
           "rank": 2,
+          "name": "Near You",
+          "artist": "小表哥/暗号",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
           "name": "My house",
           "artist": "Top Barry/INDEcompany",
           "trend": "flat"
         },
         {
-          "rank": 3,
-          "name": "我好想你·一 一 (Live)",
-          "artist": "王菀之",
+          "rank": 4,
+          "name": "迷人的危险(Live)",
+          "artist": "Ghost (王琳凯)/姚晓棠",
           "trend": "flat"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "AOE Pt.2",
           "artist": "DD Ma Shawty/BOBBYNOPEACE/LusciousBB",
           "trend": "flat"
         },
         {
-          "rank": 5,
-          "name": "洛阳纸",
-          "artist": "许嵩",
-          "trend": "flat"
-        },
-        {
           "rank": 6,
-          "name": "安全岛",
-          "artist": "王一菲",
+          "name": "我好想你·一 一 (Live)",
+          "artist": "王菀之",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "迷人的危险(Live)",
-          "artist": "Ghost (王琳凯)/姚晓棠",
+          "name": "洛阳纸",
+          "artist": "许嵩",
           "trend": "flat"
         },
         {
@@ -336,14 +397,14 @@
         },
         {
           "rank": 9,
-          "name": "Near You",
-          "artist": "小表哥/暗号",
+          "name": "Approve Please, Genie!",
+          "artist": "TRAP CHICK/重音テト/音街ウナ",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "Approve Please, Genie!",
-          "artist": "TRAP CHICK/重音テト/音街ウナ",
+          "name": "哪怕",
+          "artist": "山药大王/Kis/造梦师DreamMaker",
           "trend": "flat"
         }
       ]
@@ -363,61 +424,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "半个叔 - 三分清醒七分难过",
+          "name": "落日微醺 - 沈园外 (r&amp;b)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "张信哲、孙楠 - 袖手旁观 (Live)",
+          "name": "黄霄雲 - 一路荣光",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "张靓颖、曾舜晞 - 锁 (Live)",
+          "name": "TOP登陆少年组合 - 略略略略略",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "姚晓棠、王栎鑫 - 一个人想着一个人 (Live)",
+          "name": "周笔畅 - 戒不掉 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "柯杰 - 后来的后来",
+          "name": "张杰 - 张三丰 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "杨丞琳、黄子弘凡 - 匿名的好友 (Live)",
+          "name": "王铮亮 - 言简意赅",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "阿美呀 - 余情未了",
+          "name": "陈粒 - 试运行",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "曾舜晞 - 街角的晚风1997",
+          "name": "励志豪、神勇尼尼 - 想和你再见 (明天起爱你恨你)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "王铮亮、谭松韵 - 小半 (Live)",
+          "name": "伟歌歌 - 遗忘我的歌",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "阿酣 - 66传奇",
+          "name": "阿美呀 - 一百个放心",
           "artist": "",
           "trend": "flat"
         }
@@ -449,31 +510,31 @@
         },
         {
           "rank": 4,
-          "name": "莫文蔚 - 阴天",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "Xcho、Мот - Баллада",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 5,
+          "name": "莫文蔚 - 阴天",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
-          "name": "imase - NIGHT DANCER",
+          "name": "尹美莱、Tiger JK、Bizzy - Angel",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "金志文 - 为爱痴狂 (想要问问你敢不敢)",
+          "name": "imase - NIGHT DANCER",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "尹美莱、Tiger JK、Bizzy - Angel",
+          "name": "金志文 - 为爱痴狂 (想要问问你敢不敢)",
           "artist": "",
           "trend": "flat"
         },
@@ -547,7 +608,7 @@
         },
         {
           "rank": 9,
-          "name": "Herme4、WhyAce、Zy - 孤独Person (你对我的了解 无声的告别)",
+          "name": "TF_ING张子墨 - 锁",
           "artist": "",
           "trend": "flat"
         },
@@ -567,61 +628,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "任承浩 - 握手人生",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "陈子夜、王娜 - 故事停在花开那天",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 2,
+          "name": "水禹 - 等你归期——《放学等我》原创同人曲",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 3,
-          "name": "律队队队子 - 娇贵漂亮又野心勃勃 (破碎旋律版)",
+          "name": "Electronic Never - 爱在墨尔本 (Inst)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "A玩 - Fall me (Deep Slow)",
+          "name": "老韩很哇塞 - 只想与你相依",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "赫铭 - 你已经走了几个秋",
+          "name": "袁小袁 - 黑名单里的那个人",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "李海颖 - 妈妈的脊背",
+          "name": "关心 - 你从我的世界匆匆路过",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "丫蛋 - 怎会有人知你的苦",
+          "name": "咪西咪西、Cut Xu - 四叔不可以",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "迷幻太空 - ANGETENARAK",
+          "name": "图图小兔 - Low (DJ版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "凯小晴、冯鑫阳 - 我是粽叶你是米 (合唱版)",
+          "name": "李则阳 - 爆刘继芬 (谢谢你的爱)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "水禹 - 心动超纲",
+          "name": "吉克子古 - 我们的情歌",
           "artist": "",
           "trend": "flat"
         }
@@ -629,25 +690,6 @@
     }
   ],
   "cross": [
-    {
-      "name": "略略略略略",
-      "artist": "TOP登陆少年组合",
-      "tags": [
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 3
-    },
     {
       "name": "ANGEL (天使)",
       "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
@@ -657,7 +699,7 @@
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#1",
           "c": "tag-blue"
         },
         {
@@ -672,82 +714,22 @@
       "artist": "徐良/刘丹萌",
       "tags": [
         {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#1",
           "c": "tag-blue"
         },
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "锁 (Live)",
-      "artist": "张靓颖/曾舜晞",
-      "tags": [
         {
           "label": "QQ音樂#4",
           "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
         }
       ],
       "count": 2
     },
     {
-      "name": "洛阳纸",
-      "artist": "许嵩",
-      "tags": [
-        {
-          "label": "QQ音樂#8",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#5",
-          "c": "tag-green"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "一个人想着一个人 (Live)",
-      "artist": "姚晓棠/王栎鑫",
-      "tags": [
-        {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#8",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "阴天",
-      "artist": "莫文蔚",
+      "name": "长大",
+      "artist": "卓沅",
       "tags": [
         {
           "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#4",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "NIGHT DANCER",
-      "artist": "imase",
-      "tags": [
-        {
-          "label": "QQ音樂#4",
           "c": "tag-blue"
         },
         {
@@ -758,15 +740,60 @@
       "count": 2
     },
     {
+      "name": "同花顺 (Live)",
+      "artist": "宋亚轩",
+      "tags": [
+        {
+          "label": "QQ音樂#8",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "阴天",
+      "artist": "莫文蔚",
+      "tags": [
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
       "name": "恋人",
       "artist": "李荣浩",
+      "tags": [
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#5",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "NIGHT DANCER",
+      "artist": "imase",
       "tags": [
         {
           "label": "QQ音樂#5",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#5",
+          "label": "QQ音樂#1",
           "c": "tag-blue"
         }
       ],
@@ -783,6 +810,36 @@
         {
           "label": "QQ音樂#9",
           "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "哪怕",
+      "artist": "山药大王/Kis/造梦师DreamMaker",
+      "tags": [
+        {
+          "label": "網易雲#1",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#10",
+          "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Near You",
+      "artist": "小表哥/暗号",
+      "tags": [
+        {
+          "label": "網易雲#8",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#2",
+          "c": "tag-green"
         }
       ],
       "count": 2
