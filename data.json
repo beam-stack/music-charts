@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25 05:57",
+  "updated": "2026-06-26 06:11",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -9,62 +9,62 @@
       "songs": [
         {
           "rank": 1,
+          "name": "Steal The Moon",
+          "artist": "王俊凯",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
           "name": "让你知道",
           "artist": "汪苏泷/G.E.M. 邓紫棋",
           "trend": "flat"
         },
         {
-          "rank": 2,
-          "name": "抽离",
-          "artist": "徐良/刘丹萌",
-          "trend": "flat"
-        },
-        {
           "rank": 3,
-          "name": "锁 (Live)",
-          "artist": "张靓颖/曾舜晞",
+          "name": "真相",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "写故事的人",
-          "artist": "汪苏泷",
+          "name": "I Love This Life",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 5,
+          "name": "从前",
+          "artist": "王俊凯",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
           "name": "小半 (Live)",
           "artist": "王铮亮/谭松韵",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "皮下",
-          "artist": "许嵩",
-          "trend": "flat"
-        },
-        {
           "rank": 7,
-          "name": "多远都要在一起",
-          "artist": "G.E.M. 邓紫棋",
+          "name": "抽离",
+          "artist": "徐良/刘丹萌",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "一个人想着一个人 (Live)",
-          "artist": "姚晓棠/王栎鑫",
+          "name": "写故事的人",
+          "artist": "汪苏泷",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "老歌",
-          "artist": "许嵩",
+          "name": "大概",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "昨晚我环游了地球",
-          "artist": "汪苏泷",
+          "name": "锁 (Live)",
+          "artist": "张靓颖/曾舜晞",
           "trend": "flat"
         }
       ]
@@ -77,62 +77,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "让你知道",
-          "artist": "汪苏泷/G.E.M. 邓紫棋",
+          "name": "Steal The Moon",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 2,
+          "name": "真相",
+          "artist": "王俊凯",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "从前",
+          "artist": "王俊凯",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "I Love This Life",
+          "artist": "王俊凯",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
           "name": "ANGEL (天使)",
           "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
           "trend": "flat"
         },
         {
-          "rank": 3,
-          "name": "写故事的人",
-          "artist": "汪苏泷",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "阴天",
-          "artist": "莫文蔚",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "抽离",
-          "artist": "徐良/刘丹萌",
-          "trend": "flat"
-        },
-        {
           "rank": 6,
-          "name": "恋人",
-          "artist": "李荣浩",
+          "name": "大概",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "昨晚我环游了地球",
-          "artist": "汪苏泷",
+          "name": "让你知道",
+          "artist": "汪苏泷/G.E.M. 邓紫棋",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "雨过后的风景",
-          "artist": "Dizzy Dizzo (蔡诗芸)",
+          "name": "你会找到我",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "世界之巅",
-          "artist": "汪苏泷",
+          "name": "无人乐园",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "疯狂爱人",
-          "artist": "汪苏泷",
+          "name": "阴天",
+          "artist": "莫文蔚",
           "trend": "flat"
         }
       ]
@@ -145,26 +145,26 @@
       "songs": [
         {
           "rank": 1,
-          "name": "NIGHT DANCER",
-          "artist": "imase",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "ANGEL (天使)",
           "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
           "trend": "flat"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "name": "晴天",
           "artist": "周杰伦",
           "trend": "flat"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "阴天",
           "artist": "莫文蔚",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "小半",
+          "artist": "陈粒",
           "trend": "flat"
         },
         {
@@ -175,32 +175,32 @@
         },
         {
           "rank": 6,
-          "name": "Always Online",
-          "artist": "林俊杰",
+          "name": "盛夏的果实",
+          "artist": "莫文蔚",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "搁浅",
-          "artist": "周杰伦",
+          "name": "答案",
+          "artist": "杨坤/郭采洁",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "春娇与志明",
-          "artist": "街道办GDC/欧阳耀莹",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "雨爱",
           "artist": "杨丞琳",
           "trend": "flat"
         },
         {
+          "rank": 9,
+          "name": "唯一",
+          "artist": "G.E.M. 邓紫棋",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "夜曲",
-          "artist": "周杰伦",
+          "name": "情歌",
+          "artist": "梁静茹",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "让你知道",
-          "artist": "汪苏泷/G.E.M. 邓紫棋",
+          "name": "Steal The Moon",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "写故事的人",
-          "artist": "汪苏泷",
+          "name": "真相",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "世界之巅",
-          "artist": "汪苏泷",
+          "name": "I Love This Life",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "昨晚我环游了地球",
-          "artist": "汪苏泷",
+          "name": "从前",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "老歌",
-          "artist": "许嵩",
+          "name": "大概",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "疯狂爱人",
-          "artist": "汪苏泷",
+          "name": "无人乐园",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "心安之地",
-          "artist": "许嵩",
+          "name": "你会找到我",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "皮下",
-          "artist": "许嵩",
+          "name": "好运来",
+          "artist": "祖海",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "1424",
-          "artist": "汪苏泷",
+          "name": "底片",
+          "artist": "白鹿",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "问你一个人类梦寐以求的深奥问题",
-          "artist": "汪苏泷",
+          "name": "万花筒梦境",
+          "artist": "白鹿",
           "trend": "flat"
         }
       ]
@@ -278,68 +278,7 @@
       "badge": "badge-wangyiyun",
       "name": "熱歌榜",
       "freq": "每天",
-      "songs": [
-        {
-          "rank": 1,
-          "name": "老歌",
-          "artist": "许嵩",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "心安之地",
-          "artist": "许嵩",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "皮下",
-          "artist": "许嵩",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "解脱",
-          "artist": "郑润泽",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "最后的借口",
-          "artist": "h3R3/罗可Lorkin",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "玻璃",
-          "artist": "Gareth.T",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "静音恋人 (两颗缠绕的心)",
-          "artist": "礼越",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "小半 (Live版)",
-          "artist": "谭松韵/王铮亮",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "鞋带系紧",
-          "artist": "念念不忘",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "黑",
-          "artist": "h3R3",
-          "trend": "flat"
-        }
-      ]
+      "songs": []
     },
     {
       "platform": "網易雲",
@@ -361,14 +300,14 @@
         },
         {
           "rank": 3,
-          "name": "老歌",
-          "artist": "许嵩",
+          "name": "小半 (Live版)",
+          "artist": "谭松韵/王铮亮",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "小半 (Live版)",
-          "artist": "谭松韵/王铮亮",
+          "name": "玻璃",
+          "artist": "Gareth.T",
           "trend": "flat"
         },
         {
@@ -379,32 +318,32 @@
         },
         {
           "rank": 6,
-          "name": "Near You",
-          "artist": "小表哥/暗号",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "皮下",
-          "artist": "许嵩",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "借过一下 (Live)",
           "artist": "陈小春",
           "trend": "flat"
         },
         {
-          "rank": 9,
-          "name": "洛阳纸",
+          "rank": 7,
+          "name": "老歌",
           "artist": "许嵩",
           "trend": "flat"
         },
         {
+          "rank": 8,
+          "name": "Near You",
+          "artist": "小表哥/暗号",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "AOE Pt.2",
+          "artist": "DD Ma Shawty/BOBBYNOPEACE/LusciousBB",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "Alive",
-          "artist": "王嘉尔/五月天 阿信",
+          "name": "迷人的危险(Live)",
+          "artist": "Ghost (王琳凯)/姚晓棠",
           "trend": "flat"
         }
       ]
@@ -429,7 +368,7 @@
         },
         {
           "rank": 3,
-          "name": "12.31",
+          "name": "如果呢",
           "artist": "郑润泽",
           "trend": "flat"
         },
@@ -441,8 +380,8 @@
         },
         {
           "rank": 5,
-          "name": "静音恋人 (两颗缠绕的心)",
-          "artist": "礼越",
+          "name": "Angel",
+          "artist": "尹美莱/Tiger JK/비지 (Bizzy)",
           "trend": "flat"
         },
         {
@@ -459,20 +398,20 @@
         },
         {
           "rank": 8,
-          "name": "Angel",
-          "artist": "尹美莱/Tiger JK/비지 (Bizzy)",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "雨过后的风景",
           "artist": "Dizzy Dizzo (蔡诗芸)",
           "trend": "flat"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "失眠",
           "artist": "Suki刘舒妤",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "于是",
+          "artist": "郑润泽",
           "trend": "flat"
         }
       ]
@@ -485,61 +424,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "汪苏泷、G.E.M. 邓紫棋 - 让你知道",
+          "name": "王俊凯 - Steal The Moon",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "VT.Shy - 无人知我来时路 (宿命氛围版)",
+          "name": "王俊凯 - I Love This Life",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "陈小春 - 借过一下 (Live)",
+          "name": "王俊凯 - 从前",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "烟嗓船长 - 爱就别再错过",
+          "name": "王俊凯 - 真相",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "许嵩 - 心安之地",
+          "name": "王铮亮、谭松韵 - 小半 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "戎大姨 - 你是我昨夜的梦2026",
+          "name": "树一 - 心电感应",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "刘宇 - 最美的盛夏",
+          "name": "王赫野 - Crush",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "汪苏泷 - 昨晚我环游了地球",
+          "name": "半岛铁牛 - 残雪",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "h3R3 - 黑",
+          "name": "付豪 - Don&#039;t Break My heart",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "金润吉 - 全球都热AI",
+          "name": "聲無哀樂乐队THEWEAPONS、龚琳娜、杨宗勋 - 江声入旧年",
           "artist": "",
           "trend": "flat"
         }
@@ -571,31 +510,31 @@
         },
         {
           "rank": 4,
-          "name": "Xcho、Мот - Баллада",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "王铮亮、谭松韵 - 小半 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "尹美莱、Tiger JK、Bizzy - Angel",
+          "rank": 5,
+          "name": "Xcho、Мот - Баллада",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "超哥 - 踏马寻花向自由 (雷鬼版)",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 7,
+          "name": "尹美莱、Tiger JK、Bizzy - Angel",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 8,
-          "name": "莫文蔚 - 阴天",
+          "name": "汪苏泷、G.E.M. 邓紫棋 - 让你知道",
           "artist": "",
           "trend": "flat"
         },
@@ -607,7 +546,7 @@
         },
         {
           "rank": 10,
-          "name": "金志文 - 为爱痴狂 (想要问问你敢不敢)",
+          "name": "莫文蔚 - 阴天",
           "artist": "",
           "trend": "flat"
         }
@@ -689,61 +628,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "水禹 - 等你归期——《放学等我》原创同人曲",
+          "name": "陈子夜、四十出头 - 故事停在花开那天 (四十出头版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "佳艺 - 为爱痴狂",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "MR Wong - April",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "张津涤、金彤 - 跟着蜜蜂找花朵",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "陈子夜、王娜 - 故事停在花开那天",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "水禹 - 心动超纲",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "赫铭 - 你已经走了几个秋",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "陈卓璇 - 痕",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
-          "name": "GTR7 - Amnesia",
+          "name": "陈卓璇 - 无人岛",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "李海颖 - 妈妈的脊背",
+          "name": "丫蛋 - 怎会有人知你的苦",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "咪西咪西、Cut Xu - 四叔不可以",
+          "name": "陈卓璇 - 折纸",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "吉克子古 - 我们的情歌",
+          "name": "无名姐（路宝） - 无名的过客",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "LOL、苦解幸成、重音テト - レビテト (feat. 重音テト)",
+          "name": "陈卓璇 - 你痛快了吗",
           "artist": "",
           "trend": "flat"
         }
@@ -752,54 +691,8 @@
   ],
   "cross": [
     {
-      "name": "皮下",
-      "artist": "许嵩",
-      "tags": [
-        {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#8",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#3",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#7",
-          "c": "tag-green"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "老歌",
-      "artist": "许嵩",
-      "tags": [
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#1",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#3",
-          "c": "tag-green"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "让你知道",
-      "artist": "汪苏泷/G.E.M. 邓紫棋",
+      "name": "Steal The Moon",
+      "artist": "王俊凯",
       "tags": [
         {
           "label": "QQ音樂#1",
@@ -817,13 +710,9 @@
       "count": 3
     },
     {
-      "name": "写故事的人",
-      "artist": "汪苏泷",
+      "name": "真相",
+      "artist": "王俊凯",
       "tags": [
-        {
-          "label": "QQ音樂#4",
-          "c": "tag-blue"
-        },
         {
           "label": "QQ音樂#3",
           "c": "tag-blue"
@@ -831,20 +720,43 @@
         {
           "label": "QQ音樂#2",
           "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
         }
       ],
       "count": 3
     },
     {
-      "name": "昨晚我环游了地球",
-      "artist": "汪苏泷",
+      "name": "I Love This Life",
+      "artist": "王俊凯",
       "tags": [
         {
-          "label": "QQ音樂#10",
+          "label": "QQ音樂#4",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#7",
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "从前",
+      "artist": "王俊凯",
+      "tags": [
+        {
+          "label": "QQ音樂#5",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         },
         {
@@ -855,9 +767,13 @@
       "count": 3
     },
     {
-      "name": "恋人",
-      "artist": "李荣浩",
+      "name": "大概",
+      "artist": "王俊凯",
       "tags": [
+        {
+          "label": "QQ音樂#9",
+          "c": "tag-blue"
+        },
         {
           "label": "QQ音樂#6",
           "c": "tag-blue"
@@ -865,43 +781,20 @@
         {
           "label": "QQ音樂#5",
           "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#7",
-          "c": "tag-green"
         }
       ],
       "count": 3
     },
     {
-      "name": "心安之地",
-      "artist": "许嵩",
-      "tags": [
-        {
-          "label": "QQ音樂#7",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#2",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#5",
-          "c": "tag-green"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "抽离",
-      "artist": "徐良/刘丹萌",
+      "name": "让你知道",
+      "artist": "汪苏泷/G.E.M. 邓紫棋",
       "tags": [
         {
           "label": "QQ音樂#2",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#5",
+          "label": "QQ音樂#7",
           "c": "tag-blue"
         }
       ],
@@ -912,11 +805,41 @@
       "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
       "tags": [
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#5",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "你会找到我",
+      "artist": "王俊凯",
+      "tags": [
+        {
+          "label": "QQ音樂#8",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#7",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "无人乐园",
+      "artist": "王俊凯",
+      "tags": [
+        {
+          "label": "QQ音樂#9",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#6",
           "c": "tag-blue"
         }
       ],
@@ -927,11 +850,11 @@
       "artist": "莫文蔚",
       "tags": [
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#10",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         }
       ],
