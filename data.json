@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29 04:44",
+  "updated": "2026-06-30 05:56",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -27,44 +27,44 @@
         },
         {
           "rank": 4,
+          "name": "定玄",
+          "artist": "鸣潮先约电台/黄霄雲/杨秉音",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "Call My Name",
+          "artist": "张艺兴",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "坠落 (Live)",
+          "artist": "孙楠/黄子弘凡",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
           "name": "小半 (Live)",
           "artist": "王铮亮/谭松韵",
           "trend": "flat"
         },
         {
-          "rank": 5,
-          "name": "破云端",
-          "artist": "卓沅",
+          "rank": 8,
+          "name": "爱人啊！",
+          "artist": "庾澄庆",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "玻璃 demo",
-          "artist": "Gareth.T",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
+          "rank": 9,
           "name": "从前",
           "artist": "王俊凯",
           "trend": "flat"
         },
         {
-          "rank": 8,
-          "name": "真相",
-          "artist": "王俊凯",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "name": "I Love This Life",
           "artist": "王俊凯",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "坠落 (Live)",
-          "artist": "孙楠/黄子弘凡",
           "trend": "flat"
         }
       ]
@@ -95,8 +95,8 @@
         },
         {
           "rank": 4,
-          "name": "情歌",
-          "artist": "梁静茹",
+          "name": "Call My Name",
+          "artist": "张艺兴",
           "trend": "flat"
         },
         {
@@ -113,26 +113,26 @@
         },
         {
           "rank": 7,
+          "name": "情歌",
+          "artist": "梁静茹",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "离开我的依赖",
+          "artist": "王艳薇",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
           "name": "抽离",
           "artist": "徐良/刘丹萌",
           "trend": "flat"
         },
         {
-          "rank": 8,
-          "name": "写故事的人",
-          "artist": "汪苏泷",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
+          "rank": 10,
           "name": "失眠",
           "artist": "Suki刘舒妤",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "我怀念的",
-          "artist": "孙燕姿",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "定玄",
-          "artist": "鸣潮先约电台/黄霄雲/杨秉音",
+          "name": "Call My Name",
+          "artist": "张艺兴",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "坠落 (Live)",
-          "artist": "孙楠/黄子弘凡",
+          "name": "忐白门 (Live)",
+          "artist": "莫文蔚",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "有我呢 (Live)",
-          "artist": "陈楚生/姚晓棠",
+          "name": "会开花的云 (Live)",
+          "artist": "曾沛慈/李心洁",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "破云端",
-          "artist": "卓沅",
+          "name": "The Way You Make Me Feel (Live)",
+          "artist": "宋亚轩",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "依兰爱情故事 (Live)",
-          "artist": "岳云鹏/金志文/管乐",
+          "name": "阿衣莫",
+          "artist": "阿吉太组合",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "是你没选我啊 (Live)",
-          "artist": "欢子/黄霄雲",
+          "name": "幸福在歌唱",
+          "artist": "A-Lin",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "喜欢 (Live)",
-          "artist": "杨丞琳/周笔畅",
+          "name": "Colt.45",
+          "artist": "弹壳",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "想见你想见你想见你 (Live)",
-          "artist": "郁可唯/TF_ING穆祉丞",
+          "name": "Baby",
+          "artist": "Justin Bieber/Ludacris",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "这迷途（Astray）",
-          "artist": "李沛恩",
+          "name": "梅雨季",
+          "artist": "张震岳",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "三月 (Live)",
-          "artist": "尤长靖",
+          "name": "阴天 (Live)",
+          "artist": "王菀之",
           "trend": "flat"
         }
       ]
@@ -278,68 +278,7 @@
       "badge": "badge-wangyiyun",
       "name": "熱歌榜",
       "freq": "每天",
-      "songs": [
-        {
-          "rank": 1,
-          "name": "反乌托邦",
-          "artist": "Ciyo/见过夏天P/乌托邦P",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "Angel",
-          "artist": "尹美莱/Tiger JK/비지 (Bizzy)",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "解脱",
-          "artist": "郑润泽",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "The Way I Still Love You",
-          "artist": "Reynard Silva",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "小河淌水（2026雷击顿）",
-          "artist": "YKKKK马丹阳/白族之子",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "三月 (live)",
-          "artist": "尤长靖",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "你爱着谁Remix",
-          "artist": "moonlight",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "失眠",
-          "artist": "Suki刘舒妤",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "Баллада",
-          "artist": "Xcho/МОТ",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "顺其自然",
-          "artist": "国产阿发",
-          "trend": "flat"
-        }
-      ]
+      "songs": []
     },
     {
       "platform": "網易雲",
@@ -367,14 +306,14 @@
         },
         {
           "rank": 4,
-          "name": "小半 (Live版)",
-          "artist": "谭松韵/王铮亮",
+          "name": "梦哑",
+          "artist": "任然",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "梦哑",
-          "artist": "任然",
+          "name": "小半 (Live版)",
+          "artist": "谭松韵/王铮亮",
           "trend": "flat"
         },
         {
@@ -391,20 +330,20 @@
         },
         {
           "rank": 8,
-          "name": "心安之地",
-          "artist": "许嵩",
+          "name": "签名笔 (Live)",
+          "artist": "Rapeter",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "AOE Pt.2",
-          "artist": "DD Ma Shawty/BOBBYNOPEACE/LusciousBB",
+          "name": "My house",
+          "artist": "Top Barry/INDEcompany",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "迷人的危险(Live)",
-          "artist": "Ghost (王琳凯)/姚晓棠",
+          "name": "Approve Please, Genie!",
+          "artist": "TRAP CHICK/重音テト/音街ウナ",
           "trend": "flat"
         }
       ]
@@ -414,68 +353,7 @@
       "badge": "badge-wangyiyun",
       "name": "新歌榜",
       "freq": "每天",
-      "songs": [
-        {
-          "rank": 1,
-          "name": "海屿你",
-          "artist": "马也_Crabbit",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "玻璃",
-          "artist": "Gareth.T",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "罗生门（Follow）",
-          "artist": "梨冻紧/Wiz_H张子豪",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "Баллада",
-          "artist": "Xcho/МОТ",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "Angel",
-          "artist": "尹美莱/Tiger JK/비지 (Bizzy)",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "嗜好",
-          "artist": "颜人中",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "恋人",
-          "artist": "李荣浩",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "失眠",
-          "artist": "Suki刘舒妤",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "如果呢",
-          "artist": "郑润泽",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "雨过后的风景",
-          "artist": "Dizzy Dizzo (蔡诗芸)",
-          "trend": "flat"
-        }
-      ]
+      "songs": []
     },
     {
       "platform": "酷狗",
@@ -485,61 +363,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "张国全、时间煮胖胡 - 风花雪夜那几年",
+          "name": "张艺兴 - Call My Name",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "欢子、黄霄雲 - 是你没选我啊 (Live)",
+          "name": "孙楠、黄子弘凡 - 坠落 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "王赫野 - 天才在左疯子不知道",
+          "name": "希林娜依高 - 甜敌",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "付豪 - 没再提起",
+          "name": "小不懂 - 当初的爱情匆匆走过 (funky动感版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "杨丞琳、周笔畅 - 喜欢 (Live)",
+          "name": "莫文蔚 - 忐白门 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "国产阿发 - 顺其自然 (让花是花 让树是树)",
+          "name": "艺凌 - 今生已足够",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "超级大瓜 - 你的眼神 (女声版)",
+          "name": "李宇春 - 就这样 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "岳云鹏、金志文、管乐 - 依兰爱情故事 (Live)",
+          "name": "林志炫 - 如果没有你 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "汲麟 - 也许在下雨天 (辣条版)",
+          "name": "卫兰 - 给女孩 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "郁可唯、TF_ING穆祉丞 - 想见你想见你想见你 (Live)",
+          "name": "戎大姨 - 谁能陪我吹吹风",
           "artist": "",
           "trend": "flat"
         }
@@ -571,25 +449,25 @@
         },
         {
           "rank": 4,
-          "name": "王铮亮、谭松韵 - 小半 (Live)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "尹美莱、Tiger JK、Bizzy - Angel",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "Xcho、Мот - Баллада",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "徐良、刘丹萌 - 抽离",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "王铮亮、谭松韵 - 小半 (Live)",
           "artist": "",
           "trend": "flat"
         },
@@ -651,31 +529,31 @@
         },
         {
           "rank": 6,
-          "name": "TINY7 - 零距离的思念",
+          "name": "伯爵Johnny、唐伯虎Annie - 西厢寻他",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "礼越 - 静音恋人 (两颗缠绕的心)",
+          "name": "TINY7 - 零距离的思念",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "徐明浩、GALI - Star Crossing Night (feat. GALI)",
+          "name": "国产阿发 - 顺其自然 (让花是花 让树是树)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "TF_ING张子墨 - 锁",
+          "name": "礼越 - 静音恋人 (两颗缠绕的心)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "卓文萱 - 读心术",
+          "name": "徐明浩、GALI - Star Crossing Night (feat. GALI)",
           "artist": "",
           "trend": "flat"
         }
@@ -689,13 +567,13 @@
       "songs": [
         {
           "rank": 1,
-          "name": "水禹 - 等你归期——《放学等我》原创同人曲",
+          "name": "陈子夜、王娜 - 故事停在花开那天",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "陈子夜、王娜 - 故事停在花开那天",
+          "name": "吉克隽逸 - 凤鸣凌霄",
           "artist": "",
           "trend": "flat"
         },
@@ -707,43 +585,43 @@
         },
         {
           "rank": 4,
-          "name": "吉克隽逸 - 凤鸣凌霄",
+          "name": "庞晓宇 - 有你就值得",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "Ivy芝欧 - 雨天R&amp;B",
+          "name": "孙茹雪 - 真爱一世情",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "李薇 - 快去发光 (2026湖北工程学院毕业歌会‌现场)",
+          "name": "Sixteen、我期待的不是你、基米曼波 - 当生命每分每秒都为你转动...",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "才艺大宝 - 大风吹散我和你",
+          "name": "董真、崔子格 - 飞羽",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "灿哥、深海 - 香烟燃尽终成灰 (对唱版)",
+          "name": "老韩很哇塞 - 月老显显灵",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "李则阳 - 爆刘继芬 (谢谢你的爱)",
+          "name": "DJ阿酷 - My Jealousy (DJ版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "董真、崔子格 - 飞羽",
+          "name": "家家 - 尘埃",
           "artist": "",
           "trend": "flat"
         }
@@ -752,61 +630,8 @@
   ],
   "cross": [
     {
-      "name": "恋人",
-      "artist": "李荣浩",
-      "tags": [
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#7",
-          "c": "tag-green"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "失眠",
-      "artist": "Suki刘舒妤",
-      "tags": [
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#8",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#8",
-          "c": "tag-green"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "写故事的人",
-      "artist": "汪苏泷",
-      "tags": [
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#8",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "破云端",
-      "artist": "卓沅",
+      "name": "Call My Name",
+      "artist": "张艺兴",
       "tags": [
         {
           "label": "QQ音樂#5",
@@ -815,24 +640,13 @@
         {
           "label": "QQ音樂#4",
           "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "坠落 (Live)",
-      "artist": "孙楠/黄子弘凡",
-      "tags": [
-        {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#1",
           "c": "tag-blue"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
       "name": "ANGEL (天使)",
@@ -865,31 +679,16 @@
       "count": 2
     },
     {
-      "name": "情歌",
-      "artist": "梁静茹",
+      "name": "恋人",
+      "artist": "李荣浩",
       "tags": [
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         },
-        {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "雨过后的风景",
-      "artist": "Dizzy Dizzo (蔡诗芸)",
-      "tags": [
         {
           "label": "QQ音樂#5",
           "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#10",
-          "c": "tag-green"
         }
       ],
       "count": 2
@@ -905,6 +704,36 @@
         {
           "label": "QQ音樂#8",
           "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "情歌",
+      "artist": "梁静茹",
+      "tags": [
+        {
+          "label": "QQ音樂#7",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "莫文蔚 - 阴天",
+      "artist": "",
+      "tags": [
+        {
+          "label": "酷狗#8",
+          "c": "tag-orange"
+        },
+        {
+          "label": "酷狗#5",
+          "c": "tag-orange"
         }
       ],
       "count": 2
