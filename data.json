@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01 06:03",
+  "updated": "2026-07-02 06:07",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -9,62 +9,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "写故事的人",
-          "artist": "汪苏泷",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "相思锁",
           "artist": "张真源",
           "trend": "flat"
         },
         {
-          "rank": 3,
-          "name": "让你知道",
-          "artist": "汪苏泷/G.E.M. 邓紫棋",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "name": "Steal The Moon",
           "artist": "王俊凯",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "怎么能",
+          "artist": "侯明昊",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "遐想 (Remix)",
+          "artist": "Elowen",
+          "trend": "flat"
+        },
+        {
           "rank": 5,
+          "name": "时差 (On call)",
+          "artist": "鹿晗",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "一见如故",
+          "artist": "许嵩",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
           "name": "Call My Name",
           "artist": "张艺兴",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "不分手的恋爱",
-          "artist": "汪苏泷",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "归零 (Live)",
-          "artist": "侯明昊",
-          "trend": "flat"
-        },
-        {
           "rank": 8,
-          "name": "坠落 (Live)",
-          "artist": "孙楠/黄子弘凡",
+          "name": "天才在左疯子不知道",
+          "artist": "王赫野",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "定玄",
-          "artist": "鸣潮先约电台/黄霄雲/杨秉音",
+          "name": "发光",
+          "artist": "展轩",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "时差 (On call)",
-          "artist": "鹿晗",
+          "name": "定玄",
+          "artist": "鸣潮先约电台/黄霄雲/杨秉音",
           "trend": "flat"
         }
       ]
@@ -77,44 +77,44 @@
       "songs": [
         {
           "rank": 1,
-          "name": "相思锁",
-          "artist": "张真源",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "ANGEL (天使)",
           "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
           "trend": "flat"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "name": "怎么能",
           "artist": "侯明昊",
           "trend": "flat"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "阴天",
           "artist": "莫文蔚",
           "trend": "flat"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "恋人",
           "artist": "李荣浩",
           "trend": "flat"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "雨过后的风景",
           "artist": "Dizzy Dizzo (蔡诗芸)",
           "trend": "flat"
         },
         {
+          "rank": 6,
+          "name": "雨爱",
+          "artist": "杨丞琳",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
-          "name": "情歌",
-          "artist": "梁静茹",
+          "name": "一见如故",
+          "artist": "许嵩",
           "trend": "flat"
         },
         {
@@ -125,14 +125,14 @@
         },
         {
           "rank": 9,
-          "name": "singasong",
-          "artist": "V8/VERNON (버논)/徐明浩",
+          "name": "情歌",
+          "artist": "梁静茹",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "雨爱",
-          "artist": "杨丞琳",
+          "name": "离开我的依赖",
+          "artist": "王艳薇",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "相思锁",
-          "artist": "张真源",
+          "name": "一见如故",
+          "artist": "许嵩",
           "trend": "flat"
         },
         {
           "rank": 2,
+          "name": "出雨林记",
+          "artist": "许嵩",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "忽略不计",
+          "artist": "许嵩",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
           "name": "亲爱的你啊",
           "artist": "任素汐",
           "trend": "flat"
         },
         {
-          "rank": 3,
-          "name": "singasong",
-          "artist": "V8/VERNON (버논)/徐明浩",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "怎么能",
-          "artist": "侯明昊",
-          "trend": "flat"
-        },
-        {
           "rank": 5,
-          "name": "Friend",
-          "artist": "V8/VERNON (버논)/徐明浩",
+          "name": "枕着光的她",
+          "artist": "任素汐",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "BEAT",
-          "artist": "V8/VERNON (버논)/徐明浩",
+          "name": "胡广生",
+          "artist": "任素汐",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "8DM",
-          "artist": "V8/徐明浩",
+          "name": "消逝在八月盛夏",
+          "artist": "TF_ING张子墨",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "girlsnboys",
-          "artist": "V8/VERNON (버논)/徐明浩",
+          "name": "在左心房爱你的第一百次",
+          "artist": "TF_ING张子墨",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "컬러링 (coloring)",
-          "artist": "V8/VERNON (버논)/徐明浩",
+          "name": "王招君 (你看你拉住我的模样)",
+          "artist": "任素汐",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "rat race",
-          "artist": "V8/VERNON (버논)/徐明浩",
+          "name": "如何形容我们的以后 (intro)",
+          "artist": "TF_ING张子墨",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "复刻回忆",
-          "artist": "周深",
+          "name": "一见如故",
+          "artist": "许嵩",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "Colt.45",
-          "artist": "弹壳Danko",
+          "name": "忽略不计",
+          "artist": "许嵩",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "异地恋",
-          "artist": "ZAVIS/坤木Joymo",
+          "name": "解脱",
+          "artist": "郑润泽",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "Battleplan Obliteration",
-          "artist": "塞壬唱片-MSR/VANTA万塔/祝文越/F.L.O.A.T (白羽）",
+          "name": "出雨林记",
+          "artist": "许嵩",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "装逼王",
-          "artist": "迪诺哥/SASIOVERLXRD",
+          "name": "你说会陪我一辈子",
+          "artist": "大头针",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "colt.45 (烈驹45号) (Live)",
-          "artist": "弹壳Danko",
+          "name": "求你别提分手",
+          "artist": "余佳运",
           "trend": "flat"
         },
         {
           "rank": 7,
+          "name": "猜不透",
+          "artist": "丁当",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "回到你身边",
+          "artist": "h3R3",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
           "name": "小河淌水（2026雷击顿）",
           "artist": "YKKKK马丹阳/白族之子",
           "trend": "flat"
         },
         {
-          "rank": 8,
-          "name": "顺其自然",
-          "artist": "国产阿发",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "我确定 (I'm Sure)",
-          "artist": "银河快递",
-          "trend": "flat"
-        },
-        {
           "rank": 10,
-          "name": "交给时间斑驳",
-          "artist": "供销社乐队",
+          "name": "Static of Defiance（褪色的蓝）",
+          "artist": "Klinn",
           "trend": "flat"
         }
       ]
@@ -367,20 +367,20 @@
         },
         {
           "rank": 4,
-          "name": "最后的借口",
-          "artist": "h3R3/罗可Lorkin",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "梦哑",
           "artist": "任然",
           "trend": "flat"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "顺其自然",
           "artist": "国产阿发",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "最后的借口",
+          "artist": "h3R3/罗可Lorkin",
           "trend": "flat"
         },
         {
@@ -391,19 +391,19 @@
         },
         {
           "rank": 8,
-          "name": "借过一下 (Live)",
-          "artist": "陈小春",
+          "name": "一见如故",
+          "artist": "许嵩",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "签名笔 (Live)",
-          "artist": "Rapeter",
+          "name": "心安之地",
+          "artist": "许嵩",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "心安之地",
+          "name": "忽略不计",
           "artist": "许嵩",
           "trend": "flat"
         }
@@ -414,68 +414,7 @@
       "badge": "badge-wangyiyun",
       "name": "新歌榜",
       "freq": "每天",
-      "songs": [
-        {
-          "rank": 1,
-          "name": "海屿你",
-          "artist": "马也_Crabbit",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "玻璃",
-          "artist": "Gareth.T",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "于是",
-          "artist": "郑润泽",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "Баллада",
-          "artist": "Xcho/МОТ",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "恋人",
-          "artist": "李荣浩",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "还是会想你",
-          "artist": "林达浪/h3R3",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "Angel",
-          "artist": "尹美莱/Tiger JK/비지 (Bizzy)",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "雨过后的风景",
-          "artist": "Dizzy Dizzo (蔡诗芸)",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "如果呢",
-          "artist": "郑润泽",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "失眠",
-          "artist": "Suki刘舒妤",
-          "trend": "flat"
-        }
-      ]
+      "songs": []
     },
     {
       "platform": "酷狗",
@@ -491,55 +430,55 @@
         },
         {
           "rank": 2,
-          "name": "展轩 - 发光",
+          "name": "小曼 - 岁月如笔写春秋",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "刘君 - 寻梦之旅",
+          "name": "半糖记 - Angel你懂我的眼泪",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "欢子、黄霄雲 - 是你没选我啊 (Live)",
+          "name": "柯较瘦 - 岁月如笔写春秋",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "任然 - 上岸",
+          "name": "404Hz、Dr.Phonk - 爱从不容许人三心两意 (R&amp;B版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "谭维维 - 你只是你",
+          "name": "汲麟 - 也许在下雨天 (辣条版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "任然 - 梦哑",
+          "name": "落日微醺 - 春庭雪 (r&amp;b微醺版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "银河快递 (Galaxy Express) - 我确定 (I&#039;m Sure)",
+          "name": "龙翼 - 来生不一定还能爱上你 (语录版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "晴川音 - 远方的爱人",
+          "name": "许嵩 - 一见如故",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "侯泽润 - 醉过多少回",
+          "name": "国产阿发 - 让花是花 让树是树 (顺其自然)(架子鼓版)",
           "artist": "",
           "trend": "flat"
         }
@@ -571,43 +510,43 @@
         },
         {
           "rank": 4,
-          "name": "尹美莱、Tiger JK、Bizzy - Angel",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "Xcho、Мот - Баллада",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "徐良、刘丹萌 - 抽离",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "莫文蔚 - 阴天",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "落日微醺 - 黄昏 (纵然青丝如霜)(R&amp;B版)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "汲麟 - 也许在下雨天 (辣条版)",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 5,
+          "name": "尹美莱、Tiger JK、Bizzy - Angel",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "任素汐 - 亲爱的你啊",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "Xcho、Мот - Баллада",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "徐良、刘丹萌 - 抽离",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "莫文蔚 - 阴天",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "宝石Gem - 枪火 (相对那就针锋相对)",
+          "name": "落日微醺 - 黄昏 (纵然青丝如霜)(R&amp;B版)",
           "artist": "",
           "trend": "flat"
         }
@@ -689,61 +628,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "吉克隽逸 - 凤鸣凌霄",
+          "name": "残雪 - 时间骗我太多年",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "陈子夜、王娜 - 故事停在花开那天",
+          "name": "DJ Erik JP、DJ Patrick R - Automotivo Extradimensional (Exp...",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "陈子夜、四十出头 - 故事停在花开那天 (四十出头版)",
+          "name": "陈禹晴 - 低山臭水遇知音",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": ".lanwj - 假如你舍一滴泪 假如老去我能陪",
+          "name": "何曼婷 - 猜一猜",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "李鑫ya - 学会忘记 (吉他版)",
+          "name": "DJ阿酷 - My Jealousy (DJ版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "邹然 - 眼泪不听话 (激情版)",
+          "name": "陈子夜、四十出头 - 故事停在花开那天 (四十出头版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "庞晓宇 - 有你就值得",
+          "name": "陈子夜、王娜 - 故事停在花开那天",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "灿哥 - 我若提笔写遗憾 (落泪语录版)",
+          "name": "谢九哥、彭建希 - 初心不变 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "FZ1XX - Party People (mashup)",
+          "name": "UM - 孤独和宇宙一样永恒",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "谢九哥、彭建希 - 初心不变 (Live)",
+          "name": "邹然 - 眼泪不听话 (激情版)",
           "artist": "",
           "trend": "flat"
         }
@@ -752,11 +691,15 @@
   ],
   "cross": [
     {
-      "name": "相思锁",
-      "artist": "张真源",
+      "name": "一见如故",
+      "artist": "许嵩",
       "tags": [
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#6",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#7",
           "c": "tag-blue"
         },
         {
@@ -764,45 +707,34 @@
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
+          "label": "網易雲#1",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#8",
+          "c": "tag-green"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
-      "name": "恋人",
-      "artist": "李荣浩",
+      "name": "忽略不计",
+      "artist": "许嵩",
       "tags": [
         {
-          "label": "QQ音樂#5",
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
+          "label": "網易雲#2",
+          "c": "tag-green"
         },
         {
-          "label": "網易雲#5",
+          "label": "網易雲#10",
           "c": "tag-green"
         }
       ],
       "count": 3
-    },
-    {
-      "name": "ANGEL (天使)",
-      "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
-      "tags": [
-        {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
     },
     {
       "name": "怎么能",
@@ -813,7 +745,22 @@
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "ANGEL (天使)",
+      "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
+      "tags": [
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#1",
           "c": "tag-blue"
         }
       ],
@@ -824,56 +771,26 @@
       "artist": "莫文蔚",
       "tags": [
         {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "恋人",
+      "artist": "李荣浩",
+      "tags": [
+        {
           "label": "QQ音樂#4",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "雨过后的风景",
-      "artist": "Dizzy Dizzo (蔡诗芸)",
-      "tags": [
-        {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#8",
-          "c": "tag-green"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "情歌",
-      "artist": "梁静茹",
-      "tags": [
-        {
-          "label": "QQ音樂#7",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "singasong",
-      "artist": "V8/VERNON (버논)/徐明浩",
-      "tags": [
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#5",
           "c": "tag-blue"
         }
       ],
@@ -884,7 +801,7 @@
       "artist": "杨丞琳",
       "tags": [
         {
-          "label": "QQ音樂#10",
+          "label": "QQ音樂#6",
           "c": "tag-blue"
         },
         {
@@ -895,16 +812,46 @@
       "count": 2
     },
     {
-      "name": "复刻回忆",
-      "artist": "周深",
+      "name": "情歌",
+      "artist": "梁静茹",
       "tags": [
         {
-          "label": "網易雲#1",
-          "c": "tag-green"
+          "label": "QQ音樂#9",
+          "c": "tag-blue"
         },
         {
-          "label": "網易雲#3",
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "出雨林记",
+      "artist": "许嵩",
+      "tags": [
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#4",
           "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "汲麟 - 也许在下雨天 (辣条版)",
+      "artist": "",
+      "tags": [
+        {
+          "label": "酷狗#6",
+          "c": "tag-orange"
+        },
+        {
+          "label": "酷狗#4",
+          "c": "tag-orange"
         }
       ],
       "count": 2
