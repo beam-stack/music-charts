@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 04:11",
+  "updated": "2026-07-13 01:52",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -9,8 +9,8 @@
       "songs": [
         {
           "rank": 1,
-          "name": "街道",
-          "artist": "林俊杰",
+          "name": "樱花草",
+          "artist": "Sweety",
           "trend": "flat"
         },
         {
@@ -21,8 +21,8 @@
         },
         {
           "rank": 3,
-          "name": "樱花草",
-          "artist": "Sweety",
+          "name": "街道",
+          "artist": "林俊杰",
           "trend": "flat"
         },
         {
@@ -39,32 +39,32 @@
         },
         {
           "rank": 6,
-          "name": "想得美",
-          "artist": "TOP登陆少年组合",
+          "name": "香烟与吻痕 (我在月光下许过情真)",
+          "artist": "黄龄",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "你的眼神(像一阵细雨洒落我心底)",
-          "artist": "晚月moon/Big Cole",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "Badi Badi",
           "artist": "王俊凯",
           "trend": "flat"
         },
         {
+          "rank": 8,
+          "name": "想得美",
+          "artist": "TOP登陆少年组合",
+          "trend": "flat"
+        },
+        {
           "rank": 9,
-          "name": "我扭转了命运-女声版",
-          "artist": "李无名",
+          "name": "Bad Boy",
+          "artist": "万妮达Vinida Weng",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "热昏头",
-          "artist": "陆政廷Lil Jet",
+          "name": "吹吹山顶的风",
+          "artist": "巴扎黑",
           "trend": "flat"
         }
       ]
@@ -77,62 +77,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "想得美",
-          "artist": "TOP登陆少年组合",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "ANGEL (天使)",
           "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
           "trend": "flat"
         },
         {
-          "rank": 3,
-          "name": "怎么能",
-          "artist": "侯明昊",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "阴天",
-          "artist": "莫文蔚",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
+          "rank": 2,
           "name": "樱花草",
           "artist": "Sweety",
           "trend": "flat"
         },
         {
-          "rank": 6,
+          "rank": 3,
+          "name": "阴天",
+          "artist": "莫文蔚",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
           "name": "恋人",
           "artist": "李荣浩",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 5,
           "name": "无人之岛",
           "artist": "任然",
           "trend": "flat"
         },
         {
-          "rank": 8,
+          "rank": 6,
+          "name": "讨厌",
+          "artist": "芮恩",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
           "name": "雨爱",
           "artist": "杨丞琳",
           "trend": "flat"
         },
         {
+          "rank": 8,
+          "name": "雨过后的风景",
+          "artist": "Dizzy Dizzo (蔡诗芸)",
+          "trend": "flat"
+        },
+        {
           "rank": 9,
-          "name": "街道",
-          "artist": "林俊杰",
+          "name": "失眠",
+          "artist": "Suki刘舒妤",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "讨厌",
-          "artist": "芮恩",
+          "name": "爱错",
+          "artist": "王力宏",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "想得美",
-          "artist": "TOP登陆少年组合",
+          "name": "破晓",
+          "artist": "十个勤天",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "Ice Cream",
-          "artist": "YEONJUN",
+          "name": "讨厌 (Live)",
+          "artist": "杨丞琳/欧阳娜娜",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "樱花草",
-          "artist": "Sweety",
+          "name": "无人之岛 (Live)",
+          "artist": "罗云熙/姚晓棠",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "조금 서툴러도 다시 (Baby Wassup?)",
-          "artist": "YEONJUN",
+          "name": "西厢寻他 (Live)",
+          "artist": "黄霄雲/刘宇",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "窝囊废",
-          "artist": "刘凤瑶/曾一鸣/张玮/李琦",
+          "name": "MAMA (Live)",
+          "artist": "黄子弘凡/肖俊",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "Vanilla",
-          "artist": "YEONJUN",
+          "name": "Metal Flower",
+          "artist": "R.E.D",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "Long Way Long Ride",
-          "artist": "YEONJUN",
+          "name": "Bad Boy",
+          "artist": "万妮达Vinida Weng",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "No More Disco",
-          "artist": "YEONJUN",
+          "name": "Talk that shhh",
+          "artist": "余宇涵",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "Fxxking Star",
-          "artist": "YEONJUN",
+          "name": "爱我还是他 (Live)",
+          "artist": "周笔畅/王铮亮",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "略略略略略",
-          "artist": "TOP登陆少年组合",
+          "name": "Fruit Fly (Live)",
+          "artist": "窦靖童",
           "trend": "flat"
         }
       ]
@@ -278,68 +278,7 @@
       "badge": "badge-wangyiyun",
       "name": "熱歌榜",
       "freq": "每天",
-      "songs": [
-        {
-          "rank": 1,
-          "name": "艾比还是哭了（Acoustic）",
-          "artist": "ABH！",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "Sea Mistt Beat",
-          "artist": "Jasr/Master666",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "一次性胶卷",
-          "artist": "极品贵公子/TOYOKI",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "甘蔗",
-          "artist": "陈一豪Clear/INDEcompany",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "街道",
-          "artist": "林俊杰",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "西湖水",
-          "artist": "UDIGG/CashTrippy/mac ova seas/李大奔BENZO",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "VOLTAJE",
-          "artist": "Azeri",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "愿与愁",
-          "artist": "林俊杰",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "二十五（Acoustic Version）",
-          "artist": "陈一豪Clear/Vansdaddy/INDEcompany",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "至高无上",
-          "artist": "陈一豪Clear/谢帝/INDEcompany",
-          "trend": "flat"
-        }
-      ]
+      "songs": []
     },
     {
       "platform": "網易雲",
@@ -373,14 +312,14 @@
         },
         {
           "rank": 5,
-          "name": "匿名的好友",
-          "artist": "何昶希",
+          "name": "最后的借口",
+          "artist": "h3R3/罗可Lorkin",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "最后的借口",
-          "artist": "h3R3/罗可Lorkin",
+          "name": "匿名的好友",
+          "artist": "何昶希",
           "trend": "flat"
         },
         {
@@ -391,20 +330,20 @@
         },
         {
           "rank": 8,
+          "name": "如果某天有人读懂我的安静",
+          "artist": "肖白_",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
           "name": "小半 (Live版)",
           "artist": "谭松韵/王铮亮",
           "trend": "flat"
         },
         {
-          "rank": 9,
-          "name": "Besame",
-          "artist": "音权",
-          "trend": "flat"
-        },
-        {
           "rank": 10,
-          "name": "Chrome Heart",
-          "artist": "那奇沃夫/帕特龙/Prodby玉",
+          "name": "夏日尽头的我们",
+          "artist": "命运结构/诗岸",
           "trend": "flat"
         }
       ]
@@ -414,68 +353,7 @@
       "badge": "badge-wangyiyun",
       "name": "新歌榜",
       "freq": "每天",
-      "songs": [
-        {
-          "rank": 1,
-          "name": "海屿你",
-          "artist": "马也_Crabbit",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "玻璃",
-          "artist": "Gareth.T",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "如果呢",
-          "artist": "郑润泽",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "Баллада",
-          "artist": "Xcho/МОТ",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "恋人",
-          "artist": "李荣浩",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "遐想",
-          "artist": "郑润泽",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "甲乙丙丁 (你我怎么两清)",
-          "artist": "李佳薇",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "失眠",
-          "artist": "Suki刘舒妤",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "雨过后的风景",
-          "artist": "Dizzy Dizzo (蔡诗芸)",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "Angel",
-          "artist": "尹美莱/Tiger JK/비지 (Bizzy)",
-          "trend": "flat"
-        }
-      ]
+      "songs": []
     },
     {
       "platform": "酷狗",
@@ -485,61 +363,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "何遇Hayu、戎明睿 - 也许在下雨天 (对唱版)",
+          "name": "杨宗纬、高睿 - 我爱的是爱我的你 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "TOP登陆少年组合 - 想得美",
+          "name": "黄子弘凡、姚晓棠 - 第三个吻痕 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "刘君 - 小王子",
+          "name": "黄霄雲、刘宇 - 西厢寻他 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "刘亦辰 - 你本就是光",
+          "name": "杨丞琳、欧阳娜娜 - 讨厌 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "汲麟、九万姐姐 - 也许在下雨天 (辣条合唱版)",
+          "name": "半吨兄弟 - 踏马寻花向自由",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "小阿枫 - 值得",
+          "name": "宿命恋人 - 一点 (氛围版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "桂香GuiXiang - 球搭子来噻",
+          "name": "烟嗓船长、马莲 - 也许在下雨天 (对唱版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "一口甜 - 凌晨十二点",
+          "name": "周笔畅、王铮亮 - 爱我还是他 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "落日微醺本薰、张多金 - 白鸽 (落日微醺 烟嗓女版)",
+          "name": "阿美呀 - 让泪化作相思雨",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "陆虎 - 夏天的味道 (深蓝色情书版)",
+          "name": "汲麟、九万姐姐 - 也许在下雨天 (辣条合唱版)",
           "artist": "",
           "trend": "flat"
         }
@@ -571,43 +449,43 @@
         },
         {
           "rank": 4,
-          "name": "超哥 - 踏马寻花向自由 (雷鬼版)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "刘亦辰 - 你本就是光",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "白小白 - 人生路漫漫",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 6,
+          "name": "超哥 - 踏马寻花向自由 (雷鬼版)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
-          "name": "郭少杰 - 岁月如笔写春秋",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "如梦 - 月满西楼约",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "莫文蔚 - 阴天",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 8,
+          "name": "Sweety - 樱花草",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "郭少杰 - 岁月如笔写春秋",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "陈小春 - 街角的晚风",
+          "name": "Suki刘舒妤 - 失眠",
           "artist": "",
           "trend": "flat"
         }
@@ -689,61 +567,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "停留于7的位置 - 亲爱的 永不相见",
+          "name": "陈明富 - 洛城春风",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "初音ミク - 本喵のリズム (本喵的节奏)",
+          "name": "杜凌云 - 爱你的勇气",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "Jake Daniels - GEMINI",
+          "name": "许鹤缤 - 谁能陪我醉",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "二階堂和美 - わらべ唄",
+          "name": "初音ミク、sasakure.UK - 蜘蛛糸モノポリ (蜘蛛丝Monopoly)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "热歌研究站 - 琦少摇 (DJxFUNK)",
+          "name": "延恒 - 花飞花落花满天 (DJ伟然版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "Johan Soderqvist - Battlefield Classic Theme / Mayhem View",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
           "name": "RAN侯星 - 地球人都知道我爱你 (DJ电摇版)",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 7,
+          "name": "Vodaxime - 绝对压制 (Breath)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 8,
-          "name": "椰子水很甜 - boyboybee",
+          "name": "teruzone、vxnrsh、Hwungii - MONTAGEM CONSOLE!",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "搁浅的鱼. - 生活就是这样",
+          "name": "Diary - lucky (3D环绕)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "FuGa pang - 【Free】 Lucky",
+          "name": "搁浅的鱼. - 生活就是这样",
           "artist": "",
           "trend": "flat"
         }
@@ -752,87 +630,56 @@
   ],
   "cross": [
     {
-      "name": "街道",
-      "artist": "林俊杰",
+      "name": "樱花草",
+      "artist": "Sweety",
       "tags": [
         {
           "label": "QQ音樂#1",
           "c": "tag-blue"
         },
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "破晓",
+      "artist": "王俊凯",
+      "tags": [
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Bad Boy",
+      "artist": "万妮达Vinida Weng",
+      "tags": [
         {
           "label": "QQ音樂#9",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#5",
-          "c": "tag-green"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "樱花草",
-      "artist": "Sweety",
-      "tags": [
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "想得美",
-      "artist": "TOP登陆少年组合",
-      "tags": [
-        {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "恋人",
-      "artist": "李荣浩",
-      "tags": [
-        {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
-        },
-        {
           "label": "QQ音樂#7",
           "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#5",
-          "c": "tag-green"
         }
       ],
-      "count": 3
+      "count": 2
     },
     {
       "name": "ANGEL (天使)",
       "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
       "tags": [
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#1",
           "c": "tag-blue"
         },
         {
@@ -847,7 +694,7 @@
       "artist": "莫文蔚",
       "tags": [
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         },
         {
@@ -858,11 +705,26 @@
       "count": 2
     },
     {
+      "name": "恋人",
+      "artist": "李荣浩",
+      "tags": [
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#7",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
       "name": "无人之岛",
       "artist": "任然",
       "tags": [
         {
-          "label": "QQ音樂#7",
+          "label": "QQ音樂#5",
           "c": "tag-blue"
         },
         {
@@ -873,45 +735,30 @@
       "count": 2
     },
     {
-      "name": "甲乙丙丁 (你我怎么两清)",
-      "artist": "李佳薇",
-      "tags": [
-        {
-          "label": "網易雲#1",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#7",
-          "c": "tag-green"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "玻璃",
-      "artist": "Gareth.T",
-      "tags": [
-        {
-          "label": "網易雲#2",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#2",
-          "c": "tag-green"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "刘亦辰 - 你本就是光",
+      "name": "白小白 - 人生路漫漫",
       "artist": "",
       "tags": [
         {
-          "label": "酷狗#4",
+          "label": "酷狗#5",
           "c": "tag-orange"
         },
         {
-          "label": "酷狗#5",
+          "label": "酷狗#1",
+          "c": "tag-orange"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "莫文蔚 - 阴天",
+      "artist": "",
+      "tags": [
+        {
+          "label": "酷狗#7",
+          "c": "tag-orange"
+        },
+        {
+          "label": "酷狗#4",
           "c": "tag-orange"
         }
       ],
