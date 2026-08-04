@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04 02:43",
+  "updated": "2026-08-05 02:22",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -9,62 +9,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "唯我论者的独白",
-          "artist": "马嘉祺",
+          "name": "No More Tomorrow",
+          "artist": "严浩翔",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "讨厌情歌",
-          "artist": "张艺兴",
+          "name": "锈 (Live)",
+          "artist": "黄霄雲/TF_ING张子墨",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "异常加载中",
-          "artist": "TF家族/TF家族-张桂源/TF家族-张函瑞/TF家族-王橹杰",
+          "name": "多远都要在一起",
+          "artist": "G.E.M. 邓紫棋",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "也许你就在对岸",
-          "artist": "张杰",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "写给云的歌",
           "artist": "谭子荐",
           "trend": "flat"
         },
         {
+          "rank": 5,
+          "name": "也许你就在对岸",
+          "artist": "张杰",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
-          "name": "泪海",
-          "artist": "许茹芸",
+          "name": "讨厌情歌",
+          "artist": "张艺兴",
           "trend": "flat"
         },
         {
           "rank": 7,
+          "name": "别怕我伤心 (Live)",
+          "artist": "张远",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "过海",
+          "artist": "王赫野/黄龄",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
           "name": "你最近还好吗",
           "artist": "Ghost (王琳凯)",
           "trend": "flat"
         },
         {
-          "rank": 8,
+          "rank": 10,
           "name": "山高路远 (可是，可是山高路远)",
           "artist": "全幺九",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "汹涌",
-          "artist": "吴莫愁",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "Dehors (Live)",
-          "artist": "Jordann",
           "trend": "flat"
         }
       ]
@@ -77,20 +77,20 @@
       "songs": [
         {
           "rank": 1,
-          "name": "异常加载中",
-          "artist": "TF家族/TF家族-张桂源/TF家族-张函瑞/TF家族-王橹杰",
+          "name": "No More Tomorrow",
+          "artist": "严浩翔",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "甲乙丙丁 (你我怎么两清)",
-          "artist": "李佳薇",
+          "name": "恋人",
+          "artist": "李荣浩",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "恋人",
-          "artist": "李荣浩",
+          "name": "甲乙丙丁 (你我怎么两清)",
+          "artist": "李佳薇",
           "trend": "flat"
         },
         {
@@ -119,20 +119,20 @@
         },
         {
           "rank": 8,
-          "name": "ANGEL (天使)",
-          "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "爱错",
           "artist": "王力宏",
           "trend": "flat"
         },
         {
+          "rank": 9,
+          "name": "ANGEL (天使)",
+          "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "No Boundaries",
-          "artist": "周深/北京环球度假区",
+          "name": "Always Online",
+          "artist": "林俊杰",
           "trend": "flat"
         }
       ]
@@ -213,20 +213,20 @@
       "songs": [
         {
           "rank": 1,
-          "name": "异常加载中",
-          "artist": "TF家族/TF家族-张桂源/TF家族-张函瑞/TF家族-王橹杰",
+          "name": "No More Tomorrow",
+          "artist": "严浩翔",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "No Boundaries",
-          "artist": "周深/北京环球度假区",
+          "name": "Surfin' Boy",
+          "artist": "Red Velvet (레드벨벳)",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "奔赴超无限",
-          "artist": "周深/北京环球度假区",
+          "name": "Orchestra",
+          "artist": "Red Velvet (레드벨벳)",
           "trend": "flat"
         },
         {
@@ -237,38 +237,38 @@
         },
         {
           "rank": 5,
-          "name": "是我做了白日梦",
-          "artist": "姜添/听潮阁",
+          "name": "Hot Girls Cold Vibe",
+          "artist": "Red Velvet (레드벨벳)",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "野草 (Live)",
-          "artist": "金志文",
+          "name": "Hula Hoop",
+          "artist": "Red Velvet (레드벨벳)",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "无期",
-          "artist": "GAI周延/功夫胖KUNGFU-PEN/KEY.L刘聪/盛宇D-SHINE",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "碎碎念",
           "artist": "队长",
           "trend": "flat"
         },
         {
+          "rank": 8,
+          "name": "Hawaii",
+          "artist": "Red Velvet (레드벨벳)",
+          "trend": "flat"
+        },
+        {
           "rank": 9,
-          "name": "SODA SODA",
-          "artist": "TWS (투어스)",
+          "name": "来我的岛",
+          "artist": "刘宇宁",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "晨间新闻",
-          "artist": "蔡健雅",
+          "name": "SODA SODA",
+          "artist": "TWS (투어스)",
           "trend": "flat"
         }
       ]
@@ -287,56 +287,56 @@
         },
         {
           "rank": 2,
-          "name": "忘记了也没关系",
-          "artist": "DOUDOU",
+          "name": "拼接乌托邦",
+          "artist": "Ciyo/见过夏天P/乌托邦P",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "Lost ",
-          "artist": "满舒克/Jony J",
+          "name": "狗狗",
+          "artist": "李大奔BENZO",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "了了 (Live)",
-          "artist": "翁杰Winjay/加木",
+          "name": "Dats Me",
+          "artist": "李大奔BENZO/Top Barry/INDEcompany",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "Brand New Day (崭新之日）",
-          "artist": "Cyan Hymn",
+          "name": "不挽留我一下吗",
+          "artist": "u",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "奔赴超无限",
-          "artist": "周深/北京环球度假区",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
           "name": "鲨鱼宝宝",
           "artist": "云朵唱儿歌",
           "trend": "flat"
         },
         {
+          "rank": 7,
+          "name": "偶尔",
+          "artist": "加木",
+          "trend": "flat"
+        },
+        {
           "rank": 8,
-          "name": "无期",
-          "artist": "GAI周延/功夫胖KUNGFU-PEN/KEY.L刘聪/盛宇D-SHINE",
+          "name": "petal",
+          "artist": "Ariana Grande",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "No Boundaries",
-          "artist": "周深/北京环球度假区",
+          "name": "刻在我心底的名字",
+          "artist": "卢广仲",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "电子布洛芬 (Live)",
-          "artist": "AThree/那奇沃夫",
+          "name": "问爱",
+          "artist": "Yamy郭颖",
           "trend": "flat"
         }
       ]
@@ -355,14 +355,14 @@
         },
         {
           "rank": 2,
-          "name": "神选",
-          "artist": "SASIOVERLXRD",
+          "name": "周旋",
+          "artist": "王以太/艾热 AIR",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "周旋",
-          "artist": "王以太/艾热 AIR",
+          "name": "神选",
+          "artist": "SASIOVERLXRD",
           "trend": "flat"
         },
         {
@@ -373,38 +373,38 @@
         },
         {
           "rank": 5,
+          "name": "The Gentlemen(绅士们) (Live)",
+          "artist": "弹壳Danko/Vinz-T",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
           "name": "半衰期",
           "artist": "江堇",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "媚人",
-          "artist": "薛之谦",
-          "trend": "flat"
-        },
-        {
           "rank": 7,
-          "name": "天生牙",
-          "artist": "SASIOVERLXRD",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "petal",
           "artist": "Ariana Grande",
           "trend": "flat"
         },
         {
+          "rank": 8,
+          "name": "媚人",
+          "artist": "薛之谦",
+          "trend": "flat"
+        },
+        {
           "rank": 9,
-          "name": "雨瘾",
-          "artist": "SASIOVERLXRD",
+          "name": "如果你也刚好抬头看树",
+          "artist": "孙天宇",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "泣",
-          "artist": "SASIOVERLXRD",
+          "name": "偶尔",
+          "artist": "加木",
           "trend": "flat"
         }
       ]
@@ -429,7 +429,7 @@
         },
         {
           "rank": 3,
-          "name": "遐想",
+          "name": "如果呢",
           "artist": "郑润泽",
           "trend": "flat"
         },
@@ -441,26 +441,26 @@
         },
         {
           "rank": 5,
+          "name": "碎碎念",
+          "artist": "队长",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "遐想",
+          "artist": "郑润泽",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
           "name": "恋人",
           "artist": "李荣浩",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "苦茶子",
-          "artist": "Starling8/DRODUMANA/FIVESTAR",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
+          "rank": 8,
           "name": "失眠",
           "artist": "Suki刘舒妤",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "碎碎念",
-          "artist": "队长",
           "trend": "flat"
         },
         {
@@ -485,61 +485,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "何遇Hayu、徐文晶 - 也许在下雨天 (对唱版)",
+          "name": "张远 - 别怕我伤心 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "周深、北京环球度假区 - 奔赴超无限",
+          "name": "DJ铁柱 - 求你别离开我 (海屿你)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "红小乐、王一佳 - 也许在下雨天 (对唱版)",
+          "name": "何遇Hayu、杜一、吕嘉慧 - 也许在下雨天 (走心对唱版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "王村长 - 海屿你 (疯狂对你执着)",
+          "name": "好多倩 - 踏马寻花向自由 (洒脱版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "黄静美 - 明知道我们没可能",
+          "name": "落日微醺 - 落日微醺 (晚风中一杯酒)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "弦子 - 说了再见",
+          "name": "TF家族、TF家族-张桂源、TF家族-张函瑞、TF家族-王橹杰、TF家族...",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "CAISEN - Fever (超燃)",
+          "name": "杨友友 - 不联系不等于不想念",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "金志文 - 野草 (Live)",
+          "name": "小阿七 - 囚",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "陈小春 - 开始懂了 (Live)",
+          "name": "涵哥 - 这人生路漫漫",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "张家旺、悦开心 - 别怕我伤心 (对唱版)",
+          "name": "杨树人 - 失忆",
           "artist": "",
           "trend": "flat"
         }
@@ -565,13 +565,13 @@
         },
         {
           "rank": 3,
-          "name": "巴扎黑 - 吹吹山顶的风",
+          "name": "猛弟/邹子寒 - 金达莱花 (猛Remix)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "猛弟/邹子寒 - 金达莱花 (猛Remix)",
+          "name": "巴扎黑 - 吹吹山顶的风",
           "artist": "",
           "trend": "flat"
         },
@@ -583,19 +583,19 @@
         },
         {
           "rank": 6,
-          "name": "马嘉祺 - 唯我论者的独白",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
           "name": "Suki刘舒妤 - 失眠",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "超哥 - 踏马寻花向自由 (雷鬼版)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "莫文蔚 - 盛夏的果实",
           "artist": "",
           "trend": "flat"
         },
@@ -695,55 +695,55 @@
         },
         {
           "rank": 2,
-          "name": "陶亚忠 - 破碎的心",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "风哥 - 山顶来的风",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
           "name": "UM - 带着清醒一同沉沦",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 5,
-          "name": "王冬冬 - 不想长大",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
+          "rank": 3,
           "name": "廖韵 - 岁月如笔写春秋",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 4,
+          "name": "王冬冬 - 不想长大",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
           "name": "Lee Miles Buchanan、Jade Bates、Isabella Marie Spinelli - m...",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 6,
+          "name": "野信号、我期待的不是你 - 说不明道不清对他的感觉 (说唱版)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "Pandora樂隊 - 好结局",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 8,
-          "name": "柳知 - 心动发酵",
+          "name": "失约海 - 海海海 (纯音氛围版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "魏如萱 - 怪奇的珍珠",
+          "name": "404Hz、我期待的不是你 - 你吓到我了 (Oh My God)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "余音星河 - 带派小曲 (雨姐 哪嘎达出场曲)",
+          "name": "红线redline - 雨爱 (秦始皇DJ版)",
           "artist": "",
           "trend": "flat"
         }
@@ -752,11 +752,11 @@
   ],
   "cross": [
     {
-      "name": "异常加载中",
-      "artist": "TF家族/TF家族-张桂源/TF家族-张函瑞/TF家族-王橹杰",
+      "name": "No More Tomorrow",
+      "artist": "严浩翔",
       "tags": [
         {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#1",
           "c": "tag-blue"
         },
         {
@@ -775,34 +775,15 @@
       "artist": "李荣浩",
       "tags": [
         {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#5",
-          "c": "tag-green"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "No Boundaries",
-      "artist": "周深/北京环球度假区",
-      "tags": [
-        {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
-        },
-        {
           "label": "QQ音樂#2",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#9",
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#7",
           "c": "tag-green"
         }
       ],
@@ -813,7 +794,7 @@
       "artist": "李佳薇",
       "tags": [
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         },
         {
@@ -832,7 +813,7 @@
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#7",
+          "label": "網易雲#8",
           "c": "tag-green"
         }
       ],
@@ -858,7 +839,7 @@
       "artist": "尹美莱 (윤미래)/Tiger JK/Bizzy (비지)",
       "tags": [
         {
-          "label": "QQ音樂#8",
+          "label": "QQ音樂#9",
           "c": "tag-blue"
         },
         {
@@ -869,31 +850,16 @@
       "count": 2
     },
     {
-      "name": "奔赴超无限",
-      "artist": "周深/北京环球度假区",
+      "name": "Always Online",
+      "artist": "林俊杰",
       "tags": [
         {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#10",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#6",
-          "c": "tag-green"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "无期",
-      "artist": "GAI周延/功夫胖KUNGFU-PEN/KEY.L刘聪/盛宇D-SHINE",
-      "tags": [
-        {
-          "label": "QQ音樂#7",
+          "label": "QQ音樂#6",
           "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#8",
-          "c": "tag-green"
         }
       ],
       "count": 2
@@ -903,11 +869,41 @@
       "artist": "队长",
       "tags": [
         {
-          "label": "QQ音樂#8",
+          "label": "QQ音樂#7",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#8",
+          "label": "網易雲#5",
+          "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "The Gentlemen(绅士们) (Live)",
+      "artist": "弹壳Danko/Vinz-T",
+      "tags": [
+        {
+          "label": "網易雲#1",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#5",
+          "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "偶尔",
+      "artist": "加木",
+      "tags": [
+        {
+          "label": "網易雲#7",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#10",
           "c": "tag-green"
         }
       ],
