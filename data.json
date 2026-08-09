@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09 01:21",
+  "updated": "2026-08-10 01:21",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -15,56 +15,56 @@
         },
         {
           "rank": 2,
-          "name": "STRANGE",
-          "artist": "刘雨昕",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "金乌 Golden Bird",
-          "artist": "刘宇/Alan Walker/孙名川Chuanzi Suona",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "No More Tomorrow",
-          "artist": "严浩翔",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "顺其自然 (让花是花 让树是树)",
           "artist": "国产阿发",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "STRANGE",
+          "artist": "刘雨昕",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "清风微微",
+          "artist": "曾舜晞",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "遇见花",
+          "artist": "洋澜一",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
+          "name": "No More Tomorrow",
+          "artist": "严浩翔",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "金乌 Golden Bird",
+          "artist": "刘宇/Alan Walker/孙名川Chuanzi Suona",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
           "name": "你我怎么两清(甲乙丙丁)",
           "artist": "半糖记",
           "trend": "flat"
         },
         {
-          "rank": 7,
-          "name": "多远都要在一起",
-          "artist": "G.E.M. 邓紫棋",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "去自由的远方 (雷鬼版)",
-          "artist": "沙哑大叔",
-          "trend": "flat"
-        },
-        {
           "rank": 9,
-          "name": "每个人 (舒楠监制 官方正式版)",
-          "artist": "周深",
+          "name": "碎碎念",
+          "artist": "队长",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "锈 (Live)",
-          "artist": "黄霄雲/TF_ING张子墨",
+          "name": "去自由的远方 (雷鬼版)",
+          "artist": "沙哑大叔",
           "trend": "flat"
         }
       ]
@@ -77,14 +77,14 @@
       "songs": [
         {
           "rank": 1,
-          "name": "恋人",
-          "artist": "李荣浩",
+          "name": "我们的纪念 (Live)",
+          "artist": "杨丞琳/侯明昊",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "每个人 (舒楠监制 官方正式版)",
-          "artist": "周深",
+          "name": "恋人",
+          "artist": "李荣浩",
           "trend": "flat"
         },
         {
@@ -95,44 +95,44 @@
         },
         {
           "rank": 4,
-          "name": "失眠",
-          "artist": "Suki刘舒妤",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "雨爱",
-          "artist": "杨丞琳",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "我怀念的",
-          "artist": "孙燕姿",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
           "name": "碎碎念",
           "artist": "队长",
           "trend": "flat"
         },
         {
-          "rank": 8,
-          "name": "爱错",
-          "artist": "王力宏",
+          "rank": 5,
+          "name": "失眠",
+          "artist": "Suki刘舒妤",
           "trend": "flat"
         },
         {
-          "rank": 9,
+          "rank": 6,
+          "name": "雨爱",
+          "artist": "杨丞琳",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "我怀念的",
+          "artist": "孙燕姿",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
           "name": "盛夏的果实",
           "artist": "莫文蔚",
           "trend": "flat"
         },
         {
+          "rank": 9,
+          "name": "我不难过",
+          "artist": "孙燕姿",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "阴天",
-          "artist": "莫文蔚",
+          "name": "爱错",
+          "artist": "王力宏",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "每个人 (舒楠监制 官方正式版)",
-          "artist": "周深",
+          "name": "花田错 (Live)",
+          "artist": "万妮达Vinida Weng/吴碧霞",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "Think About It",
-          "artist": "D.N.A/张艺兴/颜人中/GALI",
+          "name": "答案 (Live)",
+          "artist": "王铮亮/黄霄雲",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "半点心",
-          "artist": "草蜢",
+          "name": "再见 (Live)",
+          "artist": "万妮达Vinida Weng",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "十面埋伏",
-          "artist": "陈奕迅",
+          "name": "我们的纪念 (Live)",
+          "artist": "杨丞琳/侯明昊",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "冻结",
-          "artist": "林俊杰",
+          "name": "相思 (Live)",
+          "artist": "齐豫/毛阿敏",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "MOON",
-          "artist": "BABYMONSTER (베이비몬스터)",
+          "name": "被驯服的象 (Live)",
+          "artist": "窦靖童/欧阳娜娜",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "我不难过",
-          "artist": "孙燕姿",
+          "name": "痕迹",
+          "artist": "何浩楠",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "枫",
-          "artist": "周杰伦",
+          "name": "无所求必满载而归 (Live)",
+          "artist": "张远",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "中国人会飞",
-          "artist": "Chalky Wong/揽佬SKAI ISYOURGOD",
+          "name": "春泥 (Live)",
+          "artist": "TOP登陆少年-张泽禹/TOP登陆少年-张极",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "This & That",
-          "artist": "Stray Kids (스트레이 키즈)",
+          "name": "Somewhere Only We Know (Live)",
+          "artist": "Elliot James Reay/黄子弘凡",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "幻痛药 Hurt And Hurt Ft.LSGCsikoriot四口",
-          "artist": "Tlatre特雷西/LSGCsikoriot",
+          "name": "再见 (live)",
+          "artist": "万妮达Vinida Weng",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "秋日苦难",
-          "artist": "南青乐队",
+          "name": "花田错 (live)",
+          "artist": "万妮达Vinida Weng/吴碧霞",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "秋日苦难（Live）",
-          "artist": "南青乐队",
+          "name": "反正",
+          "artist": "老番茄",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "复苏纪元",
-          "artist": "世界之外",
+          "name": "RAP4",
+          "artist": "Buzzy/法老",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "入秋",
-          "artist": "RAMBO GANG/Trakin99/T-BONE/江楠",
+          "name": "碎碎念",
+          "artist": "小黑",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "风筝飞呀飞",
-          "artist": "隔壁老樊/中国劲酒",
+          "name": "被驯服的象 (live)",
+          "artist": "窦靖童/欧阳娜娜",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "耳鬼出风",
-          "artist": "回春丹",
+          "name": "小rapper",
+          "artist": "Rapeter",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "Push The Feeling On",
-          "artist": "Cosko/rudo made it",
+          "name": "我恨你",
+          "artist": "漂移的人（Drifting Man）",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "怪我天真",
-          "artist": "刺痛思念/泪誓./痛定思痛./秋刀鱼",
+          "name": "Only look at me+Angel",
+          "artist": "漂移的人（Drifting Man）",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "瓦解 (Live)",
-          "artist": "h3R3",
+          "name": "相思 (live)",
+          "artist": "齐豫/毛阿敏",
           "trend": "flat"
         }
       ]
@@ -361,14 +361,14 @@
         },
         {
           "rank": 3,
-          "name": "空心 (Live版)",
-          "artist": "黄霄雲/刘端端",
+          "name": "神选",
+          "artist": "SASIOVERLXRD",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "神选",
-          "artist": "SASIOVERLXRD",
+          "name": "空心 (Live版)",
+          "artist": "黄霄雲/刘端端",
           "trend": "flat"
         },
         {
@@ -379,8 +379,8 @@
         },
         {
           "rank": 6,
-          "name": "半衰期",
-          "artist": "江堇",
+          "name": "如果你也刚好抬头看树",
+          "artist": "孙天宇",
           "trend": "flat"
         },
         {
@@ -391,20 +391,20 @@
         },
         {
           "rank": 8,
-          "name": "如果你也刚好抬头看树",
-          "artist": "孙天宇",
+          "name": "AGUDO MAGKLCO (GHETTO HOUSE)",
+          "artist": "FinalSay",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "耍把戏",
-          "artist": "阿禹ayy",
+          "name": "偶尔",
+          "artist": "加木",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "偶尔",
-          "artist": "加木",
+          "name": "了了 (Live)",
+          "artist": "翁杰Winjay/加木",
           "trend": "flat"
         }
       ]
@@ -429,26 +429,26 @@
         },
         {
           "rank": 3,
-          "name": "如果呢",
+          "name": "于是",
           "artist": "郑润泽",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "玻璃",
-          "artist": "Gareth.T",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "碎碎念",
           "artist": "队长",
           "trend": "flat"
         },
         {
+          "rank": 5,
+          "name": "玻璃",
+          "artist": "Gareth.T",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
-          "name": "忘不掉的你",
-          "artist": "h3R3",
+          "name": "还是会想你",
+          "artist": "林达浪/h3R3",
           "trend": "flat"
         },
         {
@@ -471,8 +471,8 @@
         },
         {
           "rank": 10,
-          "name": "罗生门（Follow）",
-          "artist": "梨冻紧/Wiz_H张子豪",
+          "name": "如果呢",
+          "artist": "郑润泽",
           "trend": "flat"
         }
       ]
@@ -485,7 +485,7 @@
       "songs": [
         {
           "rank": 1,
-          "name": "魏佳艺 - 南方没有你北方没有雨",
+          "name": "DJ铁柱 - 怪我曾爱你爱的太深 (一直都活在梦里)",
           "artist": "",
           "trend": "flat"
         },
@@ -497,49 +497,49 @@
         },
         {
           "rank": 3,
-          "name": "曾舜晞 - 野草 (致老狗)",
+          "name": "夏瑶瑶 - 只为看清你的容颜 (氛围版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "万海东 - 别回头看",
+          "name": "杨宗纬、岳云鹏 - 欢喜就好 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "任夏 - 连傻子都知道",
+          "name": "鱼精、杜一、何遇Hayu、林乐儿、李沐瑶、卡卡、姜雨涵 - 也许在...",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "A江也眠 - 泡沫 (而你的轮廓 怪我没有看破)",
+          "name": "吉克隽逸、黄子弘凡 - 笼 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "一凡 - 如果当初没遇见",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "暴躁小猫 - 甲乙丙丁 (你我怎么两清)",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 8,
+          "name": "老韩很哇塞 - 山风山风等等我 (烟嗓版)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 9,
-          "name": "欢子 - 悬崖勒马",
+          "name": "刘宇宁 - 一诺",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "赵乃吉 - 爱过境未迁",
+          "name": "张远 - 无所求必满载而归 (Live)",
           "artist": "",
           "trend": "flat"
         }
@@ -577,13 +577,13 @@
         },
         {
           "rank": 5,
-          "name": "宋盐球 - 回到小村落 (听着蛐蛐唱着歌)",
+          "name": "超哥 - 踏马寻花向自由 (雷鬼版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "超哥 - 踏马寻花向自由 (雷鬼版)",
+          "name": "宋盐球 - 回到小村落 (听着蛐蛐唱着歌)",
           "artist": "",
           "trend": "flat"
         },
@@ -695,19 +695,19 @@
         },
         {
           "rank": 2,
-          "name": "小何岩 - 人间的剧本",
+          "name": "回小仙 - 琉璃画 (DJ沈念版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "水禹 - 迟来盛夏——《某某》原创同人曲",
+          "name": "Mishashi Sensei - MONTAGEM ONEGAI",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "Me Paj - Mam Sib Ntsib Saum Ntuj Ceeb Tsheej",
+          "name": "Master of Groove（律动大师） - shenmei (G house)",
           "artist": "",
           "trend": "flat"
         },
@@ -719,31 +719,31 @@
         },
         {
           "rank": 6,
-          "name": "九爪鱼 - 百合花的证词",
+          "name": "dy江忘川 - 若问爱的桥段",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "dj玩少 - FUNK NA MIRA (Slap House)",
+          "name": "DaHua. - confused future",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "UM - 带着清醒一同沉沦",
+          "name": "水禹、正午 - 遇见光，遇见你 (合唱版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "THEENG VANG - Puas Yog Caij Nyoog",
+          "name": "陶亚忠 - 破碎的心",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "Knorr - 孤独本是人生常态",
+          "name": "刘皮特 - 我也想过要和你幸福",
           "artist": "",
           "trend": "flat"
         }
@@ -752,30 +752,34 @@
   ],
   "cross": [
     {
-      "name": "每个人 (舒楠监制 官方正式版)",
-      "artist": "周深",
+      "name": "碎碎念",
+      "artist": "队长",
       "tags": [
         {
           "label": "QQ音樂#9",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#4",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
+          "label": "網易雲#5",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#4",
+          "c": "tag-green"
         }
       ],
-      "count": 3
+      "count": 4
     },
     {
       "name": "恋人",
       "artist": "李荣浩",
       "tags": [
         {
-          "label": "QQ音樂#1",
+          "label": "QQ音樂#2",
           "c": "tag-blue"
         },
         {
@@ -788,6 +792,21 @@
         }
       ],
       "count": 3
+    },
+    {
+      "name": "我们的纪念 (Live)",
+      "artist": "杨丞琳/侯明昊",
+      "tags": [
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
     },
     {
       "name": "甲乙丙丁 (你我怎么两清)",
@@ -809,7 +828,7 @@
       "artist": "Suki刘舒妤",
       "tags": [
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#5",
           "c": "tag-blue"
         },
         {
@@ -824,7 +843,7 @@
       "artist": "杨丞琳",
       "tags": [
         {
-          "label": "QQ音樂#5",
+          "label": "QQ音樂#6",
           "c": "tag-blue"
         },
         {
@@ -839,41 +858,11 @@
       "artist": "孙燕姿",
       "tags": [
         {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "碎碎念",
-      "artist": "队长",
-      "tags": [
-        {
           "label": "QQ音樂#7",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#5",
-          "c": "tag-green"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "阴天",
-      "artist": "莫文蔚",
-      "tags": [
-        {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#10",
+          "label": "QQ音樂#6",
           "c": "tag-blue"
         }
       ],
