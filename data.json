@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19 01:18",
+  "updated": "2026-08-20 01:18",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -15,26 +15,26 @@
         },
         {
           "rank": 2,
-          "name": "给我一个理由忘记 (Live)",
-          "artist": "丁当/侯明昊",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "RUN IT",
-          "artist": "梓渝",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
           "name": "闭目入神",
           "artist": "郑中基",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "我在你身后",
+          "artist": "李飘飘",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "RUN IT",
+          "artist": "梓渝",
+          "trend": "flat"
+        },
+        {
           "rank": 5,
-          "name": "因为了解",
-          "artist": "汪苏泷",
+          "name": "给我一个理由忘记 (Live)",
+          "artist": "丁当/侯明昊",
           "trend": "flat"
         },
         {
@@ -45,26 +45,26 @@
         },
         {
           "rank": 7,
-          "name": "我在你身后",
-          "artist": "李飘飘",
+          "name": "最好的我",
+          "artist": "龚芝怡/房祖名",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "喜欢你 (Live)",
-          "artist": "周深",
+          "name": "因为了解",
+          "artist": "汪苏泷",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "等下完这场雨 (合唱版)",
-          "artist": "杨友友/田园",
+          "name": "先承诺的人先忘了",
+          "artist": "田园",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "算了",
-          "artist": "万妮达Vinida Weng",
+          "name": "一半一半 (Live)",
+          "artist": "宋亚轩",
           "trend": "flat"
         }
       ]
@@ -77,8 +77,8 @@
       "songs": [
         {
           "rank": 1,
-          "name": "RUN IT",
-          "artist": "梓渝",
+          "name": "冻结",
+          "artist": "林俊杰",
           "trend": "flat"
         },
         {
@@ -89,38 +89,38 @@
         },
         {
           "rank": 3,
-          "name": "冻结",
-          "artist": "林俊杰",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
           "name": "我不难过",
           "artist": "孙燕姿",
           "trend": "flat"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "明天过后",
           "artist": "张杰",
           "trend": "flat"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "恋人",
           "artist": "李荣浩",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "甲乙丙丁 (你我怎么两清)",
           "artist": "李佳薇",
           "trend": "flat"
         },
         {
-          "rank": 8,
+          "rank": 7,
           "name": "雨爱",
           "artist": "杨丞琳",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "情歌",
+          "artist": "梁静茹",
           "trend": "flat"
         },
         {
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "RUN IT",
-          "artist": "梓渝",
+          "name": "REDRED",
+          "artist": "CORTIS",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "闭目入神",
-          "artist": "郑中基",
+          "name": "GO!",
+          "artist": "CORTIS",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "周旋",
-          "artist": "王以太/艾热AIR",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "Setsuna Hanabi",
-          "artist": "TOMORROW X TOGETHER (투모로우바이투게더)",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "跃",
-          "artist": "薛之谦",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "Silence",
-          "artist": "TOMORROW X TOGETHER (투모로우바이투게더)",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "天使",
-          "artist": "刘思鉴",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "一城山水",
-          "artist": "Lunhui轮回",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "Take Me Hand",
           "artist": "DAISHI DANCE (ダイシ・ダンス)/Cécile Corbel",
           "trend": "flat"
         },
         {
+          "rank": 4,
+          "name": "天之外",
+          "artist": "薛凯琪",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "MOTION (feat. Juicy J)",
+          "artist": "CORTIS/Juicy J",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "TNT",
+          "artist": "CORTIS",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "What You Want",
+          "artist": "CORTIS",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "ACAI",
+          "artist": "CORTIS",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "看着我的眼睛说",
+          "artist": "张远",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "游向陆地的鱼",
-          "artist": "梓渝",
+          "name": "云中鸟",
+          "artist": "小阿七",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "闭目入神",
-          "artist": "郑中基",
+          "name": "冻结",
+          "artist": "林俊杰",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "Little Songs（无人知晓的小歌）",
-          "artist": "七元",
+          "name": "Money Flow",
+          "artist": "Buzzy/杨和苏KeyNG",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "Montagem pitty",
-          "artist": "见过夏天P/洛天依",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "SWEAT",
-          "artist": "KISS OF LIFE",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "讴歌",
           "artist": "Vansdaddy",
           "trend": "flat"
         },
         {
+          "rank": 4,
+          "name": "闭目入神",
+          "artist": "郑中基",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "Lost ",
+          "artist": "满舒克/Jony J",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
-          "name": "我好想你",
-          "artist": "潘广益",
+          "name": "Montagem pitty",
+          "artist": "见过夏天P/洛天依",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "反乌托邦Pt.2",
-          "artist": "亞細亞曠世奇才/洛天依Official/乌托邦P",
+          "name": "Sea Mistt Beat",
+          "artist": "Jasr/Master666",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "天使",
-          "artist": "刘思鉴",
+          "name": "残卷沉湖",
+          "artist": "凯小任",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "左转灯 (1000 Times+1)",
-          "artist": "派伟俊",
+          "name": "Love Me",
+          "artist": "JMSN",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "周旋(艾热AIR)(Live)",
-          "artist": "艾热 AIR",
+          "name": "CLOSER",
+          "artist": "金地雄",
           "trend": "flat"
         }
       ]
@@ -367,14 +367,14 @@
         },
         {
           "rank": 4,
-          "name": "左转灯 (1000 Times+1)",
-          "artist": "派伟俊",
+          "name": "全世界失眠",
+          "artist": "刘思鉴/沙一汀EL",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "全世界失眠",
-          "artist": "刘思鉴/沙一汀EL",
+          "name": "左转灯 (1000 Times+1)",
+          "artist": "派伟俊",
           "trend": "flat"
         },
         {
@@ -385,26 +385,26 @@
         },
         {
           "rank": 7,
-          "name": "The Gentlemen(绅士们) (Live)",
-          "artist": "弹壳Danko/Vinz-T",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "如果你也刚好抬头看树",
           "artist": "孙天宇",
           "trend": "flat"
         },
         {
+          "rank": 8,
+          "name": "The Gentlemen(绅士们) (Live)",
+          "artist": "弹壳Danko/Vinz-T",
+          "trend": "flat"
+        },
+        {
           "rank": 9,
-          "name": "偶尔",
-          "artist": "加木",
+          "name": "泣",
+          "artist": "SASIOVERLXRD",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "泣",
-          "artist": "SASIOVERLXRD",
+          "name": "水为媒",
+          "artist": "礼越",
           "trend": "flat"
         }
       ]
@@ -429,7 +429,7 @@
         },
         {
           "rank": 3,
-          "name": "于是",
+          "name": "遐想",
           "artist": "郑润泽",
           "trend": "flat"
         },
@@ -447,32 +447,32 @@
         },
         {
           "rank": 6,
-          "name": "还是会想你",
-          "artist": "林达浪/h3R3",
+          "name": "苦茶子",
+          "artist": "Starling8/DRODUMANA/FIVESTAR",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "周旋",
-          "artist": "王以太/艾热 AIR",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "玻璃",
           "artist": "Gareth.T",
           "trend": "flat"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "失眠",
           "artist": "Suki刘舒妤",
           "trend": "flat"
         },
         {
+          "rank": 9,
+          "name": "周旋",
+          "artist": "王以太/艾热 AIR",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "如果呢",
-          "artist": "郑润泽",
+          "name": "雨过后的风景",
+          "artist": "Dizzy Dizzo (蔡诗芸)",
           "trend": "flat"
         }
       ]
@@ -485,61 +485,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "郑中基 - 闭目入神",
+          "name": "毒药 - 求你别离开我 (我不知为何疯狂为你执着)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "梓渝 - RUN IT",
+          "name": "Roling7、DJ铁柱 - 梦的翅膀受了伤 (氛围女声)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "宋亚轩 - 一半一半 (Live)",
+          "name": "落日微醺小醺 - 这辈子欠自己太多 (R&amp;B版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "ทิดแอม - 那个坏小子 (บักคนซั่ว)",
+          "name": "宋亚轩、AGA、黄子弘凡、姚晓棠、周深、吴莫愁、金志文、龚琳娜...",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "赵鑫 - 叹句秋意浓",
+          "name": "ทิดแอม - 那个坏小子 (บักคนซั่ว)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "魏佳艺 - 南方没有你北方没有雨",
+          "name": "玲妹儿 - 动了情的人如此难忘 (我还在傻傻盼你回头望)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "王佳音 - 有你在身边",
+          "name": "彭妃妃 - 90后的我们 (现场版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "许成成 - 旅行者号",
+          "name": "卡司 - 失眠 (浴室氛围版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "洋澜一 - 这辈子能遇见你就足够",
+          "name": "韩小欠、静心 - 负我不负她 (深情对唱版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "王以太 - 周旋 (Live)",
+          "name": "KAI - 我在你身后",
           "artist": "",
           "trend": "flat"
         }
@@ -571,43 +571,43 @@
         },
         {
           "rank": 4,
-          "name": "巴扎黑 - 吹吹山顶的风",
+          "name": "郑中基 - 闭目入神",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "张杰 - 明天过后",
+          "name": "巴扎黑 - 吹吹山顶的风",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "大壮 - 差一步",
+          "name": "张杰 - 明天过后",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "落日微醺本薰、张多金 - 像我这样爱你的人",
+          "name": "大壮 - 差一步",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "宋盐球 - 回到小村落 (听着蛐蛐唱着歌)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "孙燕姿 - 我不难过",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 9,
+          "name": "落日微醺本薰、张多金 - 像我这样爱你的人",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "郑中基 - 闭目入神",
+          "name": "林俊杰 - 冻结",
           "artist": "",
           "trend": "flat"
         }
@@ -701,7 +701,7 @@
         },
         {
           "rank": 3,
-          "name": "韩晓 - 歌老了哥也老了",
+          "name": "邹小龙 - 爱你成了魔",
           "artist": "",
           "trend": "flat"
         },
@@ -719,31 +719,31 @@
         },
         {
           "rank": 6,
-          "name": "邹小龙 - 爱你成了魔",
+          "name": "Alanoe、Kaozaki、Seryn、耳机里的盲盒 - 请批准吧！灯神先生 (...",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "梁宁飘 - 双亲安康顺遂",
+          "name": "水禹 - 我的同桌是学渣",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "Electronic Mortal - Mood",
+          "name": "G Sounds - Youth Romance",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "张冬玲 - 小草",
+          "name": "7uid - 少羽进行曲 (清者自清万人识)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "DJ李颉 - 我真的特别爱你 (月薪喵名曲)",
+          "name": "Electronic Mortal - Mood",
           "artist": "",
           "trend": "flat"
         }
@@ -752,19 +752,15 @@
   ],
   "cross": [
     {
-      "name": "闭目入神",
-      "artist": "郑中基",
+      "name": "冻结",
+      "artist": "林俊杰",
       "tags": [
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#1",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#1",
           "c": "tag-blue"
         },
         {
@@ -772,23 +768,23 @@
           "c": "tag-green"
         }
       ],
-      "count": 4
+      "count": 3
     },
     {
-      "name": "RUN IT",
-      "artist": "梓渝",
+      "name": "闭目入神",
+      "artist": "郑中基",
       "tags": [
         {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#2",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#1",
+          "label": "QQ音樂#2",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
+          "label": "網易雲#4",
+          "c": "tag-green"
         }
       ],
       "count": 3
@@ -798,7 +794,7 @@
       "artist": "李荣浩",
       "tags": [
         {
-          "label": "QQ音樂#6",
+          "label": "QQ音樂#5",
           "c": "tag-blue"
         },
         {
@@ -813,21 +809,6 @@
       "count": 3
     },
     {
-      "name": "冻结",
-      "artist": "林俊杰",
-      "tags": [
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
       "name": "明天过后",
       "artist": "张杰",
       "tags": [
@@ -836,7 +817,7 @@
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#5",
+          "label": "QQ音樂#4",
           "c": "tag-blue"
         }
       ],
@@ -847,7 +828,7 @@
       "artist": "李佳薇",
       "tags": [
         {
-          "label": "QQ音樂#7",
+          "label": "QQ音樂#6",
           "c": "tag-blue"
         },
         {
@@ -862,11 +843,26 @@
       "artist": "杨丞琳",
       "tags": [
         {
-          "label": "QQ音樂#8",
+          "label": "QQ音樂#7",
           "c": "tag-blue"
         },
         {
           "label": "QQ音樂#8",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "情歌",
+      "artist": "梁静茹",
+      "tags": [
+        {
+          "label": "QQ音樂#8",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#4",
           "c": "tag-blue"
         }
       ],
@@ -881,7 +877,7 @@
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#9",
+          "label": "網易雲#8",
           "c": "tag-green"
         }
       ],
@@ -898,21 +894,6 @@
         {
           "label": "QQ音樂#6",
           "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "周旋",
-      "artist": "王以太/艾热AIR",
-      "tags": [
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#7",
-          "c": "tag-green"
         }
       ],
       "count": 2
