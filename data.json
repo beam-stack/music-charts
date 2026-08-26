@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26 01:23",
+  "updated": "2026-08-27 02:51",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -15,56 +15,56 @@
         },
         {
           "rank": 2,
-          "name": "没有你是漫长雨季",
-          "artist": "梓渝",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
           "name": "Hope to Remain",
           "artist": "严浩翔",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "没有你是漫长雨季",
+          "artist": "梓渝",
+          "trend": "flat"
+        },
+        {
           "rank": 4,
+          "name": "哀人i (Live)",
+          "artist": "余文乐/艾热AIR/王以太",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
           "name": "此间是少年",
           "artist": "梓渝",
           "trend": "flat"
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "name": "请勿打扰",
+          "artist": "喻言",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "循迹 (Live)",
+          "artist": "王铮亮/李佳薇",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "SPARK TO FIRE 星火成焰",
+          "artist": "TOP登陆少年组合",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
           "name": "时间漫步",
           "artist": "梓渝",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "闯",
-          "artist": "梓渝",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "最好的我",
-          "artist": "龚芝怡/房祖名",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "致亲爱的自己",
-          "artist": "梓渝",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "渝人码头",
-          "artist": "梓渝",
-          "trend": "flat"
-        },
-        {
           "rank": 10,
-          "name": "不回头的人",
-          "artist": "梓渝",
+          "name": "森林狂想曲",
+          "artist": "黛青塔娜",
           "trend": "flat"
         }
       ]
@@ -77,62 +77,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "没有你是漫长雨季",
-          "artist": "梓渝",
+          "name": "我不难过",
+          "artist": "孙燕姿",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "闯",
-          "artist": "梓渝",
+          "name": "闭目入神",
+          "artist": "郑中基",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "时间漫步",
-          "artist": "梓渝",
+          "name": "甲乙丙丁 (你我怎么两清)",
+          "artist": "李佳薇",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "此间是少年",
-          "artist": "梓渝",
+          "name": "恋人",
+          "artist": "李荣浩",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "致亲爱的自己",
-          "artist": "梓渝",
+          "name": "碎碎念",
+          "artist": "队长",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "渝人码头",
-          "artist": "梓渝",
+          "name": "甲乙丙丁 (你我怎么两清) (Live)",
+          "artist": "张碧晨/侯明昊",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "不回头的人",
-          "artist": "梓渝",
+          "name": "情歌",
+          "artist": "梁静茹",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "Hope to Remain",
-          "artist": "严浩翔",
+          "name": "冻结",
+          "artist": "林俊杰",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "MONEYMONEYMONEY",
-          "artist": "CORTIS",
+          "name": "我怀念的",
+          "artist": "孙燕姿",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "闭目入神",
-          "artist": "郑中基",
+          "name": "雨爱",
+          "artist": "杨丞琳",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "没有你是漫长雨季",
-          "artist": "梓渝",
+          "name": "昨天，今天",
+          "artist": "莫文蔚",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "闯",
-          "artist": "梓渝",
+          "name": "梦的翅膀受了伤 (大圆哥版)",
+          "artist": "大圆哥",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "时间漫步",
-          "artist": "梓渝",
+          "name": "仿佛又在那天醒来",
+          "artist": "黄星",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "此间是少年",
-          "artist": "梓渝",
+          "name": "莫忙",
+          "artist": "乡野低频",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "致亲爱的自己",
-          "artist": "梓渝",
+          "name": "至少我还算快乐",
+          "artist": "时代少年团",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "渝人码头",
-          "artist": "梓渝",
+          "name": "斗战胜佛",
+          "artist": "张艺兴",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "不回头的人",
-          "artist": "梓渝",
+          "name": "她",
+          "artist": "刘宇宁",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "Hope to Remain",
-          "artist": "严浩翔",
+          "name": "摆脱地心引力",
+          "artist": "时代少年团",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "游向陆地的鱼",
-          "artist": "梓渝",
+          "name": "I Like U Like",
+          "artist": "时代少年团",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "贰拾肆",
-          "artist": "梓渝",
+          "name": "全世界我最美",
+          "artist": "时代少年团",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "讴歌",
-          "artist": "Vansdaddy",
+          "name": "Lost ",
+          "artist": "满舒克/Jony J",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "哀人i (Live)",
-          "artist": "余文乐/艾热 AIR/王以太",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "夏日尽头的我们",
-          "artist": "N3/命运结构",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "凌晨三点半",
-          "artist": "念念不忘",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "我梦到还剩5分钟死去",
-          "artist": "JinJiBeWater_隼",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
           "name": "无题",
           "artist": "姜云升",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "LOST",
+          "artist": "ET",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "夏日尽头的我们",
+          "artist": "N3/命运结构",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "讴歌",
+          "artist": "Vansdaddy",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "我想呼风唤雨",
+          "artist": "法老/泠风/杨秋儒/喉结蜥蜴/杨迪",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
-          "name": "蜀道难",
-          "artist": "JinJiBeWater_隼",
+          "name": "现在 你才不幸福",
+          "artist": "张方钊/KenRobb",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "闭目入神",
-          "artist": "郑中基",
+          "name": "我们的纪念",
+          "artist": "李雅微",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "周旋",
-          "artist": "王以太/艾热 AIR",
+          "name": "梦的翅膀受了伤 (大圆哥版)",
+          "artist": "大圆哥",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "螺旋 - RASEN - Acoustic Ver. -",
-          "artist": "9Lana",
+          "name": "莫忙",
+          "artist": "乡野低频",
           "trend": "flat"
         }
       ]
@@ -355,14 +355,14 @@
         },
         {
           "rank": 2,
-          "name": "隐藏相册",
-          "artist": "Top Barry/INDEcompany",
+          "name": "哀人i (Live)",
+          "artist": "余文乐/艾热 AIR/王以太",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "再见太难",
-          "artist": "利得汇",
+          "name": "隐藏相册",
+          "artist": "Top Barry/INDEcompany",
           "trend": "flat"
         },
         {
@@ -373,14 +373,14 @@
         },
         {
           "rank": 5,
-          "name": "哀人i (Live)",
-          "artist": "余文乐/艾热 AIR/王以太",
+          "name": "神选",
+          "artist": "SASIOVERLXRD",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "神选",
-          "artist": "SASIOVERLXRD",
+          "name": "莫忙",
+          "artist": "乡野低频",
           "trend": "flat"
         },
         {
@@ -397,14 +397,14 @@
         },
         {
           "rank": 9,
-          "name": "梨花雨",
-          "artist": "姜添/听潮阁",
+          "name": "甲乙丙丁 [你我怎么两清] (Live版)",
+          "artist": "张碧晨/侯明昊",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "My job (老本行) (Live)",
-          "artist": "ICE杨长青/那奇沃夫/张峻豪SHUN",
+          "name": "if you",
+          "artist": "Kyle衫子/WHICHWAY_MUSIC",
           "trend": "flat"
         }
       ]
@@ -429,8 +429,8 @@
         },
         {
           "rank": 3,
-          "name": "讴歌",
-          "artist": "Vansdaddy",
+          "name": "于是",
+          "artist": "郑润泽",
           "trend": "flat"
         },
         {
@@ -441,14 +441,14 @@
         },
         {
           "rank": 5,
-          "name": "周旋",
-          "artist": "王以太/艾热 AIR",
+          "name": "无题",
+          "artist": "姜云升",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "于是",
-          "artist": "郑润泽",
+          "name": "还是会想你",
+          "artist": "林达浪/h3R3",
           "trend": "flat"
         },
         {
@@ -459,20 +459,20 @@
         },
         {
           "rank": 8,
+          "name": "周旋",
+          "artist": "王以太/艾热 AIR",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
           "name": "玻璃",
           "artist": "Gareth.T",
           "trend": "flat"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "失眠",
           "artist": "Suki刘舒妤",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "我好想你 (苏打绿版)",
-          "artist": "苏打绿",
           "trend": "flat"
         }
       ]
@@ -485,61 +485,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "张艺兴 - 故香",
+          "name": "DJ野野 - 霍希进行曲 (秋天的风她不曾见过桃花)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "李婷雪 - 你不该权衡利弊",
+          "name": "酷酷里、面妹孔佳奇 - 如果累了就回故乡 (少年版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "梓渝 - 没有你是漫长雨季",
+          "name": "刘纯 - 如果回到那从前 (遗憾)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "梓渝 - 此间是少年",
+          "name": "方辰 - 回到小村落 (谁也别来掌管我的生活)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "梓渝 - 渝人码头",
+          "name": "玲妹儿 - 谁 (面对你的背叛无力挽回)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "梓渝 - 闯",
+          "name": "彭妃妃 - ﻿我心空空空 (Live版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "梓渝 - 时间漫步",
+          "name": "郭少杰、杨海彪 - 岁月如笔写春秋 (国粤经典)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "梓渝 - 致亲爱的自己",
+          "name": "亚东 - 借山风",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "梓渝 - 不回头的人",
+          "name": "KAI - 东窗 (琵琶曲)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "黄霄雲 - 不问",
+          "name": "宋盐球 - 山风山风等等我",
           "artist": "",
           "trend": "flat"
         }
@@ -577,13 +577,13 @@
         },
         {
           "rank": 5,
-          "name": "酷酷里、面妹孔佳奇 - 如果累了就回故乡 (少年版)",
+          "name": "郭芊彤 - 时光你等等我",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "张碧晨、侯明昊 - 甲乙丙丁 (你我怎么两清)(Live)",
+          "name": "酷酷里、面妹孔佳奇 - 如果累了就回故乡 (少年版)",
           "artist": "",
           "trend": "flat"
         },
@@ -595,19 +595,19 @@
         },
         {
           "rank": 8,
-          "name": "郭芊彤 - 时光你等等我",
+          "name": "大圆哥 - 梦的翅膀受了伤",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "郑中基 - 闭目入神",
+          "name": "队长 - 碎碎念",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "巴扎黑 - 吹吹山顶的风",
+          "name": "郑中基 - 闭目入神",
           "artist": "",
           "trend": "flat"
         }
@@ -689,13 +689,13 @@
       "songs": [
         {
           "rank": 1,
-          "name": "张大迷糊 - 花钱如流水 (挣钱如捉鬼)",
+          "name": "孙渔 - 给爱一把长命锁",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "孙渔 - 给爱一把长命锁",
+          "name": "小土妹 - 荣光",
           "artist": "",
           "trend": "flat"
         },
@@ -707,43 +707,43 @@
         },
         {
           "rank": 4,
-          "name": "潘潘爱唱歌 - 只为那一眼",
+          "name": "文玖言、柯子颜 - 茧蛹",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "你的晴 - 会一直难过吗",
+          "name": "灵魂配乐师 - 好景不长 (纯音乐)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "DJ浪子康、DJ歌者达达、戏子念尘、沉默书生 - 梦的翅膀受了伤 (...",
+          "name": "赫铭 - 你已经走了几个秋",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "酉才酉亿 - 心好累啊",
+          "name": "你的晴 - 会一直难过吗",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "麻辣三姑妈 - 不过是爱错",
+          "name": "鸿弟幻想家 - 巴适得板 (live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "ハンバート ハンバート - しろつめくさ (白诘草)",
+          "name": "LINGCHENHAI - 好景不长 (欲买桂花同载酒)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "LINGCHENHAI - 好景不长 (欲买桂花同载酒)",
+          "name": "麻辣三姑妈 - 不过是爱错",
           "artist": "",
           "trend": "flat"
         }
@@ -752,144 +752,11 @@
   ],
   "cross": [
     {
-      "name": "没有你是漫长雨季",
-      "artist": "梓渝",
-      "tags": [
-        {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "Hope to Remain",
-      "artist": "严浩翔",
-      "tags": [
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#8",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#8",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "此间是少年",
-      "artist": "梓渝",
+      "name": "恋人",
+      "artist": "李荣浩",
       "tags": [
         {
           "label": "QQ音樂#4",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#4",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#4",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "时间漫步",
-      "artist": "梓渝",
-      "tags": [
-        {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "闯",
-      "artist": "梓渝",
-      "tags": [
-        {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "致亲爱的自己",
-      "artist": "梓渝",
-      "tags": [
-        {
-          "label": "QQ音樂#8",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "渝人码头",
-      "artist": "梓渝",
-      "tags": [
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "不回头的人",
-      "artist": "梓渝",
-      "tags": [
-        {
-          "label": "QQ音樂#10",
           "c": "tag-blue"
         },
         {
@@ -897,37 +764,150 @@
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#7",
-          "c": "tag-blue"
+          "label": "網易雲#7",
+          "c": "tag-green"
         }
       ],
       "count": 3
     },
     {
-      "name": "闭目入神",
-      "artist": "郑中基",
+      "name": "莫忙",
+      "artist": "乡野低频",
       "tags": [
         {
-          "label": "QQ音樂#10",
+          "label": "QQ音樂#4",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#8",
+          "label": "網易雲#10",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#6",
+          "c": "tag-green"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "无题",
+      "artist": "姜云升",
+      "tags": [
+        {
+          "label": "網易雲#2",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#1",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#5",
+          "c": "tag-green"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "甲乙丙丁 (你我怎么两清) (Live)",
+      "artist": "张碧晨/侯明昊",
+      "tags": [
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#6",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "哀人i (Live)",
+      "artist": "余文乐/艾热AIR/王以太",
+      "tags": [
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#2",
           "c": "tag-green"
         }
       ],
       "count": 2
     },
     {
-      "name": "我好想你 (苏打绿版)",
-      "artist": "苏打绿",
+      "name": "甲乙丙丁 (你我怎么两清)",
+      "artist": "李佳薇",
       "tags": [
         {
           "label": "QQ音樂#3",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#10",
+          "label": "網易雲#1",
+          "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "碎碎念",
+      "artist": "队长",
+      "tags": [
+        {
+          "label": "QQ音樂#5",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#4",
+          "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "情歌",
+      "artist": "梁静茹",
+      "tags": [
+        {
+          "label": "QQ音樂#7",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#8",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "雨爱",
+      "artist": "杨丞琳",
+      "tags": [
+        {
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "梦的翅膀受了伤 (大圆哥版)",
+      "artist": "大圆哥",
+      "tags": [
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#9",
           "c": "tag-green"
         }
       ],
