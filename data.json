@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22 04:42",
+  "updated": "2026-09-23 03:57",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -15,8 +15,8 @@
         },
         {
           "rank": 2,
-          "name": "雨终曲",
-          "artist": "宋雨琦 (YUQI) (우기)",
+          "name": "那页夏天",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
@@ -27,44 +27,44 @@
         },
         {
           "rank": 4,
+          "name": "雨终曲",
+          "artist": "宋雨琦 (YUQI) (우기)",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
           "name": "风月吻眉梢",
           "artist": "礼越",
           "trend": "flat"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "牡丹亭",
           "artist": "浅影阿",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "默契过期",
-          "artist": "田栩宁",
-          "trend": "flat"
-        },
-        {
           "rank": 7,
-          "name": "漫游",
-          "artist": "田栩宁",
+          "name": "如果还会遇见",
+          "artist": "何遇Hayu/Crybird",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "After Everything",
-          "artist": "曾沛慈",
+          "name": "我所知道的修辞手法",
+          "artist": "张靓颖",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "态度 (Attitude)",
-          "artist": "田栩宁",
+          "name": "世界第一等",
+          "artist": "卡宾先生",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "Saturday Night",
-          "artist": "Ghost (王琳凯)",
+          "name": "过期食品",
+          "artist": "张靓颖",
           "trend": "flat"
         }
       ]
@@ -77,32 +77,32 @@
       "songs": [
         {
           "rank": 1,
+          "name": "那页夏天",
+          "artist": "王俊凯",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
           "name": "茶汤",
           "artist": "郁可唯",
           "trend": "flat"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "我不难过",
           "artist": "孙燕姿",
           "trend": "flat"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "泪海",
           "artist": "许茹芸",
           "trend": "flat"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "甲乙丙丁 (你我怎么两清)",
           "artist": "李佳薇",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "失温拥抱",
-          "artist": "陈楚生",
           "trend": "flat"
         },
         {
@@ -125,8 +125,8 @@
         },
         {
           "rank": 9,
-          "name": "素颜",
-          "artist": "许嵩/何曼婷",
+          "name": "雨爱",
+          "artist": "杨丞琳",
           "trend": "flat"
         },
         {
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "失温拥抱",
-          "artist": "陈楚生",
+          "name": "那页夏天",
+          "artist": "王俊凯",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "有何不可",
-          "artist": "许嵩",
+          "name": "hey! hey! (Chinese ver.)",
+          "artist": "TWS (투어스)",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "素颜",
-          "artist": "许嵩/何曼婷",
+          "name": "Thank You",
+          "artist": "王嘉尔",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "如果当时",
-          "artist": "许嵩",
+          "name": "六月的雨",
+          "artist": "胡歌",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "多余的解释",
-          "artist": "许嵩",
+          "name": "慢慢",
+          "artist": "张学友",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "幻听",
-          "artist": "许嵩",
+          "name": "借过一下",
+          "artist": "周深",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "敢不敢 （Still Us）",
-          "artist": "Desire4/黄星/邱鼎杰/李沛恩",
+          "name": "过期食品",
+          "artist": "张靓颖",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "惊鸿一面",
-          "artist": "许嵩/黄龄",
+          "name": "阳光普照",
+          "artist": "容祖儿",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "玫瑰花的葬礼",
-          "artist": "许嵩",
+          "name": "我所知道的修辞手法",
+          "artist": "张靓颖",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "清明雨上",
-          "artist": "许嵩",
+          "name": "加码",
+          "artist": "张靓颖",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "两 难",
-          "artist": "加木",
+          "name": "冷冰冰",
+          "artist": "Double SR/一觉Ysleep",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "沧海一粟",
-          "artist": "刘森",
+          "name": "Thank You",
+          "artist": "王嘉尔",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "无心斗艳",
-          "artist": "大布/苏泽龙",
+          "name": "花骨朵",
+          "artist": "洛天依Official/亞細亞曠世奇才",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "有何不可",
-          "artist": "许嵩",
+          "name": "刀子",
+          "artist": "卦者灵风",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "都给你",
-          "artist": "非日姜JANGO",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "两个月亮",
-          "artist": "酷酷的蓝/魅/造梦师DreamMaker",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
           "name": "take me somewhere far away from here",
           "artist": "Seto",
           "trend": "flat"
         },
         {
+          "rank": 6,
+          "name": "缘元",
+          "artist": "念念不忘/开心元元",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "take me somewhere",
+          "artist": "Seto",
+          "trend": "flat"
+        },
+        {
           "rank": 8,
-          "name": "牵我的手好吗",
-          "artist": "吴琳珂Moske",
+          "name": "女字旁",
+          "artist": "安崎",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "关我PEACE",
-          "artist": "翁杰Winjay",
+          "name": "阳光普照",
+          "artist": "容祖儿",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "多余的解释",
-          "artist": "许嵩",
+          "name": "Lost Control",
+          "artist": "NENX/RANGE",
           "trend": "flat"
         }
       ]
@@ -355,14 +355,14 @@
         },
         {
           "rank": 2,
-          "name": "两 难",
-          "artist": "加木",
+          "name": "If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante)",
+          "artist": "VALORANT/Grabbitz/Oli Sykes/Courtney LaPlante",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante)",
-          "artist": "VALORANT/Grabbitz/Oli Sykes/Courtney LaPlante",
+          "name": "Thank You",
+          "artist": "王嘉尔",
           "trend": "flat"
         },
         {
@@ -373,14 +373,14 @@
         },
         {
           "rank": 5,
-          "name": "短发女孩(她留短发淡的妆)",
-          "artist": "Zzh",
+          "name": "两难pt2",
+          "artist": "加木",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "牵我的手好吗",
-          "artist": "吴琳珂Moske",
+          "name": "短发女孩(她留短发淡的妆)",
+          "artist": "Zzh",
           "trend": "flat"
         },
         {
@@ -391,20 +391,20 @@
         },
         {
           "rank": 8,
+          "name": "缘元",
+          "artist": "念念不忘/开心元元",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
           "name": "Dear my crazy soulmate",
           "artist": "IU",
           "trend": "flat"
         },
         {
-          "rank": 9,
-          "name": "new trick",
-          "artist": "ROSÉ",
-          "trend": "flat"
-        },
-        {
           "rank": 10,
-          "name": "读心术 (Live版)",
-          "artist": "欧阳娜娜/姚晓棠",
+          "name": "牵我的手好吗",
+          "artist": "吴琳珂Moske",
           "trend": "flat"
         }
       ]
@@ -429,8 +429,8 @@
         },
         {
           "rank": 3,
-          "name": "如果呢",
-          "artist": "郑润泽",
+          "name": "两 难",
+          "artist": "加木",
           "trend": "flat"
         },
         {
@@ -447,8 +447,8 @@
         },
         {
           "rank": 6,
-          "name": "Lost ",
-          "artist": "满舒克/Jony J",
+          "name": "忘不掉的你",
+          "artist": "h3R3",
           "trend": "flat"
         },
         {
@@ -471,8 +471,8 @@
         },
         {
           "rank": 10,
-          "name": "玻璃",
-          "artist": "Gareth.T",
+          "name": "再见太难",
+          "artist": "利得汇",
           "trend": "flat"
         }
       ]
@@ -485,61 +485,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "微醺森林 - 秋风一吹又老一岁 (女版烟嗓)",
+          "name": "王俊凯 - 那页夏天",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "浅影阿 - 牡丹亭",
+          "name": "万海东、烟嗓船长、草原兄弟、灯叔、刘家奇阿 - 敬岁月一杯酒 (...",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "温子 - 卧底",
+          "name": "闫东 - 别做哑巴",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "张靓颖 - 我所知道的修辞手法",
+          "name": "酷酷里、面妹孔佳奇 - 如果累了就回故乡 (少年版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "张靓颖 - 过期食品",
+          "name": "350Ton-xll - 底色 (难道我又多想了)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "李发发 - 如果人生真的可以重来",
+          "name": "鸣潮先约电台、苏诗丁 - 心月辞·长相望",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "张靓颖 - 加码",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "邓寓君(等什么君) - 挂帅",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "Desire4、黄星、邱鼎杰、李沛恩、江衡 - 敢不敢 (Still Us)",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 8,
+          "name": "张靓颖 - 加码",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "音萌萌 - 奈何月圆人难圆 (现场版)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "魏佳艺 - 唇上开出玫瑰花",
+          "name": "尹昔眠 - 得失甘愿 (我可以爱时热烈)",
           "artist": "",
           "trend": "flat"
         }
@@ -589,19 +589,19 @@
         },
         {
           "rank": 7,
-          "name": "万海东 - 山风山风等等我",
+          "name": "微醺森林 - 秋风一吹又老一岁 (女版烟嗓)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "冬妍DYan - No photo of you left to survey (one day when I w...",
+          "name": "万海东 - 山风山风等等我",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "李婷雪 - 你不该权衡利弊",
+          "name": "酷酷里、面妹孔佳奇 - 如果累了就回故乡 (少年版)",
           "artist": "",
           "trend": "flat"
         },
@@ -689,55 +689,55 @@
       "songs": [
         {
           "rank": 1,
-          "name": "大余 - 旧日情旧日梦",
+          "name": "记忆的鱼 - 孤独的王",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "孙艺伟 - 济公之祥龙现世片尾曲 请你忘了我",
+          "name": "Teamspark_XND (火星团) - 霓虹邂逅",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "朴惠子 - 中枪",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
           "name": "玻璃星 - 会幸福的 对吗 (氛围版)",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 4,
+          "name": "UM - 情绪避难所Pt.2",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 5,
-          "name": "Laufey - Best Friend",
+          "name": "晴川音 - 流多少泪才能不想你",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "永夜极光乐团 - 鲸旅-永夜极光",
+          "name": "dj飞雷神、Solyn伦 - 白色火焰",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "谭歌 - 钞票 (DJ版)",
+          "name": "画心月狐 - 真真假假",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "僕たちは夜な夜な - ジェニ (天才)(いゔどっと ver.)",
+          "name": "张树林 - 何惧鬼神 (DJ沈浪版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "彭席彦 - 邪恶",
+          "name": "梦境里的奇迹 - 回响 (白鹿应援曲)",
           "artist": "",
           "trend": "flat"
         },
@@ -760,7 +760,7 @@
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#1",
+          "label": "QQ音樂#2",
           "c": "tag-blue"
         },
         {
@@ -771,15 +771,15 @@
       "count": 3
     },
     {
-      "name": "失温拥抱",
-      "artist": "陈楚生",
+      "name": "那页夏天",
+      "artist": "王俊凯",
       "tags": [
         {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#2",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#5",
+          "label": "QQ音樂#1",
           "c": "tag-blue"
         },
         {
@@ -809,11 +809,60 @@
       "count": 3
     },
     {
+      "name": "Thank You",
+      "artist": "王嘉尔",
+      "tags": [
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#2",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#3",
+          "c": "tag-green"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "我所知道的修辞手法",
+      "artist": "张靓颖",
+      "tags": [
+        {
+          "label": "QQ音樂#8",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#9",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "过期食品",
+      "artist": "张靓颖",
+      "tags": [
+        {
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#7",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
       "name": "我不难过",
       "artist": "孙燕姿",
       "tags": [
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         },
         {
@@ -828,7 +877,7 @@
       "artist": "李佳薇",
       "tags": [
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#5",
           "c": "tag-blue"
         },
         {
@@ -864,51 +913,6 @@
         {
           "label": "QQ音樂#9",
           "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "素颜",
-      "artist": "许嵩/何曼婷",
-      "tags": [
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "开始懂了",
-      "artist": "孙燕姿",
-      "tags": [
-        {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#4",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "有何不可",
-      "artist": "许嵩",
-      "tags": [
-        {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#4",
-          "c": "tag-green"
         }
       ],
       "count": 2
