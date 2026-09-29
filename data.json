@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29 06:21",
+  "updated": "2026-09-30 05:10",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -21,50 +21,50 @@
         },
         {
           "rank": 3,
+          "name": "忧郁幻昼 (Abyss Mix)",
+          "artist": "凝视深渊·Abyss",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
           "name": "红尘误此生",
           "artist": "宋晓峰",
           "trend": "flat"
         },
         {
-          "rank": 4,
-          "name": "那页夏天",
-          "artist": "王俊凯",
-          "trend": "flat"
-        },
-        {
           "rank": 5,
-          "name": "借一片雪",
-          "artist": "刘宇",
+          "name": "大梦归",
+          "artist": "周深",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "月亮之下",
-          "artist": "黄龄/邓典",
+          "name": "如诗一般的形容妳",
+          "artist": "曹杨",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "Mmm",
-          "artist": "张靓颖",
+          "name": "山风不语",
+          "artist": "伍零五",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "我以为",
-          "artist": "品冠",
+          "name": "风月吻眉梢",
+          "artist": "礼越",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "六月的雨",
-          "artist": "胡歌",
+          "name": "秋天的海",
+          "artist": "周传雄",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "山风不语",
-          "artist": "伍零五",
+          "name": "Mmm",
+          "artist": "张靓颖",
           "trend": "flat"
         }
       ]
@@ -89,50 +89,50 @@
         },
         {
           "rank": 3,
+          "name": "U&ME",
+          "artist": "檀健次",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "Trouble In My DMs",
+          "artist": "檀健次",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
           "name": "甲乙丙丁 (你我怎么两清)",
           "artist": "李佳薇",
           "trend": "flat"
         },
         {
-          "rank": 4,
-          "name": "泪海",
-          "artist": "许茹芸",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "情歌",
-          "artist": "梁静茹",
-          "trend": "flat"
-        },
-        {
           "rank": 6,
-          "name": "恋人",
-          "artist": "李荣浩",
+          "name": "Dead Reflex (intro)",
+          "artist": "檀健次",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "我怀念的",
-          "artist": "孙燕姿",
+          "name": "Drop (Explicit)",
+          "artist": "檀健次",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "雨爱",
-          "artist": "杨丞琳",
+          "name": "Dive",
+          "artist": "檀健次",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "Always Online",
-          "artist": "林俊杰",
+          "name": "游爱场",
+          "artist": "檀健次",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "特别的人",
-          "artist": "方大同",
+          "name": "Silk Sheets (国语)",
+          "artist": "檀健次",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "出现又离开 (Live)",
-          "artist": "梁博",
+          "name": "如诗一般的形容妳",
+          "artist": "曹杨",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "大梦归",
-          "artist": "周深",
+          "name": "Trouble In My DMs",
+          "artist": "檀健次",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "阿楚姑娘",
-          "artist": "袁娅维TIA RAY",
+          "name": "U&ME",
+          "artist": "檀健次",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "Mmm",
-          "artist": "张靓颖",
+          "name": "Silk Sheets (国语)",
+          "artist": "檀健次",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "交换余生",
-          "artist": "林俊杰",
+          "name": "Drop (Explicit)",
+          "artist": "檀健次",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "画",
-          "artist": "赵雷",
+          "name": "Dive",
+          "artist": "檀健次",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "男孩 (Live)",
-          "artist": "梁博",
+          "name": "Dead Reflex (intro)",
+          "artist": "檀健次",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "曾经是情侣 (Live)",
-          "artist": "梁博",
+          "name": "幻火",
+          "artist": "檀健次",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "Dear You",
-          "artist": "宇宙人",
+          "name": "别放过",
+          "artist": "檀健次",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "金玉良缘",
-          "artist": "李琦",
+          "name": "游爱场",
+          "artist": "檀健次",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "后患",
-          "artist": "Whyyyy./HYPEEZY/火滚音乐",
+          "name": "水仙",
+          "artist": "Crow17/Top Barry",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "给焜哥的歌",
-          "artist": "张卫",
+          "name": "两难pt.2",
+          "artist": "加木",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "还是会寂寞",
-          "artist": "陈绮贞",
+          "name": "那就晚安",
+          "artist": "尚士达",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "偷心",
-          "artist": "SASIOVERLXRD/连麻Swimming",
+          "name": "浅粉红 baby pink",
+          "artist": "Gareth.T",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "짠해",
-          "artist": "FIESTAR",
+          "name": "再见太难",
+          "artist": "利得汇",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "梨花瘦",
-          "artist": "七朵组合",
+          "name": "浅粉红 pale pink",
+          "artist": "Gareth.T",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "夜间飞行",
-          "artist": "80se",
+          "name": "泪海",
+          "artist": "许茹芸",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "泪雨落",
-          "artist": "Badynow",
+          "name": "明天过后",
+          "artist": "张杰",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "大眠",
-          "artist": "王心凌",
+          "name": "夜醉佳人",
+          "artist": "FLAdMoile",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "Mimosa 2000",
-          "artist": "Furaçao 2000/Nyasia",
+          "name": "思念的月",
+          "artist": "卓沅",
           "trend": "flat"
         }
       ]
@@ -349,62 +349,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "互删 (我走以后)",
-          "artist": "江辰",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "两难pt.2",
           "artist": "加木",
           "trend": "flat"
         },
         {
-          "rank": 3,
-          "name": "冷刺（他们说爱上一个人需要等待）",
-          "artist": "Start Over",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "唯有追赶风的方向",
-          "artist": "知更鸟/HOYO-MiX/Chevy",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
+          "rank": 2,
           "name": "浅粉红 baby pink",
           "artist": "Gareth.T",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante)",
-          "artist": "VALORANT/Grabbitz/Oli Sykes/Courtney LaPlante",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
+          "rank": 3,
           "name": "浅粉红 pale pink",
           "artist": "Gareth.T",
           "trend": "flat"
         },
         {
-          "rank": 8,
-          "name": "世界和我爱着你",
-          "artist": "石凯",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
+          "rank": 4,
           "name": "Patient Zero",
           "artist": "Taylor Swift",
           "trend": "flat"
         },
         {
-          "rank": 10,
+          "rank": 5,
+          "name": "冷刺（他们说爱上一个人需要等待）",
+          "artist": "Start Over",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
           "name": "牵我的手好吗",
           "artist": "吴琳珂Moske",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "一样的我们",
+          "artist": "颜人中",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "Dear my crazy soulmate",
+          "artist": "IU",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "世界和我爱着你",
+          "artist": "石凯",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante)",
+          "artist": "VALORANT/Grabbitz/Oli Sykes/Courtney LaPlante",
           "trend": "flat"
         }
       ]
@@ -429,7 +429,7 @@
         },
         {
           "rank": 3,
-          "name": "遐想",
+          "name": "如果呢",
           "artist": "郑润泽",
           "trend": "flat"
         },
@@ -447,8 +447,8 @@
         },
         {
           "rank": 6,
-          "name": "两 难",
-          "artist": "加木",
+          "name": "遐想",
+          "artist": "郑润泽",
           "trend": "flat"
         },
         {
@@ -471,8 +471,8 @@
         },
         {
           "rank": 10,
-          "name": "玻璃",
-          "artist": "Gareth.T",
+          "name": "再见太难",
+          "artist": "利得汇",
           "trend": "flat"
         }
       ]
@@ -485,61 +485,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "佳佳、宋盐球、金钰双双、天雯 - 山风山风等等我 (女声合唱)",
+          "name": "刘欢 - 爱难收",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "YM music69 - 如果累了就回故乡",
+          "name": "白小白 - 耳光",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "刘欢 - 弯弯的月亮",
+          "name": "九漏鱼（韩佳欣） - 浪子爱天涯",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "海来阿木 - 你的万水千山2026",
+          "name": "刘欢 - 归路",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "刘欢 - 好汉歌",
+          "name": "刘欢 - 人间道",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "刘欢 - 情怨",
+          "name": "一万种声音 - 山上的山花开 (无说唱版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "刘欢 - 我在",
+          "name": "刘欢 - 不能这样活",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "黄子弘凡 - 忘飞的鸽",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "DJ小虾米 - 时间会回答",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 9,
+          "name": "落星城 - 我欠你啥子吗 (烟嗓版)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "魏佳艺、励志豪 - 山风山风等等我 (国粤男女对唱版)",
+          "name": "DJ铁柱 - 写的信撕成碎片",
           "artist": "",
           "trend": "flat"
         }
@@ -577,25 +577,25 @@
         },
         {
           "rank": 5,
-          "name": "许茹芸 - 泪海",
+          "name": "刘欢 - 弯弯的月亮",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "任夏 - 月亮替我望故乡",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
           "name": "浅影阿 - 牡丹亭",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 7,
+          "name": "许茹芸 - 泪海",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 8,
-          "name": "刘欢 - 弯弯的月亮",
+          "name": "任夏 - 月亮替我望故乡",
           "artist": "",
           "trend": "flat"
         },
@@ -689,37 +689,37 @@
       "songs": [
         {
           "rank": 1,
-          "name": "梦境里的奇迹 - 回响 (白鹿应援曲)",
+          "name": "何岩 - 来晚的情 (DJ鬼鬼于航版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "808hz、929oz、等下一个有你的冬天 - sajina (贾法尔)(慢摇版)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "TONEDEAF7 - 春娇志明 (空灵鼓版)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
           "name": "UM、只是情绪交织 - 生命尽头的华尔兹",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 5,
+          "rank": 3,
+          "name": "味姐 - 夜夜风好凉",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
           "name": "雷龙 - 你有没有真的爱过我",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 5,
+          "name": "黄玉娇 - 谁",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
-          "name": "潮流音乐前线、DJok绷 - Up to you (酒吧舞曲蹦迪DJ)",
+          "name": "DJ真相 - 让告别留在风中",
           "artist": "",
           "trend": "flat"
         },
@@ -731,19 +731,19 @@
         },
         {
           "rank": 8,
-          "name": "吕口口 - 牵手 (因为爱着你的爱)",
+          "name": "卢焱恒 - 小城画师",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "张树林 - 何惧鬼神 (DJ沈浪版)",
+          "name": "TATZ2 - 蝴蝶步 (杏仁茶)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "十三叔 - 伪装 (DJ弹鼓版)",
+          "name": "Electronic Mortal、Electronic Ponos - WORRY SUPER SLOW",
           "artist": "",
           "trend": "flat"
         }
@@ -752,34 +752,15 @@
   ],
   "cross": [
     {
-      "name": "恋人",
-      "artist": "李荣浩",
+      "name": "如诗一般的形容妳",
+      "artist": "曹杨",
       "tags": [
         {
           "label": "QQ音樂#6",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#4",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#8",
-          "c": "tag-green"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "Mmm",
-      "artist": "张靓颖",
-      "tags": [
-        {
-          "label": "QQ音樂#7",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#1",
           "c": "tag-blue"
         }
       ],
@@ -816,11 +797,41 @@
       "count": 2
     },
     {
+      "name": "U&ME",
+      "artist": "檀健次",
+      "tags": [
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Trouble In My DMs",
+      "artist": "檀健次",
+      "tags": [
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
       "name": "甲乙丙丁 (你我怎么两清)",
       "artist": "李佳薇",
       "tags": [
         {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#5",
           "c": "tag-blue"
         },
         {
@@ -831,76 +842,61 @@
       "count": 2
     },
     {
-      "name": "情歌",
-      "artist": "梁静茹",
+      "name": "Dead Reflex (intro)",
+      "artist": "檀健次",
       "tags": [
         {
-          "label": "QQ音樂#5",
+          "label": "QQ音樂#6",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#7",
           "c": "tag-blue"
         }
       ],
       "count": 2
     },
     {
-      "name": "我怀念的",
-      "artist": "孙燕姿",
+      "name": "Drop (Explicit)",
+      "artist": "檀健次",
       "tags": [
         {
           "label": "QQ音樂#7",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#9",
+          "label": "QQ音樂#5",
           "c": "tag-blue"
         }
       ],
       "count": 2
     },
     {
-      "name": "Always Online",
-      "artist": "林俊杰",
+      "name": "Dive",
+      "artist": "檀健次",
       "tags": [
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        },
         {
           "label": "QQ音樂#8",
           "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#6",
+          "c": "tag-blue"
         }
       ],
       "count": 2
     },
     {
-      "name": "刘欢 - 弯弯的月亮",
-      "artist": "",
+      "name": "游爱场",
+      "artist": "檀健次",
       "tags": [
         {
-          "label": "酷狗#3",
-          "c": "tag-orange"
+          "label": "QQ音樂#9",
+          "c": "tag-blue"
         },
         {
-          "label": "酷狗#8",
-          "c": "tag-orange"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "郁可唯 - 茶汤",
-      "artist": "",
-      "tags": [
-        {
-          "label": "酷狗#2",
-          "c": "tag-orange"
-        },
-        {
-          "label": "酷狗#1",
-          "c": "tag-orange"
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
         }
       ],
       "count": 2
