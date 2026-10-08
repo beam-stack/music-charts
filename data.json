@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08 05:42",
+  "updated": "2026-10-09 05:39",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -15,56 +15,56 @@
         },
         {
           "rank": 2,
-          "name": "茶花开了，该回家了",
-          "artist": "王睿卓/加木",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "阿楚姑娘",
-          "artist": "袁娅维TIA RAY",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "雨爱",
-          "artist": "杨丞琳",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "You Are All I Need",
           "artist": "FLY COAST/二宮愛 (にのみや あい)",
           "trend": "flat"
         },
         {
-          "rank": 6,
+          "rank": 3,
           "name": "醒时歌",
           "artist": "周传雄/希林娜依高",
           "trend": "flat"
         },
         {
+          "rank": 4,
+          "name": "隔岸",
+          "artist": "姚六一",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "忘了怎么天晴",
+          "artist": "陈宇祥",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "回到你身边 (让你知道)",
+          "artist": "h3R3刘清云",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
-          "name": "好久不见",
-          "artist": "NAVE/黄婷婷",
+          "name": "阿楚姑娘",
+          "artist": "袁娅维TIA RAY",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "红色高跟鞋",
-          "artist": "蔡健雅",
+          "name": "茶花开了，该回家了",
+          "artist": "王睿卓/加木",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "Always Online",
-          "artist": "林俊杰",
+          "name": "Whatever Happens",
+          "artist": "Michael Jackson/Carlos Santana",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "多远都要在一起",
-          "artist": "G.E.M.邓紫棋",
+          "name": "雨爱",
+          "artist": "杨丞琳",
           "trend": "flat"
         }
       ]
@@ -77,26 +77,26 @@
       "songs": [
         {
           "rank": 1,
-          "name": "自由的你",
-          "artist": "G.E.M.邓紫棋",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "我不难过",
           "artist": "孙燕姿",
           "trend": "flat"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "name": "甲乙丙丁 (你我怎么两清)",
           "artist": "李佳薇",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "自由的你",
+          "artist": "G.E.M.邓紫棋",
+          "trend": "flat"
+        },
+        {
           "rank": 4,
-          "name": "茶汤",
-          "artist": "郁可唯",
+          "name": "雨爱",
+          "artist": "杨丞琳",
           "trend": "flat"
         },
         {
@@ -107,8 +107,8 @@
         },
         {
           "rank": 6,
-          "name": "雨爱",
-          "artist": "杨丞琳",
+          "name": "茶汤",
+          "artist": "郁可唯",
           "trend": "flat"
         },
         {
@@ -131,8 +131,8 @@
         },
         {
           "rank": 10,
-          "name": "茶花开了，该回家了",
-          "artist": "王睿卓/加木",
+          "name": "开始懂了",
+          "artist": "孙燕姿",
           "trend": "flat"
         }
       ]
@@ -145,26 +145,26 @@
       "songs": [
         {
           "rank": 1,
-          "name": "九月底",
-          "artist": "余佳运",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "我欲成仙",
-          "artist": "刘欢",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
           "name": "晴天",
           "artist": "周杰伦",
           "trend": "flat"
         },
         {
+          "rank": 2,
+          "name": "雨爱",
+          "artist": "杨丞琳",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "Always Online",
+          "artist": "林俊杰",
+          "trend": "flat"
+        },
+        {
           "rank": 4,
-          "name": "出现又离开 (Live)",
-          "artist": "梁博",
+          "name": "发如雪",
+          "artist": "周杰伦",
           "trend": "flat"
         },
         {
@@ -175,32 +175,32 @@
         },
         {
           "rank": 6,
-          "name": "发如雪",
-          "artist": "周杰伦",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
           "name": "恋人",
           "artist": "李荣浩",
           "trend": "flat"
         },
         {
+          "rank": 7,
+          "name": "夜曲",
+          "artist": "周杰伦",
+          "trend": "flat"
+        },
+        {
           "rank": 8,
-          "name": "凤凰于飞",
-          "artist": "刘欢",
+          "name": "春娇与志明",
+          "artist": "街道办GDC/欧阳耀莹",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "Always Online",
-          "artist": "林俊杰",
+          "name": "我怀念的",
+          "artist": "孙燕姿",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "红尘客栈",
-          "artist": "周杰伦",
+          "name": "红色高跟鞋",
+          "artist": "蔡健雅",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "自由的你",
-          "artist": "G.E.M.邓紫棋",
+          "name": "斗战胜佛",
+          "artist": "张艺兴",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "以我之见",
-          "artist": "谭维维",
+          "name": "反方向的钟",
+          "artist": "周杰伦",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "大梦归",
-          "artist": "周深",
+          "name": "我不难过",
+          "artist": "孙燕姿",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "醒时歌",
-          "artist": "周传雄/希林娜依高",
+          "name": "你不要那样看着我的眼睛",
+          "artist": "蔡琴",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "You Are All I Need",
-          "artist": "FLY COAST/二宮愛 (にのみや あい)",
+          "name": "Moonride",
+          "artist": "Hearts2Hearts",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "花开满篱院",
-          "artist": "谭松韵",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
           "name": "等你的季节",
           "artist": "刘诗诗",
           "trend": "flat"
         },
         {
+          "rank": 7,
+          "name": "大梦归",
+          "artist": "周深",
+          "trend": "flat"
+        },
+        {
           "rank": 8,
-          "name": "多远都要在一起",
-          "artist": "G.E.M.邓紫棋",
+          "name": "我来书写我的名",
+          "artist": "王铮亮",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "茶花开了，该回家了",
-          "artist": "王睿卓/加木",
+          "name": "花开满篱院",
+          "artist": "谭松韵",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "茶汤",
-          "artist": "郁可唯",
+          "name": "You Are All I Need",
+          "artist": "FLY COAST/二宮愛 (にのみや あい)",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "自由的你",
-          "artist": "G.E.M.邓紫棋",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "全息恋人",
-          "artist": "栾一鸣Floscar",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "江南雪",
-          "artist": "礼越",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
           "name": "偷心",
           "artist": "SASIOVERLXRD/连麻Swimming",
           "trend": "flat"
         },
         {
+          "rank": 2,
+          "name": "我不难过",
+          "artist": "孙燕姿",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "Star (反方向的钟)",
+          "artist": "XMASwu(吴骜)",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "唉",
+          "artist": "张方钊",
+          "trend": "flat"
+        },
+        {
           "rank": 5,
-          "name": "给焜哥的歌",
-          "artist": "张卫",
+          "name": "你不要那样看着我的眼睛",
+          "artist": "蔡琴",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "午夜巡航",
-          "artist": "昨天",
+          "name": "Lost Control",
+          "artist": "NENX/RANGE",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "罪人",
-          "artist": "TC",
+          "name": "一诺为家",
+          "artist": "铁痕电台-MSR/Miaa/CC",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "Whatever Happens",
-          "artist": "Michael Jackson",
+          "name": "SAY IT LOUD",
+          "artist": "阿杰/krs",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "HOVE（FUNK）",
-          "artist": "越心",
+          "name": "夜醉佳人",
+          "artist": "FLAdMoile",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "You Are All I Need",
-          "artist": "FLY COAST/二宮愛",
+          "name": "维也纳宝石奏鸣曲",
+          "artist": "SymphonicTechno",
           "trend": "flat"
         }
       ]
@@ -397,14 +397,14 @@
         },
         {
           "rank": 9,
-          "name": "If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante)",
-          "artist": "VALORANT/Grabbitz/Oli Sykes/Courtney LaPlante",
+          "name": "王子系变装",
+          "artist": "圈圈菌",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "王子系变装",
-          "artist": "圈圈菌",
+          "name": "If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante)",
+          "artist": "VALORANT/Grabbitz/Oli Sykes/Courtney LaPlante",
           "trend": "flat"
         }
       ]
@@ -417,20 +417,20 @@
       "songs": [
         {
           "rank": 1,
-          "name": "海屿你",
-          "artist": "马也_Crabbit",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "我不难过",
           "artist": "孙燕姿",
           "trend": "flat"
         },
         {
+          "rank": 2,
+          "name": "海屿你",
+          "artist": "马也_Crabbit",
+          "trend": "flat"
+        },
+        {
           "rank": 3,
-          "name": "如果呢",
-          "artist": "郑润泽",
+          "name": "忘不掉的你",
+          "artist": "h3R3",
           "trend": "flat"
         },
         {
@@ -447,32 +447,32 @@
         },
         {
           "rank": 6,
-          "name": "遐想",
-          "artist": "郑润泽",
+          "name": "红",
+          "artist": "罗言",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "自由的你",
-          "artist": "G.E.M.邓紫棋",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "恋人",
           "artist": "李荣浩",
           "trend": "flat"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "茶汤",
           "artist": "郁可唯",
           "trend": "flat"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "碎碎念",
           "artist": "队长",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "如果呢",
+          "artist": "郑润泽",
           "trend": "flat"
         }
       ]
@@ -485,61 +485,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "G.E.M.邓紫棋 - 自由的你",
+          "name": "DJ铁柱、ALOMNG - 回到小村落 (谁规定人生要怎样的过)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "烟嗓船长、刘纯、草原兄弟 - 最痛不过是深情 (群星大合唱版)",
+          "name": "李佳霖 - 谁不是为了碎银几两",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "黄文文 - 偏我走后花满城",
+          "name": "王一佳 - 潇洒的以后 (节奏版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "彭妃妃 - 我爱我的祖国 (现场版)",
+          "name": "风里微醺 - 各凭本事闯天地",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "李发发 - 让爱随风飘散 (我们都低估了时间的重量)",
+          "name": "大欢 - 曾掏心掏肺的人",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "肖雨蒙 - 黄泉苦等三生缘 (女版)",
+          "name": "摩卡 - 回忆的漩涡 (氛围版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "金钰儿、阿国哥 - 错在不该动情 (国粤双语)",
+          "name": "烟嗓船长 - 其实你也没多好 (深情烟嗓版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "三无Marblue - 告死鸟",
+          "name": "石红豆 - 人间情多",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "京仔 - Crazy Heartbeat Rhythm",
+          "name": "彭妃妃 - 不删不聊不联系 (现场版)(Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "李发发 - 秋风一吹 又老一岁 (想把当年的我找回)",
+          "name": "恰恰恰恰恰 - 那人那扇窗",
           "artist": "",
           "trend": "flat"
         }
@@ -577,13 +577,13 @@
         },
         {
           "rank": 5,
-          "name": "浅影阿 - 牡丹亭",
+          "name": "周深 - 大梦归",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "周深 - 大梦归",
+          "name": "浅影阿 - 牡丹亭",
           "artist": "",
           "trend": "flat"
         },
@@ -595,19 +595,19 @@
         },
         {
           "rank": 8,
-          "name": "晴婉、赵若海 - 祝福祖国 (合唱版)",
+          "name": "周杰伦 - 反方向的钟",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "王睿卓、加木 - 茶花开了，该回家了",
+          "name": "顿珠拉姆 - 我听人说思念像风一样 (宿命版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "顿珠拉姆 - 我听人说思念像风一样 (宿命版)",
+          "name": "王睿卓、加木 - 茶花开了，该回家了",
           "artist": "",
           "trend": "flat"
         }
@@ -695,55 +695,55 @@
         },
         {
           "rank": 2,
-          "name": "张猛 - 唱一段月牙五更",
+          "name": "何岩 - 来晚的情 (DJ鬼鬼于航版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "何岩 - 大哥有点讷",
+          "name": "张猛 - 唱一段月牙五更",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "放肆的活菩萨 - 繁嚣人境",
+          "name": "何岩 - 大哥有点讷",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "王小港 - 最痛不是错过而是忘记",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
           "name": "翟晶晶 - 漠河北岸",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 6,
+          "name": "王小港 - 最痛不是错过而是忘记",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
-          "name": "邹小龙 - 谁曾",
+          "name": "放肆的活菩萨 - 繁嚣人境",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "小宇 - 小小的我",
+          "name": "好多倩 - 逍遥调",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "玻璃星 - 会幸福的 对吗 (氛围版)",
+          "name": "都市苍狼 - 甜蜜的单相思",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "成为你的避风港 - 你那阿谀奉承的样子真是丑陋",
+          "name": "洛琦 - 回头是故乡",
           "artist": "",
           "trend": "flat"
         }
@@ -751,6 +751,29 @@
     }
   ],
   "cross": [
+    {
+      "name": "我不难过",
+      "artist": "孙燕姿",
+      "tags": [
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#2",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#1",
+          "c": "tag-green"
+        }
+      ],
+      "count": 4
+    },
     {
       "name": "自由的你",
       "artist": "G.E.M.邓紫棋",
@@ -760,81 +783,31 @@
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#1",
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         },
         {
           "label": "網易雲#1",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#1",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#7",
           "c": "tag-green"
         }
       ],
-      "count": 6
+      "count": 3
     },
     {
-      "name": "茶花开了，该回家了",
-      "artist": "王睿卓/加木",
+      "name": "雨爱",
+      "artist": "杨丞琳",
       "tags": [
-        {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
         {
           "label": "QQ音樂#10",
           "c": "tag-blue"
         },
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "You Are All I Need",
-      "artist": "FLY COAST/二宮愛 (にのみや あい)",
-      "tags": [
-        {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#10",
-          "c": "tag-green"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "茶汤",
-      "artist": "郁可唯",
-      "tags": [
         {
           "label": "QQ音樂#4",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#10",
+          "label": "QQ音樂#2",
           "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#9",
-          "c": "tag-green"
         }
       ],
       "count": 3
@@ -848,7 +821,67 @@
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#7",
+          "label": "QQ音樂#6",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#7",
+          "c": "tag-green"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "You Are All I Need",
+      "artist": "FLY COAST/二宮愛 (にのみや あい)",
+      "tags": [
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "甲乙丙丁 (你我怎么两清)",
+      "artist": "李佳薇",
+      "tags": [
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#5",
+          "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "情歌",
+      "artist": "梁静茹",
+      "tags": [
+        {
+          "label": "QQ音樂#5",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#5",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "茶汤",
+      "artist": "郁可唯",
+      "tags": [
+        {
+          "label": "QQ音樂#6",
           "c": "tag-blue"
         },
         {
@@ -856,78 +889,33 @@
           "c": "tag-green"
         }
       ],
-      "count": 3
-    },
-    {
-      "name": "雨爱",
-      "artist": "杨丞琳",
-      "tags": [
-        {
-          "label": "QQ音樂#4",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
-        }
-      ],
       "count": 2
     },
     {
-      "name": "醒时歌",
-      "artist": "周传雄/希林娜依高",
-      "tags": [
-        {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#4",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "Always Online",
-      "artist": "林俊杰",
-      "tags": [
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "多远都要在一起",
-      "artist": "G.E.M.邓紫棋",
-      "tags": [
-        {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#8",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "我不难过",
+      "name": "我怀念的",
       "artist": "孙燕姿",
       "tags": [
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#8",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#2",
+          "label": "QQ音樂#9",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "你不要那样看着我的眼睛",
+      "artist": "蔡琴",
+      "tags": [
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#5",
           "c": "tag-green"
         }
       ],
