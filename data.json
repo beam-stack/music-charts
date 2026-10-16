@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16 04:07",
+  "updated": "2026-10-17 03:45",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -15,56 +15,56 @@
         },
         {
           "rank": 2,
-          "name": "你不要那样看着我的眼睛",
-          "artist": "蔡琴",
+          "name": "光·影",
+          "artist": "云旗/郝熠然",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "火种",
-          "artist": "成毅",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
           "name": "天龙八部之宿敌",
           "artist": "许嵩",
           "trend": "flat"
         },
         {
+          "rank": 4,
+          "name": "SUPERSTAR",
+          "artist": "A2O SOUL/A2O",
+          "trend": "flat"
+        },
+        {
           "rank": 5,
-          "name": "Dear my crazy soulmate",
-          "artist": "IU (아이유)",
+          "name": "火种",
+          "artist": "成毅",
           "trend": "flat"
         },
         {
           "rank": 6,
+          "name": "你不要那样看着我的眼睛",
+          "artist": "蔡琴",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
           "name": "各凭本事闯天地",
           "artist": "风里微醺",
           "trend": "flat"
         },
         {
-          "rank": 7,
-          "name": "One Of The Girls",
-          "artist": "The Weeknd/JENNIE (제니)/Lily-Rose Depp",
-          "trend": "flat"
-        },
-        {
           "rank": 8,
-          "name": "人儿啊请慢下来",
-          "artist": "石满仓",
+          "name": "Dear my crazy soulmate",
+          "artist": "IU (아이유)",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "听从裙摆",
-          "artist": "王者荣耀闪光计划/王者荣耀",
+          "name": "VIBE",
+          "artist": "展轩",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "偏爱",
-          "artist": "张芸京",
+          "name": "如果累了就回故乡 (少年版)",
+          "artist": "酷酷里/面妹孔佳奇",
           "trend": "flat"
         }
       ]
@@ -83,8 +83,8 @@
         },
         {
           "rank": 2,
-          "name": "火种",
-          "artist": "成毅",
+          "name": "光·影",
+          "artist": "云旗/郝熠然",
           "trend": "flat"
         },
         {
@@ -101,14 +101,14 @@
         },
         {
           "rank": 5,
-          "name": "甲乙丙丁 (你我怎么两清)",
-          "artist": "李佳薇",
+          "name": "SUPERSTAR",
+          "artist": "A2O SOUL/A2O",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "SUPERSTAR",
-          "artist": "A2O SOUL/A2O",
+          "name": "甲乙丙丁 (你我怎么两清)",
+          "artist": "李佳薇",
           "trend": "flat"
         },
         {
@@ -125,14 +125,14 @@
         },
         {
           "rank": 9,
-          "name": "开始懂了",
-          "artist": "孙燕姿",
+          "name": "雨爱",
+          "artist": "杨丞琳",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "雨爱",
-          "artist": "杨丞琳",
+          "name": "恋人",
+          "artist": "李荣浩",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "NEON",
-          "artist": "A2O LITE/A2O",
+          "name": "光·影",
+          "artist": "云旗/郝熠然",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "火种",
-          "artist": "成毅",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
           "name": "SUPERSTAR",
           "artist": "A2O SOUL/A2O",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "Galaxy Far Far Away",
+          "artist": "侯明昊",
+          "trend": "flat"
+        },
+        {
           "rank": 4,
-          "name": "爱上",
-          "artist": "刘宇宁",
+          "name": "Just Give Me a Reason",
+          "artist": "P!NK/Nate Ruess",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "天龙八部之宿敌",
-          "artist": "许嵩",
+          "name": "陪你走到世界尽头",
+          "artist": "云旗/郝熠然",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "不能成情人",
-          "artist": "丁家怡",
+          "name": "爱人如养花",
+          "artist": "云旗",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "过来人 古人开麦特别篇",
+          "name": "过来人",
           "artist": "喆FILM",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "聊表心意",
-          "artist": "薛之谦/刘惜君",
+          "name": "溺于业火",
+          "artist": "云旗/郝熠然",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "渴",
-          "artist": "孙燕姿",
+          "name": "My Fondest",
+          "artist": "郝熠然",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "Dear my crazy soulmate",
-          "artist": "IU (아이유)",
+          "name": "借名入局",
+          "artist": "刘宇宁",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "幽明",
-          "artist": "世界之外",
+          "name": "全息恋人",
+          "artist": "栾一鸣Floscar",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "Saving",
-          "artist": "Agera",
+          "name": "Just Give Me a Reason",
+          "artist": "P!nk/Nate Ruess",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "遗憾总是贯穿人生始终",
-          "artist": "边缘/粘了咕叽",
+          "name": "我爱你",
+          "artist": "王菲",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "雲を抜け風下へ私だけ",
-          "artist": "ヨルシカ",
+          "name": "Choro Das Aguas",
+          "artist": "Ivan Lins",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "后患",
-          "artist": "Whyyyy./HYPEEZY/火滚音乐",
+          "name": "偷心",
+          "artist": "SASIOVERLXRD/连麻Swimming",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "20 Min*liluzivert采样*BGM x jerseyclub* beat",
-          "artist": "prodjaded",
+          "name": "升本后醒来",
+          "artist": "上饒天選之子",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "两小无猜",
-          "artist": "Max李玄",
+          "name": "你不要那样看着我的眼睛",
+          "artist": "蔡琴",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "莫",
-          "artist": "危晋宇",
+          "name": "天龙八部之宿敌",
+          "artist": "许嵩",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "咲き誇れ",
-          "artist": "YOASOBI",
+          "name": "99",
+          "artist": "TizzyT",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "渴",
-          "artist": "孙燕姿",
+          "name": "浅粉红 baby pink",
+          "artist": "Gareth.T",
           "trend": "flat"
         }
       ]
@@ -361,8 +361,8 @@
         },
         {
           "rank": 3,
-          "name": "牵我的手好吗",
-          "artist": "吴琳珂Moske",
+          "name": "浅粉红 baby pink",
+          "artist": "Gareth.T",
           "trend": "flat"
         },
         {
@@ -373,38 +373,38 @@
         },
         {
           "rank": 5,
-          "name": "浅粉红 baby pink",
-          "artist": "Gareth.T",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "月声尽，心灯明",
-          "artist": "鸣潮先约电台/jixwang/Cassie Wei",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "雪少年(山外山天外天)",
-          "artist": "SUS.",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "浅粉红 pale pink",
           "artist": "Gareth.T",
           "trend": "flat"
         },
         {
+          "rank": 6,
+          "name": "雪少年(山外山天外天)",
+          "artist": "SUS.",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "Grey trails live on",
+          "artist": "Dirk/Echo",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "月声尽，心灯明",
+          "artist": "鸣潮先约电台/jixwang/Cassie Wei",
+          "trend": "flat"
+        },
+        {
           "rank": 9,
-          "name": "人生剩下的难题",
-          "artist": "廖俊涛",
+          "name": "花骨朵",
+          "artist": "洛天依Official/亞細亞曠世奇才",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "花骨朵",
-          "artist": "洛天依Official/亞細亞曠世奇才",
+          "name": "If The Sun Burns Out Tonight (feat. Oli Sykes & Courtney LaPlante)",
+          "artist": "VALORANT/Grabbitz/Oli Sykes/Courtney LaPlante",
           "trend": "flat"
         }
       ]
@@ -429,32 +429,32 @@
         },
         {
           "rank": 3,
-          "name": "如果呢",
-          "artist": "郑润泽",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "甲乙丙丁 (你我怎么两清)",
-          "artist": "李佳薇",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "明知故犯",
-          "artist": "Max李玄",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
           "name": "红",
           "artist": "罗言",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 4,
           "name": "天龙八部之宿敌",
           "artist": "许嵩",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "甲乙丙丁 (你我怎么两清)",
+          "artist": "李佳薇",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "忘不掉的你",
+          "artist": "h3R3",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "明知故犯",
+          "artist": "Max李玄",
           "trend": "flat"
         },
         {
@@ -465,14 +465,14 @@
         },
         {
           "rank": 9,
-          "name": "罗生门（Follow）",
-          "artist": "梨冻紧/Wiz_H张子豪",
+          "name": "回到你身边",
+          "artist": "h3R3",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "玻璃",
-          "artist": "Gareth.T",
+          "name": "全息恋人",
+          "artist": "栾一鸣Floscar",
           "trend": "flat"
         }
       ]
@@ -485,61 +485,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "成毅 - 火种",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "万海东、老韩很哇塞、励志豪 - 山风山风等等我 (国粤合唱版)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "展轩 - 夏天的雪",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "一凡、烟嗓阿文 - 是否一别成永别 (对唱版)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "DJWilliam威廉 - 黄昏 (2026超嗨电音版)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "李宇春 - 和你一样",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "许嵩 - 半城烟沙",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "文雯 - 渡千关",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "刘宇宁 - 爱上",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 2,
+          "name": "赵紫骅 - 一滴泪的时间 (R)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "Ice Paper - 中间人",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "金莎 - 星月神话",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "杨乃文 - 推开世界的门",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "云旗、郝熠然 - 光·影",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "BY2 - 凑热闹",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "许嵩 - 多余的解释",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "赵雷 - 理想",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "白允y - 戏文说",
+          "name": "小炎同学 - 天下的乌鸦一般黑",
           "artist": "",
           "trend": "flat"
         }
@@ -571,43 +571,43 @@
         },
         {
           "rank": 4,
-          "name": "周深 - 大梦归",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "宋晓峰 - 红尘误此生",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "李佳薇 - 甲乙丙丁 (你我怎么两清)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
           "name": "姚六一 - 隔岸",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 5,
+          "name": "周深 - 大梦归",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "指南针 - 大漠长明",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "李佳薇 - 甲乙丙丁 (你我怎么两清)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 8,
-          "name": "顿珠拉姆 - 我听人说思念像风一样 (宿命版)",
+          "name": "阿图表妹 - 你有没有真的爱过我",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "浅影阿 - 牡丹亭",
+          "name": "宋晓峰 - 红尘误此生",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "阿图表妹 - 你有没有真的爱过我",
+          "name": "顿珠拉姆 - 我听人说思念像风一样 (宿命版)",
           "artist": "",
           "trend": "flat"
         }
@@ -689,61 +689,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "洛琦 - 回头是故乡",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "何岩 - 我们之间多了一个她",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "何岩 - 茫茫茫茫郎",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "何岩、火勒 - 爱在日落黄昏后",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "味姐 - 夜夜风好凉 (DJ鬼鬼于航版)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "翟晶晶 - 漠河北岸",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
           "name": "残雪 - 时间骗我太多年",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 8,
-          "name": "皖语1204 - 正当少年时",
+          "rank": 2,
+          "name": "味姐 - 夜夜风好凉",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 9,
+          "rank": 3,
+          "name": "何岩、火勒 - 爱在日落黄昏后",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "何岩 - 茫茫茫茫郎",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "洛琦 - 回头是故乡",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "洛琦 - 多年不见你过的好吗",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
           "name": "潇芜蕈茵 - 窒难",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 8,
+          "name": "李彦桦 - 岁月如酒催泪流",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "西域胡杨 - 狂风别吹",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "老 莫 - 老莫的故事",
+          "name": "翟晶晶 - 漠河北岸",
           "artist": "",
           "trend": "flat"
         }
@@ -756,7 +756,7 @@
       "artist": "许嵩",
       "tags": [
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         },
         {
@@ -768,26 +768,26 @@
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
+          "label": "網易雲#8",
+          "c": "tag-green"
         },
         {
-          "label": "網易雲#7",
+          "label": "網易雲#4",
           "c": "tag-green"
         }
       ],
       "count": 5
     },
     {
-      "name": "NEON",
-      "artist": "A2O LITE/A2O",
+      "name": "光·影",
+      "artist": "云旗/郝熠然",
       "tags": [
         {
-          "label": "QQ音樂#1",
+          "label": "QQ音樂#2",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#1",
+          "label": "QQ音樂#2",
           "c": "tag-blue"
         },
         {
@@ -798,15 +798,15 @@
       "count": 3
     },
     {
-      "name": "火种",
-      "artist": "成毅",
+      "name": "SUPERSTAR",
+      "artist": "A2O SOUL/A2O",
       "tags": [
         {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#4",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#5",
           "c": "tag-blue"
         },
         {
@@ -821,41 +821,49 @@
       "artist": "蔡琴",
       "tags": [
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#6",
           "c": "tag-blue"
         },
         {
           "label": "QQ音樂#7",
           "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#7",
+          "c": "tag-green"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "Dear my crazy soulmate",
-      "artist": "IU (아이유)",
+      "name": "恋人",
+      "artist": "李荣浩",
       "tags": [
+        {
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
+        },
         {
           "label": "QQ音樂#5",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
+          "label": "網易雲#8",
+          "c": "tag-green"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "One Of The Girls",
-      "artist": "The Weeknd/JENNIE (제니)/Lily-Rose Depp",
+      "name": "NEON",
+      "artist": "A2O LITE/A2O",
       "tags": [
         {
-          "label": "QQ音樂#7",
+          "label": "QQ音樂#1",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#1",
           "c": "tag-blue"
         }
       ],
@@ -881,27 +889,12 @@
       "artist": "李佳薇",
       "tags": [
         {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#4",
-          "c": "tag-green"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "SUPERSTAR",
-      "artist": "A2O SOUL/A2O",
-      "tags": [
-        {
           "label": "QQ音樂#6",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
+          "label": "網易雲#5",
+          "c": "tag-green"
         }
       ],
       "count": 2
@@ -917,6 +910,21 @@
         {
           "label": "QQ音樂#10",
           "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Just Give Me a Reason",
+      "artist": "P!NK/Nate Ruess",
+      "tags": [
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#2",
+          "c": "tag-green"
         }
       ],
       "count": 2
