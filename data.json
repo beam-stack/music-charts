@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20 05:17",
+  "updated": "2026-10-21 04:13",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -15,56 +15,56 @@
         },
         {
           "rank": 2,
-          "name": "天龙八部之宿敌",
-          "artist": "许嵩",
+          "name": "Baby's Horizon",
+          "artist": "TF家族-张函瑞",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "SUPERSTAR",
-          "artist": "A2O SOUL/A2O",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "光·影",
-          "artist": "云旗/郝熠然",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "VIBE",
           "artist": "展轩",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "我爱你",
-          "artist": "王菲",
+          "rank": 4,
+          "name": "SUPERSTAR",
+          "artist": "A2O SOUL/A2O",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 5,
           "name": "大漠长明",
           "artist": "指南针",
           "trend": "flat"
         },
         {
+          "rank": 6,
+          "name": "光·影",
+          "artist": "云旗/郝熠然",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "天龙八部之宿敌",
+          "artist": "许嵩",
+          "trend": "flat"
+        },
+        {
           "rank": 8,
-          "name": "火种",
-          "artist": "成毅",
+          "name": "我又不是取经人",
+          "artist": "阿哑",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "灼 (kamin中文版)",
-          "artist": "喻言",
+          "name": "我爱你",
+          "artist": "王菲",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "我的一个道姑朋友(而你撑伞拥我入怀中)",
-          "artist": "晚月moon",
+          "name": "自己的灯自己点",
+          "artist": "尤映冬",
           "trend": "flat"
         }
       ]
@@ -95,14 +95,14 @@
         },
         {
           "rank": 4,
-          "name": "Baby's Horizon",
-          "artist": "TF家族-张函瑞",
+          "name": "甲乙丙丁 (你我怎么两清)",
+          "artist": "李佳薇",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "甲乙丙丁 (你我怎么两清)",
-          "artist": "李佳薇",
+          "name": "Baby's Horizon",
+          "artist": "TF家族-张函瑞",
           "trend": "flat"
         },
         {
@@ -113,20 +113,20 @@
         },
         {
           "rank": 7,
+          "name": "恋人",
+          "artist": "李荣浩",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
           "name": "雨爱",
           "artist": "杨丞琳",
           "trend": "flat"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "我怀念的",
           "artist": "孙燕姿",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "恋人",
-          "artist": "李荣浩",
           "trend": "flat"
         },
         {
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
+          "name": "FIRESTARTER",
+          "artist": "K/DA/英雄联盟/i-dle (아이들)/Mimi Webb",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
           "name": "Baby's Horizon",
           "artist": "TF家族-张函瑞",
           "trend": "flat"
         },
         {
-          "rank": 2,
-          "name": "在梅边",
-          "artist": "王力宏",
-          "trend": "flat"
-        },
-        {
           "rank": 3,
-          "name": "同往",
-          "artist": "章昊 (AND2BLE)",
+          "name": "Birthday Wish",
+          "artist": "NMIXX (엔믹스)",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "在梅边 (Live)",
-          "artist": "小沈阳/唐九洲/颜安",
+          "name": "Looks Can Kill",
+          "artist": "IVE (아이브)",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "灼 (kamin中文版)",
-          "artist": "喻言",
+          "name": "Kerosene",
+          "artist": "NMIXX (엔믹스)",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "我听见了，你的痛苦成立",
-          "artist": "供销社乐队",
+          "name": "RudE TaLK",
+          "artist": "NMIXX (엔믹스)",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "天龙八部之宿敌",
-          "artist": "许嵩",
+          "name": "12 o'clock",
+          "artist": "JxJ (SEVENTEEN)/净汉 (정한)/JOSHUA (조슈아)",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "九月九的酒",
-          "artist": "陈少华",
+          "name": "Sing to the Moon (LILY, HAEWON)",
+          "artist": "NMIXX (엔믹스)",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "大梦归",
-          "artist": "周深",
+          "name": "RTTT",
+          "artist": "鹭卓",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "我爱你",
-          "artist": "王菲",
+          "name": "Hot 'n Unbothered (SULLYOON, BAE)",
+          "artist": "NMIXX (엔믹스)",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "遗憾总是贯穿人生始终",
-          "artist": "边缘/粘了咕叽",
+          "name": "FIRESTARTER",
+          "artist": "K/DA/英雄联盟/i-dle/Mimi Webb/Sophie Powers/曺薇娟/田小娟",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "Odd Dice",
-          "artist": "millsage",
+          "name": "Una Mattina Slap House",
+          "artist": "SMYE",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "学功夫练武术",
-          "artist": "概念黁",
+          "name": "Marry",
+          "artist": "Top Barry/INDEcompany",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "Stay",
-          "artist": "尹浩宇Patrick",
+          "name": "好久不见",
+          "artist": "NAVE/黄婷婷",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "王子系变装",
-          "artist": "圈圈菌",
+          "name": "不懂事",
+          "artist": "吴炳文",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "淡想（Memories）",
-          "artist": "周童",
+          "name": "予君书",
+          "artist": "危晋宇",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "伦敦雨季",
-          "artist": "藤竹京/DY/鯨/风岸",
+          "name": "维他命D Vitamin D (feat.马思唯)",
+          "artist": "王洋EVIS/马思唯",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "琥珀色的情话",
-          "artist": "周传雄",
+          "name": "陀飞轮",
+          "artist": "陈奕迅",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "99",
-          "artist": "TizzyT",
+          "name": "时过境迁",
+          "artist": "苏艺馨Chency",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "顺其自然",
-          "artist": "国产阿发",
+          "name": "Call your name <Gv>",
+          "artist": "澤野弘之/R!N/Gemie",
           "trend": "flat"
         }
       ]
@@ -373,38 +373,38 @@
         },
         {
           "rank": 5,
-          "name": "月声尽，心灯明",
-          "artist": "鸣潮先约电台/jixwang/Cassie Wei",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
           "name": "雪少年(山外山天外天)",
           "artist": "SUS.",
           "trend": "flat"
         },
         {
+          "rank": 6,
+          "name": "月声尽，心灯明",
+          "artist": "鸣潮先约电台/jixwang/Cassie Wei",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
+          "name": "Grey trails live on",
+          "artist": "Dirk/Echo",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
           "name": "HOVE（FUNK）",
           "artist": "越心",
           "trend": "flat"
         },
         {
-          "rank": 8,
-          "name": "花骨朵",
-          "artist": "洛天依Official/亞細亞曠世奇才",
-          "trend": "flat"
-        },
-        {
           "rank": 9,
-          "name": "Stay",
-          "artist": "尹浩宇Patrick",
+          "name": "有你爱就明媚",
+          "artist": "Fozik佛子克",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "有你爱就明媚",
-          "artist": "Fozik佛子克",
+          "name": "花骨朵",
+          "artist": "洛天依Official/亞細亞曠世奇才",
           "trend": "flat"
         }
       ]
@@ -429,26 +429,26 @@
         },
         {
           "rank": 3,
-          "name": "如果呢",
+          "name": "于是",
           "artist": "郑润泽",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "天龙八部之宿敌",
-          "artist": "许嵩",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "甲乙丙丁 (你我怎么两清)",
           "artist": "李佳薇",
           "trend": "flat"
         },
         {
+          "rank": 5,
+          "name": "天龙八部之宿敌",
+          "artist": "许嵩",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
-          "name": "忘不掉的你",
-          "artist": "h3R3",
+          "name": "还是会想你",
+          "artist": "林达浪/h3R3",
           "trend": "flat"
         },
         {
@@ -471,8 +471,8 @@
         },
         {
           "rank": 10,
-          "name": "碎碎念",
-          "artist": "队长",
+          "name": "玻璃",
+          "artist": "Gareth.T",
           "trend": "flat"
         }
       ]
@@ -485,61 +485,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "万海东 - 如果累了就回故乡",
+          "name": "赵雷 - 朵",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "周公 - 不说",
+          "name": "雪山阿木、7past - 我听人说思念像风一样 (难舍难分难解说唱版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "徐佳莹 - 失落沙洲",
+          "name": "许巍 - 故乡",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "万海东、老韩很哇塞、王超然、张小宝、刘轩瑞、杨嘉乐 - 山风山...",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "F.I.R.飞儿乐团、彭佳慧 - 心之火",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "阿杜 - Andy",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "徐佳莹 - 言不由衷",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "河南三妹5233 - 山风山风等等我",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 5,
+          "name": "王一佳 - 回忆就像一把刀",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "BY2 - 这叫爱",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "王晴 - 一了百了",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "阿美呀 - 这些年的不容易",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 9,
-          "name": "徐佳莹 - 绿洲",
+          "name": "刘纯 - 真心换来一场空 (遗憾是人生的常态)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "告五人 - 带我去找夜生活",
+          "name": "侯泽润 - 幸运时差",
           "artist": "",
           "trend": "flat"
         }
@@ -595,19 +595,19 @@
         },
         {
           "rank": 8,
-          "name": "姚六一 - 隔岸",
+          "name": "顿珠拉姆 - 我听人说思念像风一样 (宿命版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "A2O LITE、A2O - NEON",
+          "name": "郁可唯 - 茶汤",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "郁可唯 - 茶汤",
+          "name": "霍尊 - 不死鸟",
           "artist": "",
           "trend": "flat"
         }
@@ -689,61 +689,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "何岩、火勒 - 爱在日落黄昏后",
+          "name": "艾婧-张璃音 - 我这一生只爱你一次",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "味姐 - 夜夜风好凉 (DJ鬼鬼于航版)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
           "name": "洛琦 - 回头是故乡",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 4,
-          "name": "洛琦 - 多年不见你过的好吗",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
+          "rank": 3,
           "name": "老 莫 - 老莫的故事",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "郭飞宏 - 蝴蝶",
+          "rank": 4,
+          "name": "味姐 - 夜夜风好凉 (DJ鬼鬼于航版)",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 5,
           "name": "阿玖 - 野风带我向自由",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 8,
+          "rank": 6,
           "name": "方茹茹 - 爱我的人舍不得我烦恼 (抒情女版)",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 7,
+          "name": "FuGa pang - 鱼 (纯音乐2024)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "秦声浪子 - 送君一别",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 9,
-          "name": "Rezey、#0000FF - 她还躺在我的列表位",
+          "name": "金大帅 - 兄弟别飘",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "吴嘉华 - 此生伴随",
+          "name": "刘策 - 最冷不过人心",
           "artist": "",
           "trend": "flat"
         }
@@ -756,7 +756,7 @@
       "artist": "许嵩",
       "tags": [
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#7",
           "c": "tag-blue"
         },
         {
@@ -768,22 +768,37 @@
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#7",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#4",
+          "label": "網易雲#5",
           "c": "tag-green"
         }
       ],
-      "count": 5
+      "count": 4
+    },
+    {
+      "name": "Baby's Horizon",
+      "artist": "TF家族-张函瑞",
+      "tags": [
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#5",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 3
     },
     {
       "name": "恋人",
       "artist": "李荣浩",
       "tags": [
         {
-          "label": "QQ音樂#9",
+          "label": "QQ音樂#7",
           "c": "tag-blue"
         },
         {
@@ -817,41 +832,11 @@
       "artist": "A2O SOUL/A2O",
       "tags": [
         {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#4",
           "c": "tag-blue"
         },
         {
           "label": "QQ音樂#6",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "我爱你",
-      "artist": "王菲",
-      "tags": [
-        {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "灼 (kamin中文版)",
-      "artist": "喻言",
-      "tags": [
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#5",
           "c": "tag-blue"
         }
       ],
@@ -873,30 +858,15 @@
       "count": 2
     },
     {
-      "name": "Baby's Horizon",
-      "artist": "TF家族-张函瑞",
+      "name": "甲乙丙丁 (你我怎么两清)",
+      "artist": "李佳薇",
       "tags": [
         {
           "label": "QQ音樂#4",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "甲乙丙丁 (你我怎么两清)",
-      "artist": "李佳薇",
-      "tags": [
-        {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#5",
+          "label": "網易雲#4",
           "c": "tag-green"
         }
       ],
@@ -907,12 +877,42 @@
       "artist": "孙燕姿",
       "tags": [
         {
-          "label": "QQ音樂#8",
+          "label": "QQ音樂#9",
           "c": "tag-blue"
         },
         {
           "label": "QQ音樂#10",
           "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "FIRESTARTER",
+      "artist": "K/DA/英雄联盟/i-dle (아이들)/Mimi Webb",
+      "tags": [
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#1",
+          "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "供销社乐队 - 我听见了，你的痛苦成立",
+      "artist": "",
+      "tags": [
+        {
+          "label": "酷狗#4",
+          "c": "tag-orange"
+        },
+        {
+          "label": "酷狗#2",
+          "c": "tag-orange"
         }
       ],
       "count": 2
