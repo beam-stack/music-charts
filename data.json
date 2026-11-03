@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03 07:44",
+  "updated": "2026-11-04 06:08",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -9,62 +9,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "我好像在哪见过你",
-          "artist": "薛之谦",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "Hong Kong (feat. 王菲季候风)",
           "artist": "The Weeknd",
           "trend": "flat"
         },
         {
+          "rank": 2,
+          "name": "我好像在哪见过你",
+          "artist": "薛之谦",
+          "trend": "flat"
+        },
+        {
           "rank": 3,
-          "name": "季候风",
-          "artist": "王菲",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "迟来的情话",
-          "artist": "张家旺",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "隔岸 (女版)",
-          "artist": "可楼",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "难生恨",
-          "artist": "DAWN",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "爱是难解的签",
-          "artist": "一只白羊",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "我不愿看到你流泪的眼睛 (伤感氛围版)",
-          "artist": "еяхат музыка/阿智Rmx/邓淇艺",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "自由的你",
           "artist": "G.E.M.邓紫棋",
           "trend": "flat"
         },
         {
+          "rank": 4,
+          "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
+          "artist": "BESTie (베스티)",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "Wish You Well",
+          "artist": "张智成",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "Just Be My Child",
+          "artist": "小智",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "难生恨",
+          "artist": "DAWN",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "季候风",
+          "artist": "王菲",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "以物易物",
+          "artist": "DYLAN尹海阳",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "过渡期",
-          "artist": "小宇-宋念宇",
+          "name": "we never beat",
+          "artist": "秋落雨",
           "trend": "flat"
         }
       ]
@@ -101,38 +101,38 @@
         },
         {
           "rank": 5,
+          "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
+          "artist": "BESTie (베스티)",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
           "name": "季候风",
           "artist": "王菲",
           "trend": "flat"
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "甲乙丙丁 (你我怎么两清)",
           "artist": "李佳薇",
           "trend": "flat"
         },
         {
-          "rank": 7,
-          "name": "雨爱",
-          "artist": "杨丞琳",
+          "rank": 8,
+          "name": "自由的你",
+          "artist": "G.E.M.邓紫棋",
           "trend": "flat"
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "我怀念的",
           "artist": "孙燕姿",
           "trend": "flat"
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "NEON",
           "artist": "A2O LITE/A2O",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "恋人",
-          "artist": "李荣浩",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "Hong Kong (feat. 王菲季候风)",
-          "artist": "The Weeknd",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
           "artist": "BESTie (베스티)",
           "trend": "flat"
         },
         {
+          "rank": 2,
+          "name": "내 이름을 불러줘 (Call My Name)",
+          "artist": "TWS (투어스)",
+          "trend": "flat"
+        },
+        {
           "rank": 3,
-          "name": "Wish You Well",
-          "artist": "张智成",
+          "name": "WE UP",
+          "artist": "TWS (투어스)",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "想自由",
-          "artist": "王安宇",
+          "name": "heavy",
+          "artist": "TWS (투어스)",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "怜悯 (Live)",
-          "artist": "周深",
+          "name": "SHOCK",
+          "artist": "TREASURE (트레저)",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "该死的温柔",
-          "artist": "马天宇",
+          "name": "一阵风会突如其来",
+          "artist": "陈卓璇",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "隔岸 (女版)",
-          "artist": "可楼",
+          "name": "心湖",
+          "artist": "张靓颖",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "随风而起 如花绽放",
-          "artist": "陈少熙",
+          "name": "过渡期",
+          "artist": "小宇-宋念宇",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "time machine (feat. aren park)",
-          "artist": "mj apanay/aren park",
+          "name": "父亲写的散文诗",
+          "artist": "许飞",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "Die For You",
-          "artist": "The Weeknd",
+          "name": "折月亮",
+          "artist": "刘宇宁",
           "trend": "flat"
         }
       ]
@@ -281,8 +281,8 @@
       "songs": [
         {
           "rank": 1,
-          "name": "Hong Kong (feat. 王菲季候风)",
-          "artist": "The Weeknd",
+          "name": "明年依然好时节",
+          "artist": "许飞",
           "trend": "flat"
         },
         {
@@ -293,50 +293,50 @@
         },
         {
           "rank": 3,
-          "name": "新生活",
-          "artist": "王齐铭WatchMe/LSGCsikoriot",
+          "name": "宝船",
+          "artist": "DOUDOU/燕云十六声",
           "trend": "flat"
         },
         {
           "rank": 4,
+          "name": "一张相片",
+          "artist": "连麻Swimming",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "滥俗的歌",
+          "artist": "汉堡黄",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
           "name": "연애의 조건 (Love Options)",
           "artist": "BESTie",
           "trend": "flat"
         },
         {
-          "rank": 5,
-          "name": "November Rain",
-          "artist": "YangYang",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "旧衣柜",
-          "artist": "李斯丹妮",
-          "trend": "flat"
-        },
-        {
           "rank": 7,
-          "name": "Forget it （feat. Mac Ova Seas）",
-          "artist": "SETI/mac ova seas",
+          "name": "慢倍速",
+          "artist": "林小野",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "November Rain",
-          "artist": "Guns N' Roses",
+          "name": "茉茉",
+          "artist": "Nzwin 黄跃成",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "​雁南飞​",
-          "artist": "王齐铭WatchMe/热单间HEATROOM",
+          "name": "罗马仪事院（THE FORUM OF ROME）",
+          "artist": "皇昶枢（MULA SAKEE）",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "time machine (feat. aren park)",
-          "artist": "mj apanay/aren park",
+          "name": "时过境迁",
+          "artist": "苏艺馨Chency",
           "trend": "flat"
         }
       ]
@@ -367,8 +367,8 @@
         },
         {
           "rank": 4,
-          "name": "隔岸(女版)",
-          "artist": "可楼",
+          "name": "茉茉",
+          "artist": "Nzwin 黄跃成",
           "trend": "flat"
         },
         {
@@ -379,20 +379,20 @@
         },
         {
           "rank": 6,
+          "name": "隔岸(女版)",
+          "artist": "可楼",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
           "name": "撒哈拉的暴雨",
           "artist": "连麻Swimming",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "自由的你",
           "artist": "G.E.M.邓紫棋",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "茉茉",
-          "artist": "Nzwin 黄跃成",
           "trend": "flat"
         },
         {
@@ -403,8 +403,8 @@
         },
         {
           "rank": 10,
-          "name": "Undefined",
-          "artist": "PerVade/第五人格",
+          "name": "Grey trails live on",
+          "artist": "Dirk/Echo",
           "trend": "flat"
         }
       ]
@@ -435,32 +435,32 @@
         },
         {
           "rank": 4,
+          "name": "一张相片",
+          "artist": "连麻Swimming",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
           "name": "天龙八部之宿敌",
           "artist": "许嵩",
           "trend": "flat"
         },
         {
-          "rank": 5,
+          "rank": 6,
+          "name": "无 意",
+          "artist": "加木/Demxntia",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
           "name": "甲乙丙丁 (你我怎么两清)",
           "artist": "李佳薇",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "罗生门（Follow）",
-          "artist": "梨冻紧/Wiz_H张子豪",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
+          "rank": 8,
           "name": "恋人",
           "artist": "李荣浩",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "如果呢",
-          "artist": "郑润泽",
           "trend": "flat"
         },
         {
@@ -485,61 +485,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "The Weeknd - Hong Kong (feat. 王菲季候风)",
+          "name": "刘宇宁 - 折月亮",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "白素沉 - 不能陪你只能惦记 (深情版)",
+          "name": "小法哥 - 秋风吹落我的泪",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "陈慧娴 - 千千阕歌",
+          "name": "林小玥 - 去喜欢那个很忙却对你有空的人",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "杨千嬅 - 处处吻",
+          "name": "摩卡 - 罗生门 (氛围版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "可楼 - 隔岸 (女版)",
+          "name": "乌兰Ulan - 秋风慢慢吹",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "林汝琴 - 用心爱你却留不住你 (深情版)",
+          "name": "平生不晚 - 牡丹亭",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "郑伊健 - 友情岁月",
+          "name": "沧桑老默 - 我好想见你一面",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "林子祥 - 男儿当自强",
+          "name": "满江、李光洁、王啸坤、曹骏、王赫野、姚琛 - 想见你想见你想见...",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "王菲 - 季候风",
+          "name": "陆景钧 - 请不要一时兴起",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "BEYOND - 喜欢你",
+          "name": "浅影阿 - 笑谈",
           "artist": "",
           "trend": "flat"
         }
@@ -559,25 +559,25 @@
         },
         {
           "rank": 2,
-          "name": "许嵩 - 天龙八部之宿敌",
+          "name": "The Weeknd - Hong Kong (feat. 王菲季候风)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "薛之谦 - 我好像在哪见过你",
+          "name": "许嵩 - 天龙八部之宿敌",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "迟嘉良 - 说好再见却再也不见 (催泪版)",
+          "name": "薛之谦 - 我好像在哪见过你",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "The Weeknd - Hong Kong (feat. 王菲季候风)",
+          "name": "迟嘉良 - 说好再见却再也不见 (催泪版)",
           "artist": "",
           "trend": "flat"
         },
@@ -595,13 +595,13 @@
         },
         {
           "rank": 8,
-          "name": "王菲 - 季候风",
+          "name": "可楼 - 隔岸 (女版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "可楼 - 隔岸 (女版)",
+          "name": "王菲 - 季候风",
           "artist": "",
           "trend": "flat"
         },
@@ -689,61 +689,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "味姐 - 夜夜风好凉",
+          "name": "残雪 - 相思难放下",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "王亮 - 爸心上的疤",
+          "name": "艾婧-张璃音 - 我这一生只爱你一次",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "RANGE、NENX - Your Beautiful",
+          "name": "暴躁默 - 失约秋序",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "DJ钢镚 - Right Now (Na Na NaCandy版)",
+          "name": "王亮 - 爸心上的疤",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "镐天 - 风过桥头 (DJ默涵版)",
+          "name": "味姐 - 夜夜风好凉",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "清清 - 甜蜜的单相思",
+          "name": "ppp - 这一路对错都算数",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "DJ钢镚 - Montagem Nada (Speed Up)",
+          "name": "秦声浪子 - 送君一别",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "AJIYEMA、阿吉野马、VTSTYOY - Afterglow",
+          "name": "Beat铺子、DJ-798 - 月薪猫小曲",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "starlightt - uwa so temperate (remix)",
+          "name": "御鹿神谷、十二阑干 - 千里守绝处·大明十六帝纪",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "潘姑娘 - 浪人情歌",
+          "name": "陈小虎 - 兰州故事",
           "artist": "",
           "trend": "flat"
         }
@@ -756,20 +756,12 @@
       "artist": "The Weeknd",
       "tags": [
         {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
-        {
           "label": "QQ音樂#1",
           "c": "tag-blue"
         },
         {
           "label": "QQ音樂#1",
           "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#1",
-          "c": "tag-green"
         },
         {
           "label": "網易雲#1",
@@ -780,18 +772,56 @@
           "c": "tag-green"
         }
       ],
-      "count": 6
+      "count": 4
     },
     {
       "name": "我好像在哪见过你",
       "artist": "薛之谦",
       "tags": [
         {
-          "label": "QQ音樂#1",
+          "label": "QQ音樂#2",
           "c": "tag-blue"
         },
         {
           "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "自由的你",
+      "artist": "G.E.M.邓紫棋",
+      "tags": [
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#8",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#8",
+          "c": "tag-green"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
+      "artist": "BESTie (베스티)",
+      "tags": [
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#5",
           "c": "tag-blue"
         },
         {
@@ -814,26 +844,45 @@
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#4",
+          "label": "網易雲#5",
           "c": "tag-green"
         }
       ],
       "count": 3
     },
     {
-      "name": "恋人",
-      "artist": "李荣浩",
+      "name": "无 意",
+      "artist": "加木/Demxntia",
       "tags": [
         {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
+          "label": "網易雲#2",
+          "c": "tag-green"
         },
         {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
+          "label": "網易雲#3",
+          "c": "tag-green"
         },
         {
-          "label": "網易雲#7",
+          "label": "網易雲#6",
+          "c": "tag-green"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "一张相片",
+      "artist": "连麻Swimming",
+      "tags": [
+        {
+          "label": "網易雲#4",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#2",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#4",
           "c": "tag-green"
         }
       ],
@@ -844,42 +893,12 @@
       "artist": "王菲",
       "tags": [
         {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#8",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#5",
+          "label": "QQ音樂#6",
           "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "隔岸 (女版)",
-      "artist": "可楼",
-      "tags": [
-        {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#7",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "自由的你",
-      "artist": "G.E.M.邓紫棋",
-      "tags": [
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#7",
-          "c": "tag-green"
         }
       ],
       "count": 2
@@ -904,26 +923,11 @@
       "artist": "李佳薇",
       "tags": [
         {
-          "label": "QQ音樂#6",
+          "label": "QQ音樂#7",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#5",
-          "c": "tag-green"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "time machine (feat. aren park)",
-      "artist": "mj apanay/aren park",
-      "tags": [
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#10",
+          "label": "網易雲#7",
           "c": "tag-green"
         }
       ],
