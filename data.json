@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06 06:27",
+  "updated": "2026-11-07 05:53",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -27,38 +27,38 @@
         },
         {
           "rank": 4,
-          "name": "Just Be My Child",
-          "artist": "小智",
+          "name": "怜悯 (Live)",
+          "artist": "周深",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "we never beat",
-          "artist": "秋落雨",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
           "name": "Wish You Well",
           "artist": "张智成",
           "trend": "flat"
         },
         {
+          "rank": 6,
+          "name": "慢倍速",
+          "artist": "方了个木",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
-          "name": "自由的你",
-          "artist": "G.E.M.邓紫棋",
+          "name": "Just Be My Child",
+          "artist": "小智",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "自诩周全 (Live)",
-          "artist": "刘宇宁",
+          "name": "平庸 (Live)",
+          "artist": "薛之谦",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "你爱过我吗 (微醺版)",
-          "artist": "山月微醺",
+          "name": "we never beat",
+          "artist": "秋落雨",
           "trend": "flat"
         },
         {
@@ -89,14 +89,14 @@
         },
         {
           "rank": 3,
-          "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
-          "artist": "BESTie (베스티)",
+          "name": "我不难过",
+          "artist": "孙燕姿",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "我不难过",
-          "artist": "孙燕姿",
+          "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
+          "artist": "BESTie (베스티)",
           "trend": "flat"
         },
         {
@@ -119,20 +119,20 @@
         },
         {
           "rank": 8,
-          "name": "慢倍速",
-          "artist": "方了个木",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "泪海",
           "artist": "许茹芸",
           "trend": "flat"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "我怀念的",
           "artist": "孙燕姿",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "恋人",
+          "artist": "李荣浩",
           "trend": "flat"
         }
       ]
@@ -213,38 +213,38 @@
       "songs": [
         {
           "rank": 1,
+          "name": "后会友期",
+          "artist": "许飞",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
           "name": "慢倍速",
           "artist": "方了个木",
           "trend": "flat"
         },
         {
-          "rank": 2,
-          "name": "父亲写的散文诗",
-          "artist": "许飞",
-          "trend": "flat"
-        },
-        {
           "rank": 3,
-          "name": "这世界只来一次",
-          "artist": "崔十八/听潮阁",
+          "name": "平庸 (Live)",
+          "artist": "薛之谦",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "自诩周全 (Live)",
-          "artist": "刘宇宁",
+          "name": "后会友期",
+          "artist": "张萌/马天宇/厉娜/许飞",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "风吹过",
-          "artist": "张玮",
+          "name": "怜悯 (Live)",
+          "artist": "周深",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "我要的飞翔 (Live)",
-          "artist": "许飞",
+          "name": "I Like Me Better",
+          "artist": "LAUV",
           "trend": "flat"
         },
         {
@@ -255,20 +255,20 @@
         },
         {
           "rank": 8,
-          "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
-          "artist": "BESTie (베스티)",
+          "name": "父亲写的散文诗",
+          "artist": "许飞",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "人间忽晚 (童声合唱版)",
-          "artist": "Lofi先生",
+          "name": "噩梦",
+          "artist": "TizzyT",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "请不要一时兴起",
-          "artist": "陆景钧",
+          "name": "遗憾是 (Live)",
+          "artist": "黄子弘凡",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "明年依然好时节",
-          "artist": "许飞",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "新生活",
           "artist": "王齐铭WatchMe/LSGCsikoriot",
           "trend": "flat"
         },
         {
+          "rank": 2,
+          "name": "后会友期 (综艺《后会友期》片尾曲)",
+          "artist": "许飞",
+          "trend": "flat"
+        },
+        {
           "rank": 3,
-          "name": "墙里的烟火人间",
-          "artist": "强东玥",
+          "name": "Violet",
+          "artist": "郑润泽",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "给我一个理由忘记",
-          "artist": "黄丽玲",
+          "name": "明年依然好时节",
+          "artist": "许飞",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "好坏",
-          "artist": "Zkaaai/哈利白特",
+          "name": "时过境迁",
+          "artist": "苏艺馨Chency",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "​雁南飞​",
-          "artist": "王齐铭WatchMe/热单间HEATROOM",
+          "name": "茉茉",
+          "artist": "Nzwin 黄跃成",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "遗憾总是贯穿人生始终",
-          "artist": "供销社乐队/边缘",
+          "name": "Eternal Longing (纯音乐)",
+          "artist": "徐浩展",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "연애의 조건 (Love Options)",
-          "artist": "BESTie",
+          "name": "山海不说话（我路过山 山不说话）",
+          "artist": "陳鴨梨Charlie",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "LOVE",
-          "artist": "周诗雨",
+          "name": "Call You Tonight Beat",
+          "artist": "VOLT/Distress",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "过渡期（吉他版）",
-          "artist": "小宇-宋念宇",
+          "name": "旧衣柜",
+          "artist": "李斯丹妮",
           "trend": "flat"
         }
       ]
@@ -385,20 +385,20 @@
         },
         {
           "rank": 7,
+          "name": "Cherry Candy",
+          "artist": "Lunak",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
           "name": "撒哈拉的暴雨",
           "artist": "连麻Swimming",
           "trend": "flat"
         },
         {
-          "rank": 8,
-          "name": "自由的你",
-          "artist": "G.E.M.邓紫棋",
-          "trend": "flat"
-        },
-        {
           "rank": 9,
-          "name": "Cherry Candy",
-          "artist": "Lunak",
+          "name": "后会友期 (综艺《后会友期》片尾曲)",
+          "artist": "许飞",
           "trend": "flat"
         },
         {
@@ -423,20 +423,20 @@
         },
         {
           "rank": 2,
-          "name": "海屿你",
-          "artist": "马也_Crabbit",
+          "name": "我不难过",
+          "artist": "孙燕姿",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "罗生门（Follow）",
-          "artist": "梨冻紧/Wiz_H张子豪",
+          "name": "明知故犯",
+          "artist": "Max李玄",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "我不难过",
-          "artist": "孙燕姿",
+          "name": "海屿你",
+          "artist": "马也_Crabbit",
           "trend": "flat"
         },
         {
@@ -447,8 +447,8 @@
         },
         {
           "rank": 6,
-          "name": "时过境迁",
-          "artist": "苏艺馨Chency",
+          "name": "于是",
+          "artist": "郑润泽",
           "trend": "flat"
         },
         {
@@ -459,8 +459,8 @@
         },
         {
           "rank": 8,
-          "name": "互删 (我走以后)",
-          "artist": "江辰",
+          "name": "茉茉",
+          "artist": "Nzwin 黄跃成",
           "trend": "flat"
         },
         {
@@ -471,8 +471,8 @@
         },
         {
           "rank": 10,
-          "name": "无 意",
-          "artist": "加木/Demxntia",
+          "name": "明年依然好时节",
+          "artist": "许飞",
           "trend": "flat"
         }
       ]
@@ -485,61 +485,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "来日方长 - 爱情是伤感的 (女声版)",
+          "name": "汽修二班 誓言 - Pa Pa Pa (云南打跳)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "魏佳艺 - 天南地北何处是我家",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "林小玥 - 去喜欢那个很忙却对你有空的人",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "方了个木 - 慢倍速",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "村口吴老二 - 慌啥子嘛",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "方了个木 - 慢倍速",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "机灵妹、猫与苔 - 人生总是后知后觉 (忧郁氛围)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "LBI利比（时柏尘） - 淋一场雨",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
-          "name": "河南三妹5233 - 放下 (看淡)",
+          "name": "泽国同学 - 笑看今朝",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "Taile不喝气泡水 - 刻在神庙的爱 (氛围版)",
+          "name": "周深 - 怜悯 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "林汝琴 - 用心爱你却留不住你 (深情版)",
+          "name": "刘书云、赵赵呀 - 拼了命也没留住你",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "陶玄清 - 万般苦 人生路",
+          "name": "何欢浪 - 如果累了就回故乡",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "苍狼 - 雪花飘过又想起你",
+          "name": "红孩儿、励志豪 - 山风山风等等我 (国粤对唱版)",
           "artist": "",
           "trend": "flat"
         }
@@ -553,61 +553,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "The Weeknd - Hong Kong (feat. 王菲季候风)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "苏艺馨Chency - 时过境迁",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 3,
-          "name": "迟嘉良 - 说好再见却再也不见 (催泪版)",
+          "rank": 2,
+          "name": "The Weeknd - Hong Kong (feat. 王菲季候风)",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "许嵩 - 天龙八部之宿敌",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 4,
+          "name": "迟嘉良 - 说好再见却再也不见 (催泪版)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 5,
-          "name": "薛之谦 - 我好像在哪见过你",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "可楼 - 隔岸 (女版)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
           "name": "孙燕姿 - 我不难过",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 6,
+          "name": "薛之谦 - 我好像在哪见过你",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "可楼 - 隔岸 (女版)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 8,
-          "name": "指尖笑 - 新·与天齐",
+          "name": "张玮 - 风吹过",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "嘉慧 - 无奈的思绪",
+          "name": "方了个木 - 慢倍速",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "张玮 - 风吹过",
+          "name": "嘉慧 - 无奈的思绪",
           "artist": "",
           "trend": "flat"
         }
@@ -689,37 +689,37 @@
       "songs": [
         {
           "rank": 1,
-          "name": "大川Dietry - 猪八戒型人格",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "残雪 - 相思难放下",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 2,
+          "name": "大川Dietry - 猪八戒型人格",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 3,
-          "name": "暴躁默 - 失约秋序",
+          "name": "暴躁默 - 怎样才能回到从前",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "残雪 - 时间骗我太多年",
+          "name": "暴躁默 - 失约秋序",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "艾婧-张璃音 - 我这一生只爱你一次",
+          "name": "残雪 - 时间骗我太多年",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "都市苍狼 - 甜蜜的单相思",
+          "name": "艾婧-张璃音 - 我这一生只爱你一次",
           "artist": "",
           "trend": "flat"
         },
@@ -731,19 +731,19 @@
         },
         {
           "rank": 8,
-          "name": "UM、时光流逝 - 情绪碎片",
+          "name": "鱼先声 - 风的重量",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "三斤 - 爱到尽头终是悲 (DJ京仔版)",
+          "name": "琪琪格 - 草原情醉",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "Ameriie - Unchanged Mind (一级听感)",
+          "name": "潘姑娘 - 浪人情歌",
           "artist": "",
           "trend": "flat"
         }
@@ -775,25 +775,6 @@
       "count": 4
     },
     {
-      "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
-      "artist": "BESTie (베스티)",
-      "tags": [
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#8",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 3
-    },
-    {
       "name": "天龙八部之宿敌",
       "artist": "许嵩",
       "tags": [
@@ -813,45 +794,98 @@
       "count": 3
     },
     {
-      "name": "请不要一时兴起",
-      "artist": "陆景钧",
+      "name": "恋人",
+      "artist": "李荣浩",
       "tags": [
-        {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
         {
           "label": "QQ音樂#10",
           "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#8",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#9",
+          "c": "tag-green"
         }
       ],
-      "count": 2
+      "count": 3
     },
     {
-      "name": "自由的你",
-      "artist": "G.E.M.邓紫棋",
+      "name": "茉茉",
+      "artist": "Nzwin 黄跃成",
       "tags": [
         {
-          "label": "QQ音樂#7",
-          "c": "tag-blue"
+          "label": "網易雲#6",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#3",
+          "c": "tag-green"
         },
         {
           "label": "網易雲#8",
           "c": "tag-green"
         }
       ],
+      "count": 3
+    },
+    {
+      "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
+      "artist": "BESTie (베스티)",
+      "tags": [
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        }
+      ],
       "count": 2
     },
     {
-      "name": "自诩周全 (Live)",
-      "artist": "刘宇宁",
+      "name": "怜悯 (Live)",
+      "artist": "周深",
+      "tags": [
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#5",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "慢倍速",
+      "artist": "方了个木",
+      "tags": [
+        {
+          "label": "QQ音樂#6",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "平庸 (Live)",
+      "artist": "薛之谦",
       "tags": [
         {
           "label": "QQ音樂#8",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         }
       ],
@@ -862,11 +896,11 @@
       "artist": "孙燕姿",
       "tags": [
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#4",
+          "label": "網易雲#2",
           "c": "tag-green"
         }
       ],
@@ -878,36 +912,6 @@
       "tags": [
         {
           "label": "QQ音樂#5",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "甲乙丙丁 (你我怎么两清)",
-      "artist": "李佳薇",
-      "tags": [
-        {
-          "label": "QQ音樂#7",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#7",
-          "c": "tag-green"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "慢倍速",
-      "artist": "方了个木",
-      "tags": [
-        {
-          "label": "QQ音樂#8",
           "c": "tag-blue"
         },
         {
