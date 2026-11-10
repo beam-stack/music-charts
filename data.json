@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09 04:53",
+  "updated": "2026-11-10 08:29",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -9,62 +9,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "Hong Kong (feat. 王菲季候风)",
-          "artist": "The Weeknd",
+          "name": "管他的公路尽头",
+          "artist": "王源",
           "trend": "flat"
         },
         {
           "rank": 2,
+          "name": "忘不了就别忘了",
+          "artist": "水木年华/许飞",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "奇迹",
+          "artist": "贺峻霖",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
           "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
           "artist": "BESTie (베스티)",
           "trend": "flat"
         },
         {
-          "rank": 3,
+          "rank": 5,
           "name": "爱而不得 (Live)",
           "artist": "薛之谦/黄子弘凡",
           "trend": "flat"
         },
         {
-          "rank": 4,
+          "rank": 6,
           "name": "云是天空写的信 (Live)",
           "artist": "周深",
           "trend": "flat"
         },
         {
-          "rank": 5,
-          "name": "万般苦 人生路",
-          "artist": "陶玄清",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
+          "rank": 7,
           "name": "想你就写信",
           "artist": "郝熠然",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Wish You Well",
           "artist": "张智成",
           "trend": "flat"
         },
         {
-          "rank": 8,
-          "name": "嘴硬",
-          "artist": "鹭卓",
-          "trend": "flat"
-        },
-        {
           "rank": 9,
-          "name": "慢倍速",
-          "artist": "方了个木",
+          "name": "万般苦 人生路",
+          "artist": "陶玄清",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "心湖",
-          "artist": "张靓颖",
+          "name": "慢倍速",
+          "artist": "方了个木",
           "trend": "flat"
         }
       ]
@@ -77,32 +77,32 @@
       "songs": [
         {
           "rank": 1,
+          "name": "管他的公路尽头",
+          "artist": "王源",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
           "name": "天龙八部之宿敌",
           "artist": "许嵩",
           "trend": "flat"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "我不难过",
           "artist": "孙燕姿",
           "trend": "flat"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
           "artist": "BESTie (베스티)",
           "trend": "flat"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "我好像在哪见过你",
           "artist": "薛之谦",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "Hong Kong (feat. 王菲季候风)",
-          "artist": "The Weeknd",
           "trend": "flat"
         },
         {
@@ -113,14 +113,14 @@
         },
         {
           "rank": 7,
-          "name": "想你就写信",
-          "artist": "郝熠然",
+          "name": "雨爱",
+          "artist": "杨丞琳",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "雨爱",
-          "artist": "杨丞琳",
+          "name": "Hong Kong (feat. 王菲季候风)",
+          "artist": "The Weeknd",
           "trend": "flat"
         },
         {
@@ -131,8 +131,8 @@
         },
         {
           "rank": 10,
-          "name": "爱而不得 (Live)",
-          "artist": "薛之谦/黄子弘凡",
+          "name": "发如雪",
+          "artist": "周杰伦",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "想你就写信",
-          "artist": "郝熠然",
+          "name": "奇迹",
+          "artist": "贺峻霖",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "爱而不得 (Live)",
-          "artist": "薛之谦/黄子弘凡",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
           "name": "忘不了就别忘了",
           "artist": "水木年华/许飞",
           "trend": "flat"
         },
         {
-          "rank": 4,
-          "name": "云是天空写的信 (Live)",
-          "artist": "周深",
+          "rank": 3,
+          "name": "管他的公路尽头",
+          "artist": "王源",
           "trend": "flat"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "烂奇迹 (不小心惹了上帝)",
           "artist": "杨羊烊",
           "trend": "flat"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "燃 (Live)",
           "artist": "容祖儿",
           "trend": "flat"
         },
         {
+          "rank": 6,
+          "name": "燃 (Live)",
+          "artist": "颜人中",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
-          "name": "春日序曲",
-          "artist": "刘宇",
+          "name": "첫 눈 (初雪)",
+          "artist": "EXO (엑소)",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "无梦镇",
-          "artist": "魏晨",
+          "name": "我不知道 (Live)",
+          "artist": "梁博",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "无明宙 (Live)",
-          "artist": "刘宇宁",
+          "name": "今夜让我带你高飞远走",
+          "artist": "五月天 阿信/言承旭/吴建豪/周渝民",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "哺乳动物 (Live)",
-          "artist": "张弛/蒋龙",
+          "name": "只要有你",
+          "artist": "孙楠/那英",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
+          "name": "好坏",
+          "artist": "Zkaaai/哈利白特",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
           "name": "烂奇迹(不小心惹了上帝)",
           "artist": "杨羊烊",
           "trend": "flat"
         },
         {
-          "rank": 2,
-          "name": "特效药",
-          "artist": "江辰",
-          "trend": "flat"
-        },
-        {
           "rank": 3,
-          "name": "爱而不得 (Live)",
-          "artist": "薛之谦/黄子弘凡",
+          "name": "不懂事",
+          "artist": "吴炳文",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "降温",
-          "artist": "Zzh",
+          "name": "燃 (Live)",
+          "artist": "容祖儿",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "无梦镇",
-          "artist": "魏晨",
+          "name": "遗憾总是贯穿人生始终",
+          "artist": "供销社乐队/边缘",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "学功夫练武术",
-          "artist": "概念黁",
+          "name": "你的不经意",
+          "artist": "Fozik佛子克",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "Violet",
-          "artist": "郑润泽",
+          "name": "无 意",
+          "artist": "加木/Demxntia",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "云是天空写的信 (Live)",
-          "artist": "周深",
+          "name": "DEPENDS",
+          "artist": "XG",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "智商税",
-          "artist": "PearBae小梨/Capper",
+          "name": "我怀疑大禹治水（治没了我的薪水）",
+          "artist": "王三一",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "燃 (Live)",
-          "artist": "容祖儿",
+          "name": "慌啥子嘛",
+          "artist": "村口吴老二",
           "trend": "flat"
         }
       ]
@@ -367,14 +367,14 @@
         },
         {
           "rank": 4,
-          "name": "Enjoy the trip",
-          "artist": "谢帝/艾志恒Asen",
+          "name": "烂奇迹(不小心惹了上帝)",
+          "artist": "杨羊烊",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "烂奇迹(不小心惹了上帝)",
-          "artist": "杨羊烊",
+          "name": "Enjoy the trip",
+          "artist": "谢帝/艾志恒Asen",
           "trend": "flat"
         },
         {
@@ -385,14 +385,14 @@
         },
         {
           "rank": 7,
-          "name": "一张相片",
-          "artist": "连麻Swimming",
+          "name": "爱而不得 (Live)",
+          "artist": "薛之谦/黄子弘凡",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "隔岸(女版)",
-          "artist": "可楼",
+          "name": "一张相片",
+          "artist": "连麻Swimming",
           "trend": "flat"
         },
         {
@@ -403,8 +403,8 @@
         },
         {
           "rank": 10,
-          "name": "爱而不得 (Live)",
-          "artist": "薛之谦/黄子弘凡",
+          "name": "降温",
+          "artist": "Zzh",
           "trend": "flat"
         }
       ]
@@ -423,32 +423,32 @@
         },
         {
           "rank": 2,
-          "name": "海屿你",
-          "artist": "马也_Crabbit",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "如果呢",
-          "artist": "郑润泽",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "天龙八部之宿敌",
-          "artist": "许嵩",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "我不难过",
           "artist": "孙燕姿",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "忘不掉的你",
+          "artist": "h3R3",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "海屿你",
+          "artist": "马也_Crabbit",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "天龙八部之宿敌",
+          "artist": "许嵩",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
-          "name": "还是会想你",
-          "artist": "林达浪/h3R3",
+          "name": "红",
+          "artist": "罗言",
           "trend": "flat"
         },
         {
@@ -465,8 +465,8 @@
         },
         {
           "rank": 9,
-          "name": "明知故犯",
-          "artist": "Max李玄",
+          "name": "茉茉",
+          "artist": "Nzwin 黄跃成",
           "trend": "flat"
         },
         {
@@ -485,61 +485,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "周深 - 云是天空写的信 (Live)",
+          "name": "季知炀 - 烂奇迹 (原声男版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "刘宇宁 - 无明宙 (Live)",
+          "name": "周深 - 云是天空写的信 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "薛之谦、黄子弘凡 - 爱而不得 (Live)",
+          "name": "大潞 - 如果累了就回故乡",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "杨羊烊 - 烂奇迹 (不小心惹了上帝)",
+          "name": "刘宇宁 - 无明宙 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "小作坊下料就是猛 - 我怀疑大禹治水 (治没了我的薪水)(无奈版)",
+          "name": "素音 - 说爱我是把我当做谁",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "8.YYKF - Gentle Years Journey (氛围版)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "尹昔眠、周小楠、灼夭、知何、晏川、北祎迦、小白鸽 - 给明天的...",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "白小白 - 星空的秘密",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "刘宇 - 春日序曲",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 7,
+          "name": "王源 - 管他的公路尽头",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "欢慈 - 飞天 (深情版)(烟嗓版)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "何浩楠 - 20001106",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "高胜美 - 滚滚红尘",
+          "name": "L艾拉 - jauh ko pergi",
           "artist": "",
           "trend": "flat"
         }
@@ -577,13 +577,13 @@
         },
         {
           "rank": 5,
-          "name": "薛之谦 - 我好像在哪见过你",
+          "name": "可楼 - 隔岸 (女版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "The Weeknd - Hong Kong (feat. 王菲季候风)",
+          "name": "薛之谦 - 我好像在哪见过你",
           "artist": "",
           "trend": "flat"
         },
@@ -595,19 +595,19 @@
         },
         {
           "rank": 8,
-          "name": "可楼 - 隔岸 (女版)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "迟嘉良 - 说好再见却再也不见 (催泪版)",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "指尖笑 - 新·与天齐",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "The Weeknd - Hong Kong (feat. 王菲季候风)",
           "artist": "",
           "trend": "flat"
         }
@@ -633,19 +633,19 @@
         },
         {
           "rank": 3,
-          "name": "郁可唯 - 茶汤",
+          "name": "村口吴老二 - 慌啥子嘛",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "供销社乐队 - 我听见了，你的痛苦成立",
+          "name": "派伟俊、mac ova seas - 左转灯 (1000 Times +1)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "伯爵Johnny、唐伯虎Annie - 西厢寻他",
+          "name": "供销社乐队 - 我听见了，你的痛苦成立",
           "artist": "",
           "trend": "flat"
         },
@@ -657,25 +657,25 @@
         },
         {
           "rank": 7,
-          "name": "TINY7 - 零距离的思念",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "陈默之 - 冷夜",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 8,
+          "name": "TINY7 - 零距离的思念",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 9,
-          "name": "派伟俊、mac ova seas - 左转灯 (1000 Times +1)",
+          "name": "徐明浩、GALI - Star Crossing Night (feat. GALI)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "徐明浩、GALI - Star Crossing Night (feat. GALI)",
+          "name": "徐凤华 - 怎么看你一眼就心动 (深情版)",
           "artist": "",
           "trend": "flat"
         }
@@ -689,61 +689,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "大川Dietry - 猪八戒型人格",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "残雪 - 相思难放下",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 3,
-          "name": "洛琦 - 回头是故乡",
+          "rank": 2,
+          "name": "大川Dietry - 猪八戒型人格",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "暴躁默 - 怎样才能回到从前",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "暴躁默 - 失约秋序",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 5,
+          "name": "残雪 - 时间骗我太多年",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
-          "name": "小屹ovo、伶月舟 - 鼻屎 牛粪 狗屎 (哟吼吼)",
+          "name": "西域胡杨 - 爱是胡杨三千年",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "DJ坤坤 - Sakura Tears (钢琴版)",
+          "name": "UM、时光流逝 - 情绪碎片",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "Diary - lucky (3D环绕)",
+          "name": "Jordam - 作为主角跌宕是必然的",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "DJ大遥 - TRUE LOVE (真挚的爱)(是风动 是懵懂 是心动 是否懂 是...",
+          "name": "Andree Son、DJariium、DJ林小夜 - 思绪拉回去年冬天 转眼马上又...",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "鱼先声 - 风的重量",
+          "name": "赵赵violin - 既定别离",
           "artist": "",
           "trend": "flat"
         }
@@ -752,88 +752,19 @@
   ],
   "cross": [
     {
-      "name": "爱而不得 (Live)",
-      "artist": "薛之谦/黄子弘凡",
+      "name": "管他的公路尽头",
+      "artist": "王源",
       "tags": [
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        },
         {
           "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#3",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#10",
-          "c": "tag-green"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "Hong Kong (feat. 王菲季候风)",
-      "artist": "The Weeknd",
-      "tags": [
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#5",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#1",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#1",
-          "c": "tag-green"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "云是天空写的信 (Live)",
-      "artist": "周深",
-      "tags": [
-        {
-          "label": "QQ音樂#4",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#4",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#8",
-          "c": "tag-green"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "想你就写信",
-      "artist": "郝熠然",
-      "tags": [
-        {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#7",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#1",
           "c": "tag-blue"
         }
       ],
@@ -844,11 +775,49 @@
       "artist": "许嵩",
       "tags": [
         {
-          "label": "QQ音樂#1",
+          "label": "QQ音樂#2",
           "c": "tag-blue"
         },
         {
           "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#5",
+          "c": "tag-green"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "Hong Kong (feat. 王菲季候风)",
+      "artist": "The Weeknd",
+      "tags": [
+        {
+          "label": "QQ音樂#8",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#1",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#1",
+          "c": "tag-green"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "燃 (Live)",
+      "artist": "容祖儿",
+      "tags": [
+        {
+          "label": "QQ音樂#5",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#6",
           "c": "tag-blue"
         },
         {
@@ -859,41 +828,26 @@
       "count": 3
     },
     {
-      "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
-      "artist": "BESTie (베스티)",
+      "name": "忘不了就别忘了",
+      "artist": "水木年华/许飞",
       "tags": [
         {
           "label": "QQ音樂#2",
           "c": "tag-blue"
         },
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "奇迹",
+      "artist": "贺峻霖",
+      "tags": [
         {
           "label": "QQ音樂#3",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "我不难过",
-      "artist": "孙燕姿",
-      "tags": [
-        {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#5",
-          "c": "tag-green"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "我好像在哪见过你",
-      "artist": "薛之谦",
-      "tags": [
-        {
-          "label": "QQ音樂#4",
           "c": "tag-blue"
         },
         {
@@ -904,31 +858,61 @@
       "count": 2
     },
     {
-      "name": "我怀念的",
-      "artist": "孙燕姿",
+      "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
+      "artist": "BESTie (베스티)",
       "tags": [
         {
-          "label": "QQ音樂#9",
+          "label": "QQ音樂#4",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#10",
+          "label": "QQ音樂#4",
           "c": "tag-blue"
         }
       ],
       "count": 2
     },
     {
-      "name": "恋人",
-      "artist": "李荣浩",
+      "name": "爱而不得 (Live)",
+      "artist": "薛之谦/黄子弘凡",
       "tags": [
         {
-          "label": "QQ音樂#8",
+          "label": "QQ音樂#5",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#10",
+          "label": "網易雲#7",
           "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "我不难过",
+      "artist": "孙燕姿",
+      "tags": [
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#2",
+          "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "我好像在哪见过你",
+      "artist": "薛之谦",
+      "tags": [
+        {
+          "label": "QQ音樂#5",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
         }
       ],
       "count": 2
