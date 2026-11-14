@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14 06:17",
+  "updated": "2026-11-15 05:00",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -15,20 +15,20 @@
         },
         {
           "rank": 2,
-          "name": "Reno My Color",
-          "artist": "宋雨琦 (YUQI) (우기)",
+          "name": "情话Butterflies",
+          "artist": "荣涉",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "燃 (Live)",
-          "artist": "容祖儿",
+          "name": "老子我偏要挺直脊梁",
+          "artist": "石敢当",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "管他的公路尽头",
-          "artist": "王源",
+          "name": "渝人码头",
+          "artist": "梓渝",
           "trend": "flat"
         },
         {
@@ -39,32 +39,32 @@
         },
         {
           "rank": 6,
+          "name": "燃 (Live)",
+          "artist": "容祖儿",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "管他的公路尽头",
+          "artist": "王源",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
           "name": "人生一晃又一秋 (难解宿命版)",
           "artist": "雪山阿木/自游诗",
           "trend": "flat"
         },
         {
-          "rank": 7,
-          "name": "渝人码头",
-          "artist": "梓渝",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "Dancing in the Dark",
-          "artist": "A2O SOUL/A2O",
-          "trend": "flat"
-        },
-        {
           "rank": 9,
-          "name": "爱而不得 (Live)",
-          "artist": "薛之谦/黄子弘凡",
+          "name": "卦卦皆无你和我 (我算姻缘 问因果)",
+          "artist": "陶云疏",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "情话Butterflies",
-          "artist": "荣涉",
+          "name": "Dancing in the Dark",
+          "artist": "A2O SOUL/A2O",
           "trend": "flat"
         }
       ]
@@ -77,62 +77,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "无中生有 Ex Nihilo",
-          "artist": "HOYO-MiX/當山みれい (当山真玲)",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "我不难过",
           "artist": "孙燕姿",
           "trend": "flat"
         },
         {
-          "rank": 3,
+          "rank": 2,
           "name": "天龙八部之宿敌",
           "artist": "许嵩",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "无中生有 Ex Nihilo",
+          "artist": "HOYO-MiX/當山みれい (当山真玲)",
+          "trend": "flat"
+        },
+        {
           "rank": 4,
+          "name": "慌啥子嘛 (赵本山版)",
+          "artist": "赵本山",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
           "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
           "artist": "BESTie (베스티)",
           "trend": "flat"
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "我好像在哪见过你",
           "artist": "薛之谦",
           "trend": "flat"
         },
         {
-          "rank": 6,
+          "rank": 7,
+          "name": "Hong Kong (feat. 王菲季候风)",
+          "artist": "The Weeknd",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
           "name": "甲乙丙丁 (你我怎么两清)",
           "artist": "李佳薇",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 9,
           "name": "发如雪",
           "artist": "周杰伦",
           "trend": "flat"
         },
         {
-          "rank": 8,
+          "rank": 10,
           "name": "我怀念的",
           "artist": "孙燕姿",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "雨爱",
-          "artist": "杨丞琳",
-          "trend": "flat"
-        },
-        {
-          "rank": 10,
-          "name": "Hong Kong (feat. 王菲季候风)",
-          "artist": "The Weeknd",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "无中生有 Ex Nihilo",
-          "artist": "HOYO-MiX/當山みれい (当山真玲)",
+          "name": "难寄相思",
+          "artist": "刘君",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "去远方",
-          "artist": "滄浪天蝎",
+          "name": "慌啥子嘛 (赵本山版)",
+          "artist": "赵本山",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "你来自哪颗星",
-          "artist": "陈柏宇",
+          "name": "Letting Go (我来，因为你在 演唱会 Live Version)",
+          "artist": "那英/蔡健雅",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "想你就写信",
-          "artist": "郝熠然",
+          "name": "桃花坞",
+          "artist": "刘宇",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "小跳蛙",
-          "artist": "青蛙乐队",
+          "name": "Hong Kong (feat. 王菲季候风)",
+          "artist": "The Weeknd",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "窗外的泪光 (窗外照着我的月亮)",
-          "artist": "浅浅微醺",
+          "name": "归期雨抄 (Live)",
+          "artist": "刘宇宁",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "TAKE ME",
-          "artist": "G-DRAGON (权志龙)",
+          "name": "女鞋 (Live)",
+          "artist": "黄子弘凡",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "Why & Be wild (何谓肆意)",
-          "artist": "杨冰怡",
+          "name": "失语症 (Live)",
+          "artist": "周深",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "情歌",
-          "artist": "梁静茹",
+          "name": "慌啥子嘛",
+          "artist": "村口吴老二",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "5th（今天是太阳雨）",
-          "artist": "MAX VP",
+          "name": "天龙八部之宿敌",
+          "artist": "许嵩",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "时过境迁",
-          "artist": "苏艺馨Chency",
+          "name": "Letting Go",
+          "artist": "那英/蔡健雅",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "​雁南飞​",
-          "artist": "王齐铭WatchMe/热单间HEATROOM",
+          "name": "fast & furious",
+          "artist": "THOME",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "谎言（Luv like zombie）",
-          "artist": "DiorGoFlex/斑比Bambii",
+          "name": "Sayless&闹",
+          "artist": "黄格雷/THOME/YasIsMine/azazel",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "二加一",
-          "artist": "小奥奥",
+          "name": "NEON",
+          "artist": "A2O LITE/A2O",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "【FREE】“Follow Your Flow” Smooth Boombap Type Beat",
-          "artist": "洄",
+          "name": "全息恋人",
+          "artist": "栾一鸣Floscar",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "不懂事",
-          "artist": "吴炳文",
+          "name": "MR.SAYLESS",
+          "artist": "THOME/黄格雷",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "Reno My Color",
-          "artist": "宋雨琦",
+          "name": "望乡楼",
+          "artist": "刘槟畅/道雀Bzz",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "小跳蛙",
-          "artist": "青蛙乐队",
+          "name": "high fashion girl",
+          "artist": "THOME/贾真Jahgen",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "Missing My Lover",
-          "artist": "Vex/SHaDow（影）/MerrinZephyr",
+          "name": "BADDDHABIT",
+          "artist": "THOME/迪诺哥/贾真Jahgen",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "你来自哪颗星",
-          "artist": "陈柏宇",
+          "name": "BASS ROCK YOUR BODY!",
+          "artist": "THOME/Billionhappy",
           "trend": "flat"
         }
       ]
@@ -361,32 +361,32 @@
         },
         {
           "rank": 3,
-          "name": "无 意",
-          "artist": "加木/Demxntia",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
           "name": "Enjoy the trip",
           "artist": "谢帝/艾志恒Asen",
           "trend": "flat"
         },
         {
-          "rank": 5,
-          "name": "烂奇迹(不小心惹了上帝)",
-          "artist": "杨羊烊",
+          "rank": 4,
+          "name": "无 意",
+          "artist": "加木/Demxntia",
           "trend": "flat"
         },
         {
-          "rank": 6,
+          "rank": 5,
           "name": "你的不经意",
           "artist": "Fozik佛子克",
           "trend": "flat"
         },
         {
+          "rank": 6,
+          "name": "烂奇迹(不小心惹了上帝)",
+          "artist": "杨羊烊",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
-          "name": "燃 (Live)",
-          "artist": "容祖儿",
+          "name": "慌啥子嘛",
+          "artist": "村口吴老二",
           "trend": "flat"
         },
         {
@@ -397,14 +397,14 @@
         },
         {
           "rank": 9,
-          "name": "DEPENDS",
-          "artist": "XG",
+          "name": "燃 (Live)",
+          "artist": "容祖儿",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "一张相片",
-          "artist": "连麻Swimming",
+          "name": "宝船",
+          "artist": "DOUDOU/燕云十六声",
           "trend": "flat"
         }
       ]
@@ -417,62 +417,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "时过境迁",
-          "artist": "苏艺馨Chency",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "海屿你",
-          "artist": "马也_Crabbit",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "罗生门（Follow）",
-          "artist": "梨冻紧/Wiz_H张子豪",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "我不难过",
-          "artist": "孙燕姿",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "Hong Kong (feat. 王菲季候风)",
           "artist": "The Weeknd",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "于是",
-          "artist": "郑润泽",
+          "rank": 2,
+          "name": "我不难过",
+          "artist": "孙燕姿",
           "trend": "flat"
         },
         {
-          "rank": 7,
-          "name": "99",
-          "artist": "TizzyT",
+          "rank": 3,
+          "name": "海屿你",
+          "artist": "马也_Crabbit",
           "trend": "flat"
         },
         {
-          "rank": 8,
+          "rank": 4,
           "name": "天龙八部之宿敌",
           "artist": "许嵩",
           "trend": "flat"
         },
         {
-          "rank": 9,
+          "rank": 5,
+          "name": "99",
+          "artist": "TizzyT",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "时过境迁",
+          "artist": "苏艺馨Chency",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "Enjoy the trip",
+          "artist": "谢帝/艾志恒Asen",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
           "name": "茉茉",
           "artist": "Nzwin 黄跃成",
           "trend": "flat"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "甲乙丙丁 (你我怎么两清)",
           "artist": "李佳薇",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "恋人",
+          "artist": "李荣浩",
           "trend": "flat"
         }
       ]
@@ -485,61 +485,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "HOYO-MiX、當山みれい - 无中生有 Ex Nihilo",
+          "name": "小恐龙 - Light the night (点亮夜晚)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "王欣心 - 爱情太美又太伤",
+          "name": "刘德华 - 我年轻过",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "浅浅微醺 - 窗外的泪光 (窗外照着我的月亮)",
+          "name": "赵本山 - 慌啥子嘛",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "霍尊 - 不死鸟",
+          "name": "钟镇涛 - 让一切随风",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "黑大姐 - 情人不甘恋人不愿",
+          "name": "王菲 - 季候风 / 有一天我会 (Live From 王菲最精彩的演唱会 / ...",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "孙兰妮 - 一场相逢一场梦",
+          "name": "王菲 - 季候风",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "文夫 - 久爱成疾",
+          "name": "The Weeknd - Hong Kong (feat. 王菲季候风)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "肖雨蒙 - 来生依然等着你",
+          "name": "蔡国权 - 无心快语",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "老韩很哇塞 - 心疼我一回 (哥这辈子就爱你)",
+          "name": "陈慧娴 - 千千阕歌",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "荣涉 - 情话Butterflies",
+          "name": "浅浅微醺 - 窗外的泪光 (窗外照着我的月亮)",
           "artist": "",
           "trend": "flat"
         }
@@ -559,43 +559,43 @@
         },
         {
           "rank": 2,
-          "name": "杨羊烊 - 烂奇迹 (不小心惹了上帝)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "苏艺馨Chency - 时过境迁",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
           "name": "HOYO-MiX、當山みれい - 无中生有 Ex Nihilo",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "赵本山 - 慌啥子嘛",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "杨羊烊 - 烂奇迹 (不小心惹了上帝)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 5,
-          "name": "许嵩 - 天龙八部之宿敌",
+          "name": "苏艺馨Chency - 时过境迁",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "孙燕姿 - 我不难过",
+          "name": "许嵩 - 天龙八部之宿敌",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "可楼 - 隔岸 (女版)",
+          "name": "孙燕姿 - 我不难过",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "迟嘉良 - 说好再见却再也不见 (催泪版)",
+          "name": "蓝鲸 - 为证共此生",
           "artist": "",
           "trend": "flat"
         },
@@ -607,7 +607,7 @@
         },
         {
           "rank": 10,
-          "name": "张玮 - 风吹过",
+          "name": "The Weeknd - Hong Kong (feat. 王菲季候风)",
           "artist": "",
           "trend": "flat"
         }
@@ -701,13 +701,13 @@
         },
         {
           "rank": 3,
-          "name": "栾明星 - 天上的月亮",
+          "name": "朱达海 - 爱你的代价",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "朱达海 - 爱你的代价",
+          "name": "冯海龙 - 山沟沟好",
           "artist": "",
           "trend": "flat"
         },
@@ -719,31 +719,31 @@
         },
         {
           "rank": 6,
-          "name": "财阀大小姐 - 牵丝戏 (纯音乐旋律)",
+          "name": "巴啦啦DJ澜 - 清伞摇2.0",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "朱韵 - 星河散尽",
+          "name": "TheBlvcks、Sher Hugz、MXEEN、KiR0X - Ya No Estás",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "Andree Son、DJariium、DJ林小夜 - 思绪拉回去年冬天 转眼马上又...",
+          "name": "落笔写风雨 - 给迪米呀给V弥-小花苗民歌",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "活着目的是什么 - 撞见前男友",
+          "name": "mayauzz - 让我看看怎么个事",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "mayauzz - 让我看看怎么个事",
+          "name": "小洛ya - tu siab heev li no",
           "artist": "",
           "trend": "flat"
         }
@@ -751,6 +751,52 @@
     }
   ],
   "cross": [
+    {
+      "name": "天龙八部之宿敌",
+      "artist": "许嵩",
+      "tags": [
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#4",
+          "c": "tag-green"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "Hong Kong (feat. 王菲季候风)",
+      "artist": "The Weeknd",
+      "tags": [
+        {
+          "label": "QQ音樂#7",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#5",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#1",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#1",
+          "c": "tag-green"
+        }
+      ],
+      "count": 4
+    },
     {
       "name": "无中生有 Ex Nihilo",
       "artist": "HOYO-MiX/當山みれい (当山真玲)",
@@ -760,80 +806,8 @@
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "天龙八部之宿敌",
-      "artist": "许嵩",
-      "tags": [
-        {
           "label": "QQ音樂#3",
           "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#8",
-          "c": "tag-green"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "Hong Kong (feat. 王菲季候风)",
-      "artist": "The Weeknd",
-      "tags": [
-        {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#1",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#5",
-          "c": "tag-green"
-        }
-      ],
-      "count": 3
-    },
-    {
-      "name": "想你就写信",
-      "artist": "郝熠然",
-      "tags": [
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#4",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "Reno My Color",
-      "artist": "宋雨琦 (YUQI) (우기)",
-      "tags": [
-        {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#7",
-          "c": "tag-green"
         }
       ],
       "count": 2
@@ -843,11 +817,11 @@
       "artist": "容祖儿",
       "tags": [
         {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#6",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#7",
+          "label": "網易雲#9",
           "c": "tag-green"
         }
       ],
@@ -858,12 +832,27 @@
       "artist": "孙燕姿",
       "tags": [
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#1",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#4",
+          "label": "網易雲#2",
           "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "慌啥子嘛 (赵本山版)",
+      "artist": "赵本山",
+      "tags": [
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
         }
       ],
       "count": 2
@@ -873,11 +862,11 @@
       "artist": "李佳薇",
       "tags": [
         {
-          "label": "QQ音樂#6",
+          "label": "QQ音樂#8",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#10",
+          "label": "網易雲#9",
           "c": "tag-green"
         }
       ],
@@ -888,7 +877,7 @@
       "artist": "周杰伦",
       "tags": [
         {
-          "label": "QQ音樂#7",
+          "label": "QQ音樂#9",
           "c": "tag-blue"
         },
         {
@@ -903,12 +892,27 @@
       "artist": "孙燕姿",
       "tags": [
         {
-          "label": "QQ音樂#8",
+          "label": "QQ音樂#10",
           "c": "tag-blue"
         },
         {
           "label": "QQ音樂#8",
           "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "恋人",
+      "artist": "李荣浩",
+      "tags": [
+        {
+          "label": "QQ音樂#6",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#10",
+          "c": "tag-green"
         }
       ],
       "count": 2
