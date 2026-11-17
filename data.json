@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16 05:24",
+  "updated": "2026-11-17 08:34",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -15,56 +15,56 @@
         },
         {
           "rank": 2,
-          "name": "渝人码头",
-          "artist": "梓渝",
+          "name": "最佳对手",
+          "artist": "云旗/郝熠然",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "卦卦皆无你和我 (我算姻缘 问因果)",
-          "artist": "陶云疏",
+          "name": "女鞋 (Live)",
+          "artist": "黄子弘凡",
           "trend": "flat"
         },
         {
           "rank": 4,
+          "name": "归期雨抄 (Live)",
+          "artist": "刘宇宁",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
           "name": "情话Butterflies",
           "artist": "荣涉",
           "trend": "flat"
         },
         {
-          "rank": 5,
-          "name": "情歌而已",
-          "artist": "苏醒AllenSu",
-          "trend": "flat"
-        },
-        {
           "rank": 6,
-          "name": "我听人说思念像风一样",
-          "artist": "天灰灰",
+          "name": "失语症 (Live)",
+          "artist": "周深",
           "trend": "flat"
         },
         {
           "rank": 7,
+          "name": "卦卦皆无你和我 (我算姻缘 问因果)",
+          "artist": "陶云疏",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "渝人码头",
+          "artist": "梓渝",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
           "name": "老子我偏要挺直脊梁",
           "artist": "石敢当",
           "trend": "flat"
         },
         {
-          "rank": 8,
-          "name": "刻在神庙的爱 (氛围版)",
-          "artist": "Taile不喝气泡水",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "情人不甘恋人不愿",
-          "artist": "黑大姐",
-          "trend": "flat"
-        },
-        {
           "rank": 10,
-          "name": "RTTT",
-          "artist": "鹭卓",
+          "name": "卡农to me(最重要的是自己开心)",
+          "artist": "雾安Misty/撒安德萨",
           "trend": "flat"
         }
       ]
@@ -77,32 +77,32 @@
       "songs": [
         {
           "rank": 1,
+          "name": "最佳对手",
+          "artist": "云旗/郝熠然",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
           "name": "慌啥子嘛 (赵本山版)",
           "artist": "赵本山",
           "trend": "flat"
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "天龙八部之宿敌",
           "artist": "许嵩",
           "trend": "flat"
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "我不难过",
           "artist": "孙燕姿",
           "trend": "flat"
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
           "artist": "BESTie (베스티)",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "知心宙",
-          "artist": "曾舜晞",
           "trend": "flat"
         },
         {
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
+          "name": "最佳对手",
+          "artist": "云旗/郝熠然",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
+          "name": "一念焚心",
+          "artist": "周深",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
           "name": "慌啥子嘛 (赵本山版)",
           "artist": "赵本山",
           "trend": "flat"
         },
         {
-          "rank": 2,
-          "name": "女鞋 (Live)",
-          "artist": "黄子弘凡",
+          "rank": 4,
+          "name": "Know My Name (以我之名)",
+          "artist": "True Damage/英雄联盟/Sofia Reyes/Vic Mensa",
           "trend": "flat"
         },
         {
-          "rank": 3,
+          "rank": 5,
+          "name": "假装不爱你",
+          "artist": "鹭卓",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "女鞋 (Live)",
+          "artist": "颜人中",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "谢谢一辈子",
+          "artist": "成龙",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "FIRESTARTER",
+          "artist": "K/DA/英雄联盟/i-dle (아이들)/Mimi Webb",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
           "name": "归期雨抄 (Live)",
           "artist": "刘宇宁",
           "trend": "flat"
         },
         {
-          "rank": 4,
-          "name": "慌啥子嘛",
-          "artist": "村口吴老二",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "失语症 (Live)",
-          "artist": "周深",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "风携昨日远 (Live)",
-          "artist": "黄子弘凡",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "昨天．今天．下雨天",
-          "artist": "彭家丽",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "葬礼 (Live)",
-          "artist": "容祖儿",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "情歌而已",
-          "artist": "苏醒AllenSu",
-          "trend": "flat"
-        },
-        {
           "rank": 10,
-          "name": "RTTT",
-          "artist": "鹭卓",
+          "name": "北京没有你",
+          "artist": "z阿康",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "慢冷",
-          "artist": "诸侯/饶子豪",
+          "name": "湿吻",
+          "artist": "亿轩_Kingston/彭梓烨_Leo",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "再等冬天(Memories)",
-          "artist": "h3R3",
+          "name": "Know My Name",
+          "artist": "True Damage/英雄联盟/Sofía Reyes/VIC MENSA/Coco Jones/田小娟/i-dle",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "目民",
-          "artist": "郑润泽",
+          "name": "Sakana~",
+          "artist": "MISTERK/Tphunk/FANNY",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "晚安",
-          "artist": "颜人中",
+          "name": "谢谢一辈子",
+          "artist": "成龙",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "新生活",
-          "artist": "王齐铭WatchMe/LSGCsikoriot",
+          "name": "遗憾总是贯穿人生始终",
+          "artist": "供销社乐队/边缘",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "女鞋 (Live)",
-          "artist": "颜人中",
+          "name": "day after day",
+          "artist": "Venoflame",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "降温",
-          "artist": "Zzh",
+          "name": "云还在唱歌",
+          "artist": "张杰",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "deng deng deng deng deng deng",
-          "artist": "hakerluna",
+          "name": "趁早",
+          "artist": "张惠妹",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "感官过载",
-          "artist": "残像音阶/M3mo",
+          "name": "今夜让我带你高飞远走",
+          "artist": "五月天 阿信/言承旭/吴建豪/周渝民/刘宇宁",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "Violet",
-          "artist": "郑润泽",
+          "name": "在流水平静之前",
+          "artist": "CigarHan",
           "trend": "flat"
         }
       ]
@@ -355,56 +355,56 @@
         },
         {
           "rank": 2,
-          "name": "茉茉",
-          "artist": "Nzwin 黄跃成",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
           "name": "烂奇迹(不小心惹了上帝)",
           "artist": "杨羊烊",
           "trend": "flat"
         },
         {
-          "rank": 4,
+          "rank": 3,
           "name": "无 意",
           "artist": "加木/Demxntia",
           "trend": "flat"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "你的不经意",
           "artist": "Fozik佛子克",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "Enjoy the trip",
-          "artist": "谢帝/艾志恒Asen",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
+          "rank": 5,
           "name": "慌啥子嘛",
           "artist": "村口吴老二",
           "trend": "flat"
         },
         {
-          "rank": 8,
+          "rank": 6,
           "name": "降温",
           "artist": "Zzh",
           "trend": "flat"
         },
         {
-          "rank": 9,
+          "rank": 7,
+          "name": "Enjoy the trip",
+          "artist": "谢帝/艾志恒Asen",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
           "name": "Missing My Lover",
           "artist": "Vex/SHaDow（影）/MerrinZephyr",
           "trend": "flat"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "宝船",
           "artist": "DOUDOU/燕云十六声",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "DEPENDS",
+          "artist": "XG",
           "trend": "flat"
         }
       ]
@@ -429,8 +429,8 @@
         },
         {
           "rank": 3,
-          "name": "忘不掉的你",
-          "artist": "h3R3",
+          "name": "如果呢",
+          "artist": "郑润泽",
           "trend": "flat"
         },
         {
@@ -465,14 +465,14 @@
         },
         {
           "rank": 9,
-          "name": "如果呢",
-          "artist": "郑润泽",
+          "name": "恋人",
+          "artist": "李荣浩",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "恋人",
-          "artist": "李荣浩",
+          "name": "茉茉",
+          "artist": "Nzwin 黄跃成",
           "trend": "flat"
         }
       ]
@@ -497,7 +497,7 @@
         },
         {
           "rank": 3,
-          "name": "孙兰妮 - 一场相逢一场梦",
+          "name": "周深 - 一念焚心",
           "artist": "",
           "trend": "flat"
         },
@@ -509,37 +509,37 @@
         },
         {
           "rank": 5,
-          "name": "黄子弘凡 - 风携昨日远 (Live)",
+          "name": "z阿康 - 北京没有你",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "周深 - 失语症 (Live)",
+          "name": "云旗、郝熠然 - 最佳对手",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "G.E.M.邓紫棋 - 自由的你",
+          "name": "Allie艾梨 - 熬过风雪熬过冬天 (深情遗憾live版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "许嵩 - 忽略不计",
+          "name": "郝琪力 - 我又想起了你",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "许嵩 - 前程似锦",
+          "name": "村口吴老二 - 慌啥子嘛",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "HOYO-MiX、當山みれい - 无中生有 Ex Nihilo",
+          "name": "烟嗓扬哥 - 慌啥子嘛 (烟嗓版)",
           "artist": "",
           "trend": "flat"
         }
@@ -565,13 +565,13 @@
         },
         {
           "rank": 3,
-          "name": "HOYO-MiX、當山みれい - 无中生有 Ex Nihilo",
+          "name": "杨羊烊 - 烂奇迹 (不小心惹了上帝)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "杨羊烊 - 烂奇迹 (不小心惹了上帝)",
+          "name": "HOYO-MiX、當山みれい - 无中生有 Ex Nihilo",
           "artist": "",
           "trend": "flat"
         },
@@ -583,7 +583,7 @@
         },
         {
           "rank": 6,
-          "name": "苏艺馨Chency - 时过境迁",
+          "name": "刘宇宁 - 归期雨抄 (Live)",
           "artist": "",
           "trend": "flat"
         },
@@ -595,19 +595,19 @@
         },
         {
           "rank": 8,
-          "name": "孙燕姿 - 我不难过",
+          "name": "苏艺馨Chency - 时过境迁",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "The Weeknd - Hong Kong (feat. 王菲季候风)",
+          "name": "孙燕姿 - 我不难过",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "刘宇宁 - 归期雨抄 (Live)",
+          "name": "周杰伦 - 发如雪",
           "artist": "",
           "trend": "flat"
         }
@@ -621,43 +621,43 @@
       "songs": [
         {
           "rank": 1,
-          "name": "李荣浩 - 恋人",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "白小白 - 人生路漫漫",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
           "name": "村口吴老二 - 慌啥子嘛",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 2,
+          "name": "李荣浩 - 恋人",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 3,
+          "name": "白小白 - 人生路漫漫",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 4,
-          "name": "派伟俊、mac ova seas - 左转灯 (1000 Times +1)",
+          "name": "莫文蔚 - 阴天",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "供销社乐队 - 我听见了，你的痛苦成立",
+          "name": "伯爵Johnny、唐伯虎Annie - 西厢寻他",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "DJ筱轩 - 游京 (奋斗进行曲)",
+          "name": "虎二 - 跨不过的距离",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "陈默之 - 冷夜",
+          "name": "派伟俊、mac ova seas - 左转灯 (1000 Times +1)",
           "artist": "",
           "trend": "flat"
         },
@@ -669,13 +669,13 @@
         },
         {
           "rank": 9,
-          "name": "徐明浩、GALI - Star Crossing Night (feat. GALI)",
+          "name": "陈默之 - 冷夜",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "徐凤华 - 怎么看你一眼就心动 (深情版)",
+          "name": "供销社乐队 - 我听见了，你的痛苦成立",
           "artist": "",
           "trend": "flat"
         }
@@ -689,61 +689,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "翟晶晶 - 亲亲的呼喊",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "何岩 - 太多的感情",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 2,
+          "name": "朱达海 - 爱你的代价",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 3,
-          "name": "财阀大小姐 - 牵丝戏 (纯音乐旋律)",
+          "name": "鱼先声 - 爱像是突如其来的大雨",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "Andree Son、DJariium、KORVYNO - 拳王幻昼 (大忧郁)",
+          "name": "李思雅Siya - 同一片海 (One Pacific)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "Kakakk、思思米、DJ甜甜圈、格小温 - Call your name (暮色氛围...",
+          "name": "冯海龙 - 山沟沟好",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "洛琦 - 回头是故乡",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "小洛ya - tu siab heev li no",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "江泽伟 - 骗子 戒指",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 7,
+          "name": "杨不拿铁 - 动了情的人 (女版)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "财阀大小姐 - 牵丝戏 (纯音乐旋律)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 9,
-          "name": "EBeats、重音テト - 明日なんて来なければいいのにね！！",
+          "name": "活着目的是什么 - 撞见前男友",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "DJ大古 - Lonely x All Time Low (Reverb)",
+          "name": "王一佳 - 山的尽头 (DJ何友版)",
           "artist": "",
           "trend": "flat"
         }
@@ -757,6 +757,25 @@
       "tags": [
         {
           "label": "QQ音樂#1",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "最佳对手",
+      "artist": "云旗/郝熠然",
+      "tags": [
+        {
+          "label": "QQ音樂#2",
           "c": "tag-blue"
         },
         {
@@ -775,7 +794,7 @@
       "artist": "许嵩",
       "tags": [
         {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         },
         {
@@ -790,11 +809,45 @@
       "count": 3
     },
     {
-      "name": "情歌而已",
-      "artist": "苏醒AllenSu",
+      "name": "村口吴老二 - 慌啥子嘛",
+      "artist": "",
       "tags": [
         {
-          "label": "QQ音樂#5",
+          "label": "酷狗#9",
+          "c": "tag-orange"
+        },
+        {
+          "label": "酷狗#2",
+          "c": "tag-orange"
+        },
+        {
+          "label": "酷狗#1",
+          "c": "tag-orange"
+        }
+      ],
+      "count": 3
+    },
+    {
+      "name": "女鞋 (Live)",
+      "artist": "黄子弘凡",
+      "tags": [
+        {
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#6",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "归期雨抄 (Live)",
+      "artist": "刘宇宁",
+      "tags": [
+        {
+          "label": "QQ音樂#4",
           "c": "tag-blue"
         },
         {
@@ -805,26 +858,11 @@
       "count": 2
     },
     {
-      "name": "RTTT",
-      "artist": "鹭卓",
-      "tags": [
-        {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
       "name": "我不难过",
       "artist": "孙燕姿",
       "tags": [
         {
-          "label": "QQ音樂#3",
+          "label": "QQ音樂#4",
           "c": "tag-blue"
         },
         {
@@ -875,36 +913,6 @@
         {
           "label": "QQ音樂#1",
           "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "恋人",
-      "artist": "李荣浩",
-      "tags": [
-        {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#10",
-          "c": "tag-green"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "女鞋 (Live)",
-      "artist": "黄子弘凡",
-      "tags": [
-        {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#6",
-          "c": "tag-green"
         }
       ],
       "count": 2
