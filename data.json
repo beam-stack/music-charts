@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18 07:41",
+  "updated": "2026-11-19 07:12",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -33,38 +33,38 @@
         },
         {
           "rank": 5,
-          "name": "女鞋 (Live)",
-          "artist": "黄子弘凡",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
           "name": "一念焚心",
           "artist": "周深",
           "trend": "flat"
         },
         {
+          "rank": 6,
+          "name": "谢谢一辈子",
+          "artist": "成龙",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
-          "name": "归期雨抄 (Live)",
-          "artist": "刘宇宁",
+          "name": "time machine (feat. aren park)",
+          "artist": "mj apanay/aren park",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "Call your name (混音版)",
-          "artist": "7zA/Komi酱",
+          "name": "雾读",
+          "artist": "陈卓璇",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "The Moment You Saw Me（当我，在你的目光里）",
-          "artist": "米卡",
+          "name": "你怎么舍得让我的泪流向海",
+          "artist": "景小多",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "卦卦皆无你和我 (我算姻缘 问因果)",
-          "artist": "陶云疏",
+          "name": "The Moment You Saw Me（当我，在你的目光里）",
+          "artist": "米卡",
           "trend": "flat"
         }
       ]
@@ -83,8 +83,8 @@
         },
         {
           "rank": 2,
-          "name": "阴天也会有烦恼吗",
-          "artist": "TF_ING穆祉丞",
+          "name": "time machine (feat. aren park)",
+          "artist": "mj apanay/aren park",
           "trend": "flat"
         },
         {
@@ -95,44 +95,44 @@
         },
         {
           "rank": 4,
-          "name": "天龙八部之宿敌",
-          "artist": "许嵩",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
           "artist": "BESTie (베스티)",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "time machine (feat. aren park)",
-          "artist": "mj apanay/aren park",
+          "rank": 5,
+          "name": "天龙八部之宿敌",
+          "artist": "许嵩",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 6,
           "name": "我好像在哪见过你",
           "artist": "薛之谦",
           "trend": "flat"
         },
         {
-          "rank": 8,
-          "name": "最佳对手",
-          "artist": "云旗/郝熠然",
+          "rank": 7,
+          "name": "泪海",
+          "artist": "许茹芸",
           "trend": "flat"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "甲乙丙丁 (你我怎么两清)",
           "artist": "李佳薇",
           "trend": "flat"
         },
         {
-          "rank": 10,
+          "rank": 9,
           "name": "我怀念的",
           "artist": "孙燕姿",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "雨爱",
+          "artist": "杨丞琳",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "阴天也会有烦恼吗",
-          "artist": "TF_ING穆祉丞",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
-          "name": "冬天又来临",
-          "artist": "罗言RollFlash",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "忘不了就别忘了",
-          "artist": "水木年华/许飞",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
           "name": "time machine (feat. aren park)",
           "artist": "mj apanay/aren park",
           "trend": "flat"
         },
         {
-          "rank": 5,
-          "name": "Angel Bite",
-          "artist": "TOMORROW X TOGETHER (투모로우바이투게더)",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
+          "rank": 2,
           "name": "慌啥子嘛 (合唱版)",
           "artist": "赵本山/赵大牛/球球",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "哪里都是你",
+          "artist": "队长",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "泪海",
+          "artist": "许茹芸",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "圣诞星 (feat. 杨瑞代)",
+          "artist": "周杰伦",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "十万飞花",
+          "artist": "黄霄雲",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
-          "name": "지금까지와는 다른 무언가가 필요해 (Storm is...)",
-          "artist": "TOMORROW X TOGETHER (투모로우바이투게더)",
+          "name": "기억을 걷는 시간 (聚集记忆的时间)",
+          "artist": "Nell (넬)",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "Please Stay",
-          "artist": "Inkylove",
+          "name": "窗外的泪光 (窗外照着我的月亮)",
+          "artist": "浅浅微醺",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "Higher Love",
-          "artist": "TOMORROW X TOGETHER (투모로우바이투게더)",
+          "name": "你走 (半吨姐妹版)",
+          "artist": "半吨姐妹",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "It's Me",
-          "artist": "ILLIT (아일릿)",
+          "name": "하루하루 (一天一天)",
+          "artist": "BIGBANG (빅뱅)",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "冬天又来临",
-          "artist": "罗言",
+          "name": "time machine (feat. aren park)",
+          "artist": "mj apanay/aren park",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "Violet",
-          "artist": "郑润泽",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "Marry",
-          "artist": "Top Barry/INDEcompany",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
           "name": "慌啥子嘛",
           "artist": "赵本山",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "二十几",
+          "artist": "L13",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "在流水平静之前",
+          "artist": "CigarHan",
+          "trend": "flat"
+        },
+        {
           "rank": 5,
-          "name": "造梦0520",
-          "artist": "马也_Crabbit/Y.U",
+          "name": "5th",
+          "artist": "石衍恺",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "天还是阴",
-          "artist": "Fozik佛子克",
+          "name": "湿吻",
+          "artist": "亿轩_Kingston/彭梓烨_Leo",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "慢冷",
-          "artist": "诸侯/饶子豪",
+          "name": "江南雪",
+          "artist": "礼越",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "知心宙",
-          "artist": "曾舜晞",
+          "name": "Stay with Me",
+          "artist": "裘德",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "雪化作泪滴 (Old Tape)",
-          "artist": "Cheeze/Trazzy/雾明",
+          "name": "番茄花",
+          "artist": "呆呆破",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "time machine (feat. aren park)",
-          "artist": "mj apanay/aren park",
+          "name": "Kiss My Soul (I want you kiss kiss)",
+          "artist": "Viik潘唯奇",
           "trend": "flat"
         }
       ]
@@ -349,62 +349,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "冬天又来临",
-          "artist": "罗言",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "Hong Kong (feat. 王菲季候风)",
           "artist": "The Weeknd",
           "trend": "flat"
         },
         {
+          "rank": 2,
+          "name": "冬天又来临",
+          "artist": "罗言",
+          "trend": "flat"
+        },
+        {
           "rank": 3,
-          "name": "无 意",
-          "artist": "加木/Demxntia",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "烂奇迹(不小心惹了上帝)",
-          "artist": "杨羊烊",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "慌啥子嘛",
           "artist": "村口吴老二",
           "trend": "flat"
         },
         {
+          "rank": 4,
+          "name": "无 意",
+          "artist": "加木/Demxntia",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "烂奇迹(不小心惹了上帝)",
+          "artist": "杨羊烊",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
+          "name": "慌啥子嘛",
+          "artist": "赵本山",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
           "name": "你的不经意",
           "artist": "Fozik佛子克",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "降温",
           "artist": "Zzh",
           "trend": "flat"
         },
         {
-          "rank": 8,
-          "name": "雪化作泪滴 (Old Tape)",
-          "artist": "Cheeze/Trazzy/雾明",
-          "trend": "flat"
-        },
-        {
           "rank": 9,
-          "name": "Enjoy the trip",
-          "artist": "谢帝/艾志恒Asen",
+          "name": "Missing My Lover",
+          "artist": "Vex/SHaDow（影）/MerrinZephyr",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "Missing My Lover",
-          "artist": "Vex/SHaDow（影）/MerrinZephyr",
+          "name": "燃 (Live)",
+          "artist": "容祖儿",
           "trend": "flat"
         }
       ]
@@ -417,38 +417,38 @@
       "songs": [
         {
           "rank": 1,
-          "name": "冬天又来临",
-          "artist": "罗言",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "海屿你",
           "artist": "马也_Crabbit",
           "trend": "flat"
         },
         {
-          "rank": 3,
-          "name": "Violet",
-          "artist": "郑润泽",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "name": "我不难过",
           "artist": "孙燕姿",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "罗生门（Follow）",
+          "artist": "梨冻紧/Wiz_H张子豪",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "time machine (feat. aren park)",
+          "artist": "mj apanay/aren park",
+          "trend": "flat"
+        },
+        {
           "rank": 5,
-          "name": "Hong Kong (feat. 王菲季候风)",
-          "artist": "The Weeknd",
+          "name": "冬天又来临",
+          "artist": "罗言",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "红",
-          "artist": "罗言",
+          "name": "还是会想你",
+          "artist": "林达浪/h3R3",
           "trend": "flat"
         },
         {
@@ -465,14 +465,14 @@
         },
         {
           "rank": 9,
-          "name": "茉茉",
-          "artist": "Nzwin 黄跃成",
+          "name": "Hong Kong (feat. 王菲季候风)",
+          "artist": "The Weeknd",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "明知故犯",
-          "artist": "Max李玄",
+          "name": "茉茉",
+          "artist": "Nzwin 黄跃成",
           "trend": "flat"
         }
       ]
@@ -485,61 +485,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "刘宇宁 - 归期雨抄 (Live)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 2,
           "name": "赵本山 - 慌啥子嘛",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 3,
-          "name": "周深 - 一念焚心",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "赵本山、赵大牛、球球 - 慌啥子嘛 (合唱版)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
+          "rank": 2,
           "name": "石敢当 - 慌啥子嘛 (洒脱版)",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "荣涉 - 情话Butterflies",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "沈念禾 - 缘分很短思念不休 (女版)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "王欣心 - 思念太苦又太酸",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
-          "name": "胡海泉 - 不是吗",
+          "name": "TF_ING穆祉丞 - 阴天也会有烦恼吗",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "HOYO-MiX、當山みれい - 无中生有 Ex Nihilo",
+          "name": "陶不易 - 北京没有你 (黑人版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "石满仓、石红豆 - 你还是从前的你吗 (乡野对唱版)",
+          "name": "烟嗓扬哥 - 慌啥子嘛 (烟嗓版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "刘宇 - 桃花坞",
+          "name": "陈小莺 - 为证共此生 (女声版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "黄子弘凡 - 风携昨日远 (Live)",
+          "name": "浅浅微醺 - 窗外的泪光 (窗外照着我的月亮)",
           "artist": "",
           "trend": "flat"
         }
@@ -565,13 +565,13 @@
         },
         {
           "rank": 3,
-          "name": "杨羊烊 - 烂奇迹 (不小心惹了上帝)",
+          "name": "浅浅微醺 - 窗外的泪光 (窗外照着我的月亮)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "浅浅微醺 - 窗外的泪光 (窗外照着我的月亮)",
+          "name": "杨羊烊 - 烂奇迹 (不小心惹了上帝)",
           "artist": "",
           "trend": "flat"
         },
@@ -583,31 +583,31 @@
         },
         {
           "rank": 6,
-          "name": "HOYO-MiX、當山みれい - 无中生有 Ex Nihilo",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
-          "name": "刘宇宁 - 归期雨抄 (Live)",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "苏艺馨Chency - 时过境迁",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "z阿康 - 北京没有你",
           "artist": "",
           "trend": "flat"
         },
         {
-          "rank": 10,
+          "rank": 7,
+          "name": "苏艺馨Chency - 时过境迁",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
           "name": "孙燕姿 - 我不难过",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "HOYO-MiX、當山みれい - 无中生有 Ex Nihilo",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
+          "rank": 10,
+          "name": "刘宇宁 - 归期雨抄 (Live)",
           "artist": "",
           "trend": "flat"
         }
@@ -689,31 +689,31 @@
       "songs": [
         {
           "rank": 1,
-          "name": "TheBlvcks、Sher Hugz、MXEEN、KiR0X - Ya No Estás",
+          "name": "何岩 - 太多的感情",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "EBeats、重音テト - 明日なんて来なければいいのにね！！",
+          "name": "雨島 - Misty Way",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "Enjoy My Life - 物是人非",
+          "name": "h6itam、Penkramin、SNYSTA - MONTAGEM VALKARO",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "CrazyG - 远方传来风笛 (纯享版)",
+          "name": "Enjoy My Life - 物是人非",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "周晓晓、潘华、李芊墨 - 哥的妹子亲",
+          "name": "活着目的是什么 - 撞见前男友",
           "artist": "",
           "trend": "flat"
         },
@@ -725,25 +725,25 @@
         },
         {
           "rank": 7,
-          "name": "金鹏 - 离人殇",
-          "artist": "",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "mayauzz - 让我看看怎么个事",
           "artist": "",
           "trend": "flat"
         },
         {
+          "rank": 8,
+          "name": "刚祥 - 刺伤 (种玫瑰的人)",
+          "artist": "",
+          "trend": "flat"
+        },
+        {
           "rank": 9,
-          "name": "江泽伟 - 骗子 戒指",
+          "name": "黑川野 - 嘉豪小曲 Funk (舞曲版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "郭飞宏 - 秋墨 (DJ Ailward版)",
+          "name": "小阿青 - 人生除了生死其他都是擦伤",
           "artist": "",
           "trend": "flat"
         }
@@ -752,34 +752,11 @@
   ],
   "cross": [
     {
-      "name": "冬天又来临",
-      "artist": "罗言RollFlash",
+      "name": "time machine (feat. aren park)",
+      "artist": "mj apanay/aren park",
       "tags": [
         {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#1",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#1",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#1",
-          "c": "tag-green"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "阴天也会有烦恼吗",
-      "artist": "TF_ING穆祉丞",
-      "tags": [
-        {
-          "label": "QQ音樂#2",
+          "label": "QQ音樂#7",
           "c": "tag-blue"
         },
         {
@@ -789,16 +766,24 @@
         {
           "label": "QQ音樂#1",
           "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#1",
+          "c": "tag-green"
+        },
+        {
+          "label": "網易雲#4",
+          "c": "tag-green"
         }
       ],
-      "count": 3
+      "count": 5
     },
     {
       "name": "天龙八部之宿敌",
       "artist": "许嵩",
       "tags": [
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#5",
           "c": "tag-blue"
         },
         {
@@ -813,19 +798,19 @@
       "count": 3
     },
     {
-      "name": "time machine (feat. aren park)",
-      "artist": "mj apanay/aren park",
+      "name": "慌啥子嘛",
+      "artist": "赵本山",
       "tags": [
         {
-          "label": "QQ音樂#6",
-          "c": "tag-blue"
+          "label": "網易雲#2",
+          "c": "tag-green"
         },
         {
-          "label": "QQ音樂#4",
-          "c": "tag-blue"
+          "label": "網易雲#3",
+          "c": "tag-green"
         },
         {
-          "label": "網易雲#10",
+          "label": "網易雲#6",
           "c": "tag-green"
         }
       ],
@@ -847,21 +832,6 @@
       "count": 2
     },
     {
-      "name": "最佳对手",
-      "artist": "云旗/郝熠然",
-      "tags": [
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#8",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
       "name": "我不难过",
       "artist": "孙燕姿",
       "tags": [
@@ -870,8 +840,23 @@
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#4",
+          "label": "網易雲#2",
           "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "泪海",
+      "artist": "许茹芸",
+      "tags": [
+        {
+          "label": "QQ音樂#7",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
         }
       ],
       "count": 2
@@ -881,7 +866,7 @@
       "artist": "孙燕姿",
       "tags": [
         {
-          "label": "QQ音樂#10",
+          "label": "QQ音樂#9",
           "c": "tag-blue"
         },
         {
@@ -892,26 +877,41 @@
       "count": 2
     },
     {
-      "name": "Violet",
-      "artist": "郑润泽",
+      "name": "雨爱",
+      "artist": "杨丞琳",
       "tags": [
         {
-          "label": "網易雲#2",
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#10",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "Hong Kong (feat. 王菲季候风)",
+      "artist": "The Weeknd",
+      "tags": [
+        {
+          "label": "網易雲#1",
           "c": "tag-green"
         },
         {
-          "label": "網易雲#3",
+          "label": "網易雲#9",
           "c": "tag-green"
         }
       ],
       "count": 2
     },
     {
-      "name": "慌啥子嘛",
-      "artist": "赵本山",
+      "name": "冬天又来临",
+      "artist": "罗言",
       "tags": [
         {
-          "label": "網易雲#4",
+          "label": "網易雲#2",
           "c": "tag-green"
         },
         {
