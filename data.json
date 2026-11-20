@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20 07:20",
+  "updated": "2026-11-21 06:51",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -27,44 +27,44 @@
         },
         {
           "rank": 4,
-          "name": "最佳对手",
-          "artist": "云旗/郝熠然",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "谢谢一辈子",
           "artist": "成龙",
           "trend": "flat"
         },
         {
+          "rank": 5,
+          "name": "最佳对手",
+          "artist": "云旗/郝熠然",
+          "trend": "flat"
+        },
+        {
           "rank": 6,
+          "name": "冬天又来临",
+          "artist": "罗言RollFlash",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "世间",
+          "artist": "陈卓璇",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "Letting Go (我来，因为你在 演唱会 Live Version)",
+          "artist": "那英/蔡健雅",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
           "name": "归期雨抄 (Live)",
           "artist": "刘宇宁",
           "trend": "flat"
         },
         {
-          "rank": 7,
-          "name": "最美的期待",
-          "artist": "周笔畅",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "人生一晃又一秋 (望故乡说唱版)",
-          "artist": "雪山阿木/7past/自游诗",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
-          "name": "哪里都是你",
-          "artist": "队长",
-          "trend": "flat"
-        },
-        {
           "rank": 10,
-          "name": "Dient",
-          "artist": "Nicholas Witt",
+          "name": "情话Butterflies",
+          "artist": "荣涉",
           "trend": "flat"
         }
       ]
@@ -113,26 +113,26 @@
         },
         {
           "rank": 7,
-          "name": "泪海",
-          "artist": "许茹芸",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "甲乙丙丁 (你我怎么两清)",
           "artist": "李佳薇",
           "trend": "flat"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "我怀念的",
           "artist": "孙燕姿",
           "trend": "flat"
         },
         {
+          "rank": 9,
+          "name": "泪海",
+          "artist": "许茹芸",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "棠棣赋",
-          "artist": "五月天 阿信",
+          "name": "发如雪",
+          "artist": "周杰伦",
           "trend": "flat"
         }
       ]
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "棠棣赋",
-          "artist": "五月天 阿信",
+          "name": "孤星",
+          "artist": "成毅",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "哪里都是你",
-          "artist": "队长",
+          "name": "仓央情歌",
+          "artist": "韩雯雯",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "time machine (feat. aren park)",
-          "artist": "mj apanay/aren park",
+          "name": "The Prince of BAOBAO",
+          "artist": "李昊",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "하루하루 (一天一天)",
-          "artist": "BIGBANG (빅뱅)",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "你猜",
-          "artist": "刘回",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
-          "name": "Nevada",
-          "artist": "Vicetone/Cozi Zuehlsdorff",
-          "trend": "flat"
-        },
-        {
-          "rank": 7,
           "name": "世间",
           "artist": "陈卓璇",
           "trend": "flat"
         },
         {
-          "rank": 8,
+          "rank": 5,
+          "name": "敢爱敢做",
+          "artist": "林子祥",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
           "name": "기억을 걷는 시간 (聚集记忆的时间)",
           "artist": "Nell (넬)",
           "trend": "flat"
         },
         {
+          "rank": 7,
+          "name": "Leave With Me",
+          "artist": "LISA (리사)",
+          "trend": "flat"
+        },
+        {
+          "rank": 8,
+          "name": "I Became A Quiet Weather",
+          "artist": "幸儿ECHASL",
+          "trend": "flat"
+        },
+        {
           "rank": 9,
-          "name": "漂浮的某年某天 (feat.关诗敏) (录音室版)",
-          "artist": "张新成/关诗敏",
+          "name": "하루하루 (一天一天)",
+          "artist": "BIGBANG (빅뱅)",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "11",
-          "artist": "队长/黄礼格",
+          "name": "慌啥子嘛 (合唱版)",
+          "artist": "赵本山/赵大牛/球球",
           "trend": "flat"
         }
       ]
@@ -281,26 +281,26 @@
       "songs": [
         {
           "rank": 1,
-          "name": "冬天又来临",
-          "artist": "罗言",
+          "name": "无中生有 Ex Nihilo",
+          "artist": "HOYO-MiX/當山みれい",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "目民",
-          "artist": "郑润泽",
+          "name": "不知名关系",
+          "artist": "Y55",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "江南雪",
-          "artist": "礼越",
+          "name": "死神在揣着玫瑰",
+          "artist": "金金金金金",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "你猜",
-          "artist": "刘回",
+          "name": "雪霁天光",
+          "artist": "世界之外",
           "trend": "flat"
         },
         {
@@ -311,14 +311,14 @@
         },
         {
           "rank": 6,
-          "name": "回到你身边 (不插电)",
-          "artist": "h3R3",
+          "name": "仓央情歌",
+          "artist": "韩雯雯",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "围城",
-          "artist": "姜云升/张雪飞/Lil.Fred",
+          "name": "Violet",
+          "artist": "郑润泽",
           "trend": "flat"
         },
         {
@@ -329,14 +329,14 @@
         },
         {
           "rank": 9,
-          "name": "慌啥子嘛",
-          "artist": "赵本山",
+          "name": "5th",
+          "artist": "石衍恺",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "IF YOU",
-          "artist": "BIGBANG",
+          "name": "Kiss My Soul (I want you kiss kiss)",
+          "artist": "Viik潘唯奇",
           "trend": "flat"
         }
       ]
@@ -379,20 +379,20 @@
         },
         {
           "rank": 6,
+          "name": "Kiss My Soul (I want you kiss kiss)",
+          "artist": "Viik潘唯奇",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
           "name": "烂奇迹(不小心惹了上帝)",
           "artist": "杨羊烊",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "你的不经意",
           "artist": "Fozik佛子克",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "Missing My Lover",
-          "artist": "Vex/SHaDow（影）/MerrinZephyr",
           "trend": "flat"
         },
         {
@@ -403,8 +403,8 @@
         },
         {
           "rank": 10,
-          "name": "Kiss My Soul (I want you kiss kiss)",
-          "artist": "Viik潘唯奇",
+          "name": "燃 (Live)",
+          "artist": "容祖儿",
           "trend": "flat"
         }
       ]
@@ -429,8 +429,8 @@
         },
         {
           "rank": 3,
-          "name": "嗜好",
-          "artist": "颜人中",
+          "name": "如果呢",
+          "artist": "郑润泽",
           "trend": "flat"
         },
         {
@@ -441,14 +441,14 @@
         },
         {
           "rank": 5,
-          "name": "哪里都是你",
-          "artist": "队长",
+          "name": "茉茉",
+          "artist": "Nzwin 黄跃成",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "予你",
-          "artist": "队长",
+          "name": "无 意",
+          "artist": "加木/Demxntia",
           "trend": "flat"
         },
         {
@@ -471,8 +471,8 @@
         },
         {
           "rank": 10,
-          "name": "茉茉",
-          "artist": "Nzwin 黄跃成",
+          "name": "哪里都是你",
+          "artist": "队长",
           "trend": "flat"
         }
       ]
@@ -485,25 +485,25 @@
       "songs": [
         {
           "rank": 1,
-          "name": "半吨姐妹 - 你走",
+          "name": "高卿尘Nine - 百分百喜欢",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "浅浅微醺 - 窗外的泪光 (窗外照着我的月亮)",
+          "name": "陈日春 - 随他说去吧",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "赵本山、赵大牛、球球 - 慌啥子嘛 (合唱版)",
+          "name": "DJ猛弟(猛studio) - 爱就爱了 (猛Lak House)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "张新成、关诗敏 - 漂浮的某年某天 (feat.关诗敏)(录音室版)",
+          "name": "王振国 - 淡淡红尘",
           "artist": "",
           "trend": "flat"
         },
@@ -515,31 +515,31 @@
         },
         {
           "rank": 6,
-          "name": "雪山阿木、自游诗 - 我问菩萨究竟何为良缘 (前世不欠 今生不见)",
+          "name": "z阿康 - 北京没有你",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "河南三妹5233 - 放下 (看淡)",
+          "name": "邓丽君 - 但愿人长久",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "石满仓 - 慌啥子嘛 (乡野版)",
+          "name": "邓丽君 - 夜来香",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "难断Official - atinge (假发进行曲)",
+          "name": "邓丽君 - 路边的野花不要采",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "海伦 - 珍贵的你",
+          "name": "邓丽君 - 千言万语",
           "artist": "",
           "trend": "flat"
         }
@@ -583,19 +583,19 @@
         },
         {
           "rank": 6,
-          "name": "许嵩 - 天龙八部之宿敌",
+          "name": "赵本山、赵大牛、球球 - 慌啥子嘛 (合唱版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "苏艺馨Chency - 时过境迁",
+          "name": "mj apanay、aren park - time machine (feat. aren park)(Origi...",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "赵本山、赵大牛、球球 - 慌啥子嘛 (合唱版)",
+          "name": "苏艺馨Chency - 时过境迁",
           "artist": "",
           "trend": "flat"
         },
@@ -607,7 +607,7 @@
         },
         {
           "rank": 10,
-          "name": "孙燕姿 - 我不难过",
+          "name": "许嵩 - 天龙八部之宿敌",
           "artist": "",
           "trend": "flat"
         }
@@ -689,55 +689,55 @@
       "songs": [
         {
           "rank": 1,
-          "name": "朱达海 - 爱你的代价",
+          "name": "鱼先声 - 爱像是突如其来的大雨",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "九觅 - Call your name (slowed)",
+          "name": "静宇、南慕容 - 不跑广东跑浙江",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "顾奈Ya - 圣诞快乐劳伦斯先生 (演奏版)",
+          "name": "索浪・Solan - 牵丝戏 (纯享笛子版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "025.等一分钟 - 徐誉滕",
+          "name": "耳朵不打样 - 牵丝戏 (笛子纯音乐)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "王一佳 - 山的尽头 (DJ何友版)",
+          "name": "Enjoy My Life - 物是人非",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "活着目的是什么 - 撞见前男友",
+          "name": "二彪 - 这些年你过得好吗 (DJ默涵)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "周晓晓、潘华、李芊墨 - 哥的妹子亲",
+          "name": "上官景儿 - 岁月可否放过我",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "小三金 - 怎么快乐",
+          "name": "财阀大小姐 - 牵丝戏 (纯音乐旋律)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "财阀大小姐 - 牵丝戏 (纯音乐旋律)",
+          "name": "TypeC - 定格让幸福具象化 (感觉至上)",
           "artist": "",
           "trend": "flat"
         },
@@ -768,61 +768,30 @@
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
           "label": "網易雲#7",
           "c": "tag-green"
         }
       ],
-      "count": 5
+      "count": 4
     },
     {
-      "name": "哪里都是你",
-      "artist": "队长",
+      "name": "冬天又来临",
+      "artist": "罗言RollFlash",
       "tags": [
-        {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
-        },
         {
           "label": "QQ音樂#6",
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
+          "label": "網易雲#1",
+          "c": "tag-green"
         },
         {
-          "label": "網易雲#5",
+          "label": "網易雲#1",
           "c": "tag-green"
         }
       ],
-      "count": 4
-    },
-    {
-      "name": "慌啥子嘛",
-      "artist": "村口吴老二",
-      "tags": [
-        {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#9",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#3",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#4",
-          "c": "tag-green"
-        }
-      ],
-      "count": 4
+      "count": 3
     },
     {
       "name": "天龙八部之宿敌",
@@ -844,19 +813,19 @@
       "count": 3
     },
     {
-      "name": "冬天又来临",
-      "artist": "罗言",
+      "name": "慌啥子嘛",
+      "artist": "村口吴老二",
       "tags": [
         {
-          "label": "網易雲#1",
+          "label": "QQ音樂#2",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#3",
           "c": "tag-green"
         },
         {
-          "label": "網易雲#1",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#1",
+          "label": "網易雲#4",
           "c": "tag-green"
         }
       ],
@@ -872,6 +841,21 @@
         },
         {
           "label": "QQ音樂#1",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "世间",
+      "artist": "陈卓璇",
+      "tags": [
+        {
+          "label": "QQ音樂#7",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#4",
           "c": "tag-blue"
         }
       ],
@@ -908,8 +892,8 @@
       "count": 2
     },
     {
-      "name": "棠棣赋",
-      "artist": "五月天 阿信",
+      "name": "发如雪",
+      "artist": "周杰伦",
       "tags": [
         {
           "label": "QQ音樂#10",
@@ -923,15 +907,15 @@
       "count": 2
     },
     {
-      "name": "你猜",
-      "artist": "刘回",
+      "name": "哪里都是你",
+      "artist": "队长",
       "tags": [
         {
-          "label": "QQ音樂#5",
+          "label": "QQ音樂#6",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#4",
+          "label": "網易雲#10",
           "c": "tag-green"
         }
       ],
