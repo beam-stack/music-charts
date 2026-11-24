@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23 06:14",
+  "updated": "2026-11-24 11:06",
   "charts": [
     {
       "platform": "QQ音樂",
@@ -9,8 +9,8 @@
       "songs": [
         {
           "rank": 1,
-          "name": "慌啥子嘛 (赵本山版)",
-          "artist": "赵本山",
+          "name": "宿命之外",
+          "artist": "时代少年团",
           "trend": "flat"
         },
         {
@@ -21,50 +21,50 @@
         },
         {
           "rank": 3,
-          "name": "time machine (feat. aren park)",
-          "artist": "mj apanay/aren park",
+          "name": "Love Love Love (Live)",
+          "artist": "刘耀文",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "慌啥子嘛 (合唱版)",
-          "artist": "赵本山/赵大牛/球球",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "阴天也会有烦恼吗",
-          "artist": "TF_ING穆祉丞",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
           "name": "任天堂",
           "artist": "G.E.M.邓紫棋",
           "trend": "flat"
         },
         {
+          "rank": 5,
+          "name": "time machine (feat. aren park)",
+          "artist": "mj apanay/aren park",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "狂流 (Live)",
+          "artist": "陈楚生",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
-          "name": "你走 (半吨姐妹版)",
-          "artist": "半吨姐妹",
+          "name": "谢谢一辈子",
+          "artist": "成龙",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "如果我拥有一座花园 (Live)",
-          "artist": "刘宇宁",
+          "name": "回声 (Live)",
+          "artist": "曾沛慈",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "后来没有后来 (演唱会live遗憾爱情故事合唱版)",
-          "artist": "7pastes/艾利office",
+          "name": "Go Easy",
+          "artist": "Dua Lipa",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "GiiiRIP",
-          "artist": "BIGBANG (빅뱅)",
+          "name": "亲密有间",
+          "artist": "张靓颖",
           "trend": "flat"
         }
       ]
@@ -77,56 +77,56 @@
       "songs": [
         {
           "rank": 1,
+          "name": "宿命之外",
+          "artist": "时代少年团",
+          "trend": "flat"
+        },
+        {
+          "rank": 2,
           "name": "慌啥子嘛 (赵本山版)",
           "artist": "赵本山",
           "trend": "flat"
         },
         {
-          "rank": 2,
-          "name": "GiiiRIP",
-          "artist": "BIGBANG (빅뱅)",
-          "trend": "flat"
-        },
-        {
           "rank": 3,
-          "name": "time machine (feat. aren park)",
-          "artist": "mj apanay/aren park",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "天龙八部之宿敌",
-          "artist": "许嵩",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
           "name": "연애의 조건 (LOVE OPTIONS) (恋爱的条件)",
           "artist": "BESTie (베스티)",
           "trend": "flat"
         },
         {
-          "rank": 6,
+          "rank": 4,
           "name": "我不难过",
           "artist": "孙燕姿",
           "trend": "flat"
         },
         {
+          "rank": 5,
+          "name": "天龙八部之宿敌",
+          "artist": "许嵩",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "主角",
+          "artist": "马里奥",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
-          "name": "污点证人 (Live)",
-          "artist": "薛之谦",
+          "name": "time machine (feat. aren park)",
+          "artist": "mj apanay/aren park",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "我好像在哪见过你",
-          "artist": "薛之谦",
+          "name": "GiiiRIP",
+          "artist": "BIGBANG (빅뱅)",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "雨爱",
-          "artist": "杨丞琳",
+          "name": "我好像在哪见过你",
+          "artist": "薛之谦",
           "trend": "flat"
         },
         {
@@ -213,62 +213,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "污点证人 (Live)",
-          "artist": "薛之谦",
+          "name": "宿命之外",
+          "artist": "时代少年团",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "如果我拥有一座花园 (Live)",
-          "artist": "刘宇宁",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "老牛 (Live)",
-          "artist": "周深",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "如果我拥有一座花园 (Live)",
-          "artist": "黄子弘凡",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "回声 (Live)",
-          "artist": "曾沛慈",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
           "name": "Love Love Love (Live)",
           "artist": "刘耀文",
           "trend": "flat"
         },
         {
+          "rank": 3,
+          "name": "主角",
+          "artist": "马里奥",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
+          "name": "冬日来信 (Winter Love Letter)",
+          "artist": "时代少年团",
+          "trend": "flat"
+        },
+        {
+          "rank": 5,
+          "name": "Hot Shot",
+          "artist": "喻言",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "Before Sunrise",
+          "artist": "WENDY (웬디)",
+          "trend": "flat"
+        },
+        {
           "rank": 7,
-          "name": "老牛 (Live)",
-          "artist": "蒋敦豪/王一珩OneSD",
+          "name": "这一程",
+          "artist": "时代少年团",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "狂流 (Live)",
-          "artist": "陈楚生",
+          "name": "有你",
+          "artist": "时代少年团",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "晴天",
-          "artist": "周杰伦",
+          "name": "回声",
+          "artist": "那英",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "天龙八部之宿敌",
-          "artist": "许嵩",
+          "name": "Special Dust",
+          "artist": "WENDY (웬디)",
           "trend": "flat"
         }
       ]
@@ -281,62 +281,62 @@
       "songs": [
         {
           "rank": 1,
-          "name": "污点证人 (Live)",
-          "artist": "薛之谦",
+          "name": "연애의 조건 (LOVE OPTIONS)",
+          "artist": "BESTie",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "《爱笑的天使》20周年合唱版",
-          "artist": "李嫣/窦靖童/王菲",
-          "trend": "flat"
-        },
-        {
-          "rank": 3,
-          "name": "死神在揣着玫瑰",
-          "artist": "金金金金金",
-          "trend": "flat"
-        },
-        {
-          "rank": 4,
-          "name": "Violet",
-          "artist": "郑润泽",
-          "trend": "flat"
-        },
-        {
-          "rank": 5,
-          "name": "围城",
-          "artist": "姜云升/张雪飞/Lil.Fred",
-          "trend": "flat"
-        },
-        {
-          "rank": 6,
           "name": "成全",
           "artist": "江辰",
           "trend": "flat"
         },
         {
-          "rank": 7,
+          "rank": 3,
+          "name": "九张机",
+          "artist": "叶炫清",
+          "trend": "flat"
+        },
+        {
+          "rank": 4,
           "name": "lonelyxmas",
           "artist": "游客j6jsy",
           "trend": "flat"
         },
         {
+          "rank": 5,
+          "name": "泣",
+          "artist": "SASIOVERLXRD",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
+          "name": "污点证人 (Live)",
+          "artist": "薛之谦",
+          "trend": "flat"
+        },
+        {
+          "rank": 7,
+          "name": "二十几",
+          "artist": "L13",
+          "trend": "flat"
+        },
+        {
           "rank": 8,
-          "name": "1000 winters",
-          "artist": "小北LinY",
+          "name": "死神在揣着玫瑰",
+          "artist": "金金金金金",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "目民",
-          "artist": "郑润泽",
+          "name": "季候风1997",
+          "artist": "曾舜晞",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "time machine (feat. aren park)",
-          "artist": "mj apanay/aren park",
+          "name": "北方 我不想你",
+          "artist": "Rhett",
           "trend": "flat"
         }
       ]
@@ -361,8 +361,8 @@
         },
         {
           "rank": 3,
-          "name": "慌啥子嘛",
-          "artist": "赵本山",
+          "name": "污点证人 (Live)",
+          "artist": "薛之谦",
           "trend": "flat"
         },
         {
@@ -373,38 +373,38 @@
         },
         {
           "rank": 5,
+          "name": "慌啥子嘛",
+          "artist": "赵本山",
+          "trend": "flat"
+        },
+        {
+          "rank": 6,
           "name": "无 意",
           "artist": "加木/Demxntia",
           "trend": "flat"
         },
         {
-          "rank": 6,
-          "name": "污点证人 (Live)",
-          "artist": "薛之谦",
-          "trend": "flat"
-        },
-        {
           "rank": 7,
-          "name": "烂奇迹(不小心惹了上帝)",
-          "artist": "杨羊烊",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
           "name": "你的不经意",
           "artist": "Fozik佛子克",
           "trend": "flat"
         },
         {
-          "rank": 9,
+          "rank": 8,
           "name": "雪化作泪滴 (Old Tape)",
           "artist": "Cheeze/Trazzy/雾明",
           "trend": "flat"
         },
         {
+          "rank": 9,
+          "name": "烂奇迹(不小心惹了上帝)",
+          "artist": "杨羊烊",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "Kiss My Soul (I want you kiss kiss)",
-          "artist": "Viik潘唯奇",
+          "name": "成全",
+          "artist": "江辰",
           "trend": "flat"
         }
       ]
@@ -423,20 +423,20 @@
         },
         {
           "rank": 2,
-          "name": "天龙八部之宿敌",
-          "artist": "许嵩",
+          "name": "我不难过",
+          "artist": "孙燕姿",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "于是",
+          "name": "如果呢",
           "artist": "郑润泽",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "我不难过",
-          "artist": "孙燕姿",
+          "name": "99",
+          "artist": "TizzyT",
           "trend": "flat"
         },
         {
@@ -447,32 +447,32 @@
         },
         {
           "rank": 6,
-          "name": "Violet",
-          "artist": "郑润泽",
+          "name": "明知故犯",
+          "artist": "Max李玄",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "99",
-          "artist": "TizzyT",
-          "trend": "flat"
-        },
-        {
-          "rank": 8,
-          "name": "冬天又来临",
-          "artist": "罗言",
-          "trend": "flat"
-        },
-        {
-          "rank": 9,
           "name": "茉茉",
           "artist": "Nzwin 黄跃成",
           "trend": "flat"
         },
         {
+          "rank": 8,
+          "name": "天龙八部之宿敌",
+          "artist": "许嵩",
+          "trend": "flat"
+        },
+        {
+          "rank": 9,
+          "name": "冬天又来临",
+          "artist": "罗言",
+          "trend": "flat"
+        },
+        {
           "rank": 10,
-          "name": "罗生门（Follow）",
-          "artist": "梨冻紧/Wiz_H张子豪",
+          "name": "恋人",
+          "artist": "李荣浩",
           "trend": "flat"
         }
       ]
@@ -485,61 +485,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "薛之谦 - 污点证人 (Live)",
+          "name": "灿哥 - 窝囊的前半生 (冷崩以冷崩)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "刘宇宁 - 如果我拥有一座花园 (Live)",
+          "name": "蓝心雨 - 窗外的泪光 (深情版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "高卿尘Nine - 百分百喜欢",
+          "name": "黄星 - Peekaboo躲猫猫",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "毛不易 - 最熟悉的陌生人 (Live)",
+          "name": "时代少年团 - 宿命之外",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "任贤齐、徐洁儿、陈楚生、万妮达Vinida Weng、毛不易、欧阳娜娜...",
+          "name": "陈日春 - 随他说去吧",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "周深 - 老牛 (Live)",
+          "name": "张远 - 晚风",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "王长贵 - 离时愁 (哈尔滨大爷版)",
+          "name": "吉克隽逸 - 我走我走",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "赵紫骅 - 一滴泪的时间 (R)",
+          "name": "陈兴 - 这一次我又让你难过",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "徐佳莹 - 一样的月光",
+          "name": "刘阳阳 - 那个昨天",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "戚薇 - 如果爱忘了",
+          "name": "丁当 - 无言处",
           "artist": "",
           "trend": "flat"
         }
@@ -571,25 +571,25 @@
         },
         {
           "rank": 4,
-          "name": "G.E.M.邓紫棋 - 任天堂",
+          "name": "薛之谦 - 污点证人 (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "杨羊烊 - 烂奇迹 (不小心惹了上帝)",
+          "name": "马里奥 - 主角",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "mj apanay、aren park - time machine (feat. aren park)(Origi...",
+          "name": "许嵩 - 天龙八部之宿敌",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "许嵩 - 天龙八部之宿敌",
+          "name": "杨羊烊 - 烂奇迹 (不小心惹了上帝)",
           "artist": "",
           "trend": "flat"
         },
@@ -601,13 +601,13 @@
         },
         {
           "rank": 9,
-          "name": "z阿康 - 北京没有你",
+          "name": "mj apanay、aren park - time machine (feat. aren park)(Origi...",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "孙燕姿 - 我不难过",
+          "name": "山野葫芦 - 你走以后我才敢说爱你",
           "artist": "",
           "trend": "flat"
         }
@@ -645,13 +645,13 @@
         },
         {
           "rank": 5,
-          "name": "伯爵Johnny、唐伯虎Annie - 西厢寻他",
+          "name": "DJ筱轩 - 游京 (奋斗进行曲)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "虎二 - 跨不过的距离",
+          "name": "伯爵Johnny、唐伯虎Annie - 西厢寻他",
           "artist": "",
           "trend": "flat"
         },
@@ -689,61 +689,61 @@
       "songs": [
         {
           "rank": 1,
-          "name": "鱼先声 - 爱像是突如其来的大雨",
+          "name": "UM、只是情绪交织 - 窒息痛感",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 2,
-          "name": "小阿青 - 人生除了生死其他都是擦伤",
+          "name": "鱼先声 - 爱像是突如其来的大雨",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 3,
-          "name": "杨国鹏 - 下次见",
+          "name": "张小辉 - 匆匆流年有几分遗憾",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 4,
-          "name": "卯都阿旭 - 默契的沉默",
+          "name": "耳朵驿站 - Sacred Play Secret Place (纯音乐)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 5,
-          "name": "hyuz - 丁香结",
+          "name": "耳朵不打样 - 牵丝戏 (笛子纯音乐)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 6,
-          "name": "Beat铺子、DJ-798 - 雨街上路人三三两两 (落笔)",
+          "name": "蒲佳雯 - 只能",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 7,
-          "name": "沐可儿 - 乱了分寸",
+          "name": "EXO - 늑대와미녀 (Wolf) (Live)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 8,
-          "name": "顾奈Ya - 圣诞快乐劳伦斯先生 (演奏版)",
+          "name": "LYn - ...사랑했잖아... (...不是相爱吗...)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 9,
-          "name": "SSXENO - 4109 (Explicit)",
+          "name": "刘德华 - 美丽的回忆 (普通话版)",
           "artist": "",
           "trend": "flat"
         },
         {
           "rank": 10,
-          "name": "小柔Seeus - 唱别久悲不成悲 (顶级纯音乐旋律)",
+          "name": "Beat铺子、DJ-798 - 雨街上路人三三两两 (落笔)",
           "artist": "",
           "trend": "flat"
         }
@@ -751,6 +751,48 @@
     }
   ],
   "cross": [
+    {
+      "name": "time machine (feat. aren park)",
+      "artist": "mj apanay/aren park",
+      "tags": [
+        {
+          "label": "QQ音樂#5",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#7",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#7",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#5",
+          "c": "tag-green"
+        }
+      ],
+      "count": 4
+    },
+    {
+      "name": "宿命之外",
+      "artist": "时代少年团",
+      "tags": [
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        },
+        {
+          "label": "QQ音樂#1",
+          "c": "tag-blue"
+        }
+      ],
+      "count": 3
+    },
     {
       "name": "污点证人 (Live)",
       "artist": "薛之谦",
@@ -760,57 +802,22 @@
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#7",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#1",
-          "c": "tag-green"
-        },
-        {
           "label": "網易雲#6",
           "c": "tag-green"
-        }
-      ],
-      "count": 5
-    },
-    {
-      "name": "time machine (feat. aren park)",
-      "artist": "mj apanay/aren park",
-      "tags": [
-        {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#7",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#10",
-          "c": "tag-green"
-        },
-        {
-          "label": "網易雲#5",
+          "label": "網易雲#3",
           "c": "tag-green"
         }
       ],
-      "count": 5
+      "count": 3
     },
     {
       "name": "天龙八部之宿敌",
       "artist": "许嵩",
       "tags": [
         {
-          "label": "QQ音樂#4",
+          "label": "QQ音樂#5",
           "c": "tag-blue"
         },
         {
@@ -818,56 +825,18 @@
           "c": "tag-blue"
         },
         {
-          "label": "QQ音樂#10",
-          "c": "tag-blue"
-        },
-        {
-          "label": "網易雲#2",
+          "label": "網易雲#8",
           "c": "tag-green"
-        }
-      ],
-      "count": 4
-    },
-    {
-      "name": "如果我拥有一座花园 (Live)",
-      "artist": "刘宇宁",
-      "tags": [
-        {
-          "label": "QQ音樂#8",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#2",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#4",
-          "c": "tag-blue"
         }
       ],
       "count": 3
     },
     {
-      "name": "慌啥子嘛 (赵本山版)",
-      "artist": "赵本山",
+      "name": "Love Love Love (Live)",
+      "artist": "刘耀文",
       "tags": [
         {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        },
-        {
-          "label": "QQ音樂#1",
-          "c": "tag-blue"
-        }
-      ],
-      "count": 2
-    },
-    {
-      "name": "GiiiRIP",
-      "artist": "BIGBANG (빅뱅)",
-      "tags": [
-        {
-          "label": "QQ音樂#10",
+          "label": "QQ音樂#3",
           "c": "tag-blue"
         },
         {
@@ -882,12 +851,27 @@
       "artist": "孙燕姿",
       "tags": [
         {
+          "label": "QQ音樂#4",
+          "c": "tag-blue"
+        },
+        {
+          "label": "網易雲#2",
+          "c": "tag-green"
+        }
+      ],
+      "count": 2
+    },
+    {
+      "name": "主角",
+      "artist": "马里奥",
+      "tags": [
+        {
           "label": "QQ音樂#6",
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#4",
-          "c": "tag-green"
+          "label": "QQ音樂#3",
+          "c": "tag-blue"
         }
       ],
       "count": 2
@@ -897,7 +881,7 @@
       "artist": "薛之谦",
       "tags": [
         {
-          "label": "QQ音樂#8",
+          "label": "QQ音樂#9",
           "c": "tag-blue"
         },
         {
@@ -916,23 +900,23 @@
           "c": "tag-blue"
         },
         {
-          "label": "網易雲#3",
+          "label": "網易雲#5",
           "c": "tag-green"
         }
       ],
       "count": 2
     },
     {
-      "name": "晴天",
-      "artist": "周杰伦",
+      "name": "成全",
+      "artist": "江辰",
       "tags": [
         {
-          "label": "QQ音樂#3",
-          "c": "tag-blue"
+          "label": "網易雲#2",
+          "c": "tag-green"
         },
         {
-          "label": "QQ音樂#9",
-          "c": "tag-blue"
+          "label": "網易雲#10",
+          "c": "tag-green"
         }
       ],
       "count": 2
